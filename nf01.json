@@ -1,0 +1,4429 @@
+{
+  "entries": [
+    {
+      "id": 1153930,
+      "kanji": "安全",
+      "readings": "あんぜん",
+      "meanings": [
+        "safety",
+        "security"
+      ]
+    },
+    {
+      "id": 1154260,
+      "kanji": "安保",
+      "readings": "あんぽ",
+      "meanings": [
+        "security (e.g. national security)",
+        "US-Japan Security Treaty"
+      ]
+    },
+    {
+      "id": 1155210,
+      "kanji": "以来",
+      "readings": "いらい",
+      "meanings": [
+        "since",
+        "henceforth"
+      ]
+    },
+    {
+      "id": 1156100,
+      "kanji": "委員",
+      "readings": "いいん",
+      "meanings": [
+        "committee member"
+      ]
+    },
+    {
+      "id": 1156110,
+      "kanji": "委員会",
+      "readings": "いいんかい",
+      "meanings": [
+        "committee",
+        "commission"
+      ]
+    },
+    {
+      "id": 1156120,
+      "kanji": "委員長",
+      "readings": "いいんちょう",
+      "meanings": [
+        "chairperson (of a committee)",
+        "chair"
+      ]
+    },
+    {
+      "id": 1156530,
+      "kanji": "意見",
+      "readings": "いけん",
+      "meanings": [
+        "opinion",
+        "view"
+      ]
+    },
+    {
+      "id": 1156800,
+      "kanji": "意味",
+      "readings": "いみ",
+      "meanings": [
+        "meaning",
+        "significance"
+      ]
+    },
+    {
+      "id": 1158450,
+      "kanji": "維持",
+      "readings": "いじ",
+      "meanings": [
+        "maintenance",
+        "preservation"
+      ]
+    },
+    {
+      "id": 1158950,
+      "kanji": "違反",
+      "readings": "いはん",
+      "meanings": [
+        "violation",
+        "offense"
+      ]
+    },
+    {
+      "id": 1160140,
+      "kanji": "医療",
+      "readings": "いりょう",
+      "meanings": [
+        "medical treatment",
+        "medical care"
+      ]
+    },
+    {
+      "id": 1160820,
+      "kanji": "一つ",
+      "readings": "ひとつ",
+      "meanings": [
+        "one",
+        "for one thing"
+      ]
+    },
+    {
+      "id": 1162120,
+      "kanji": "１月",
+      "readings": "いちがつ",
+      "meanings": [
+        "January",
+        "first month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1165790,
+      "kanji": "一般",
+      "readings": "いっぱん",
+      "meanings": [
+        "general",
+        "universal"
+      ]
+    },
+    {
+      "id": 1165970,
+      "kanji": "一番",
+      "readings": "いちばん",
+      "meanings": [
+        "number one",
+        "first"
+      ]
+    },
+    {
+      "id": 1166180,
+      "kanji": "一部",
+      "readings": "いちぶ",
+      "meanings": [
+        "one part",
+        "one portion"
+      ]
+    },
+    {
+      "id": 1166510,
+      "kanji": "一方",
+      "readings": "いっぽう",
+      "meanings": [
+        "one (esp. of two)",
+        "the other"
+      ]
+    },
+    {
+      "id": 1171010,
+      "kanji": "右",
+      "readings": "みぎ",
+      "meanings": [
+        "right",
+        "right-hand side"
+      ]
+    },
+    {
+      "id": 1172910,
+      "kanji": "運動",
+      "readings": "うんどう",
+      "meanings": [
+        "exercise",
+        "physical training"
+      ]
+    },
+    {
+      "id": 1173660,
+      "kanji": "影響",
+      "readings": "えいきょう",
+      "meanings": [
+        "influence",
+        "effect"
+      ]
+    },
+    {
+      "id": 1173720,
+      "kanji": "映画",
+      "readings": "えいが",
+      "meanings": [
+        "movie",
+        "film"
+      ]
+    },
+    {
+      "id": 1176660,
+      "kanji": "援助",
+      "readings": "えんじょ",
+      "meanings": [
+        "assistance",
+        "aid"
+      ]
+    },
+    {
+      "id": 1181190,
+      "kanji": "欧州",
+      "readings": "おうしゅう",
+      "meanings": [
+        "Europe"
+      ]
+    },
+    {
+      "id": 1183720,
+      "kanji": "音楽",
+      "readings": "おんがく",
+      "meanings": [
+        "music"
+      ]
+    },
+    {
+      "id": 1189500,
+      "kanji": "価格",
+      "readings": "かかく",
+      "meanings": [
+        "price",
+        "value"
+      ]
+    },
+    {
+      "id": 1190580,
+      "kanji": "加盟",
+      "readings": "かめい",
+      "meanings": [
+        "joining (an association, agreement, etc.)",
+        "participation"
+      ]
+    },
+    {
+      "id": 1191060,
+      "kanji": "可能",
+      "readings": "かのう",
+      "meanings": [
+        "possible",
+        "potential"
+      ]
+    },
+    {
+      "id": 1191080,
+      "kanji": "可能性",
+      "readings": "かのうせい",
+      "meanings": [
+        "potentiality",
+        "likelihood"
+      ]
+    },
+    {
+      "id": 1191320,
+      "kanji": "夏",
+      "readings": "なつ",
+      "meanings": [
+        "summer"
+      ]
+    },
+    {
+      "id": 1192150,
+      "kanji": "家族",
+      "readings": "かぞく",
+      "meanings": [
+        "family"
+      ]
+    },
+    {
+      "id": 1192280,
+      "kanji": "家庭",
+      "readings": "かてい",
+      "meanings": [
+        "home",
+        "household"
+      ]
+    },
+    {
+      "id": 1194500,
+      "kanji": "花",
+      "readings": "はな",
+      "meanings": [
+        "flower",
+        "blossom"
+      ]
+    },
+    {
+      "id": 1195820,
+      "kanji": "課題",
+      "readings": "かだい",
+      "meanings": [
+        "subject",
+        "theme"
+      ]
+    },
+    {
+      "id": 1196030,
+      "kanji": "過去",
+      "readings": "かこ",
+      "meanings": [
+        "the past",
+        "bygone days"
+      ]
+    },
+    {
+      "id": 1198230,
+      "kanji": "会員",
+      "readings": "かいいん",
+      "meanings": [
+        "member",
+        "the membership"
+      ]
+    },
+    {
+      "id": 1198360,
+      "kanji": "会議",
+      "readings": "かいぎ",
+      "meanings": [
+        "meeting",
+        "conference"
+      ]
+    },
+    {
+      "id": 1198500,
+      "kanji": "会見",
+      "readings": "かいけん",
+      "meanings": [
+        "interview",
+        "audience"
+      ]
+    },
+    {
+      "id": 1198550,
+      "kanji": "会社",
+      "readings": "かいしゃ",
+      "meanings": [
+        "company",
+        "corporation"
+      ]
+    },
+    {
+      "id": 1198760,
+      "kanji": "会談",
+      "readings": "かいだん",
+      "meanings": [
+        "talks (i.e. formal discussions)",
+        "conference"
+      ]
+    },
+    {
+      "id": 1198770,
+      "kanji": "会長",
+      "readings": "かいちょう",
+      "meanings": [
+        "president (of a society)",
+        "chairman"
+      ]
+    },
+    {
+      "id": 1198960,
+      "kanji": "解決",
+      "readings": "かいけつ",
+      "meanings": [
+        "settlement",
+        "solution"
+      ]
+    },
+    {
+      "id": 1199720,
+      "kanji": "回復",
+      "readings": "かいふく",
+      "meanings": [
+        "restoration",
+        "recovery"
+      ]
+    },
+    {
+      "id": 1200780,
+      "kanji": "改革",
+      "readings": "かいかく",
+      "meanings": [
+        "reform",
+        "reformation"
+      ]
+    },
+    {
+      "id": 1200930,
+      "kanji": "改正",
+      "readings": "かいせい",
+      "meanings": [
+        "revision",
+        "amendment"
+      ]
+    },
+    {
+      "id": 1201260,
+      "kanji": "海外",
+      "readings": "かいがい",
+      "meanings": [
+        "foreign",
+        "abroad"
+      ]
+    },
+    {
+      "id": 1202880,
+      "kanji": "開発",
+      "readings": "かいはつ",
+      "meanings": [
+        "development",
+        "exploitation (of resources)"
+      ]
+    },
+    {
+      "id": 1203540,
+      "kanji": "外交",
+      "readings": "がいこう",
+      "meanings": [
+        "diplomacy",
+        "selling (e.g. door-to-door)"
+      ]
+    },
+    {
+      "id": 1203620,
+      "kanji": "外国",
+      "readings": "がいこく",
+      "meanings": [
+        "foreign country"
+      ]
+    },
+    {
+      "id": 1203650,
+      "kanji": "外国人",
+      "readings": "がいこくじん",
+      "meanings": [
+        "foreigner",
+        "foreign citizen"
+      ]
+    },
+    {
+      "id": 1203940,
+      "kanji": "外相",
+      "readings": "がいしょう",
+      "meanings": [
+        "Foreign Minister"
+      ]
+    },
+    {
+      "id": 1204140,
+      "kanji": "外務省",
+      "readings": "がいむしょう",
+      "meanings": [
+        "Ministry of Foreign Affairs"
+      ]
+    },
+    {
+      "id": 1205200,
+      "kanji": "拡大",
+      "readings": "かくだい",
+      "meanings": [
+        "expansion",
+        "extension"
+      ]
+    },
+    {
+      "id": 1206310,
+      "kanji": "閣僚",
+      "readings": "かくりょう",
+      "meanings": [
+        "cabinet ministers"
+      ]
+    },
+    {
+      "id": 1206730,
+      "kanji": "学校",
+      "readings": "がっこう",
+      "meanings": [
+        "school"
+      ]
+    },
+    {
+      "id": 1206900,
+      "kanji": "学生",
+      "readings": "がくせい",
+      "meanings": [
+        "student (esp. a university student)"
+      ]
+    },
+    {
+      "id": 1208360,
+      "kanji": "活動",
+      "readings": "かつどう",
+      "meanings": [
+        "activity (of a person, organization, animal, volcano, etc.)",
+        "action"
+      ]
+    },
+    {
+      "id": 1208970,
+      "kanji": "株式",
+      "readings": "かぶしき",
+      "meanings": [
+        "share (in a company)",
+        "stock"
+      ]
+    },
+    {
+      "id": 1212110,
+      "kanji": "幹事",
+      "readings": "かんじ",
+      "meanings": [
+        "executive secretary",
+        "coordinator"
+      ]
+    },
+    {
+      "id": 1212170,
+      "kanji": "幹部",
+      "readings": "かんぶ",
+      "meanings": [
+        "management",
+        "(executive) staff"
+      ]
+    },
+    {
+      "id": 1212210,
+      "kanji": "患者",
+      "readings": "かんじゃ",
+      "meanings": [
+        "patient"
+      ]
+    },
+    {
+      "id": 1213280,
+      "kanji": "環境",
+      "readings": "かんきょう",
+      "meanings": [
+        "environment",
+        "surroundings"
+      ]
+    },
+    {
+      "id": 1213720,
+      "kanji": "監督",
+      "readings": "かんとく",
+      "meanings": [
+        "supervision",
+        "control"
+      ]
+    },
+    {
+      "id": 1214200,
+      "kanji": "管理",
+      "readings": "かんり",
+      "meanings": [
+        "control",
+        "management (e.g. of a business)"
+      ]
+    },
+    {
+      "id": 1215810,
+      "kanji": "関係",
+      "readings": "かんけい",
+      "meanings": [
+        "relation",
+        "relationship"
+      ]
+    },
+    {
+      "id": 1215850,
+      "kanji": "関係者",
+      "readings": "かんけいしゃ",
+      "meanings": [
+        "person concerned",
+        "people involved (in an event)"
+      ]
+    },
+    {
+      "id": 1215870,
+      "kanji": "関心",
+      "readings": "かんしん",
+      "meanings": [
+        "concern",
+        "interest"
+      ]
+    },
+    {
+      "id": 1216060,
+      "kanji": "関連",
+      "readings": "かんれん",
+      "meanings": [
+        "relation",
+        "connection"
+      ]
+    },
+    {
+      "id": 1216170,
+      "kanji": "韓国",
+      "readings": "かんこく",
+      "meanings": [
+        "South Korea",
+        "Republic of Korea"
+      ]
+    },
+    {
+      "id": 1217730,
+      "kanji": "顔",
+      "readings": "かお",
+      "meanings": [
+        "face",
+        "visage"
+      ]
+    },
+    {
+      "id": 1218190,
+      "kanji": "企業",
+      "readings": "きぎょう",
+      "meanings": [
+        "enterprise",
+        "business"
+      ]
+    },
+    {
+      "id": 1218450,
+      "kanji": "危機",
+      "readings": "きき",
+      "meanings": [
+        "crisis",
+        "critical situation"
+      ]
+    },
+    {
+      "id": 1219190,
+      "kanji": "基本",
+      "readings": "きほん",
+      "meanings": [
+        "basics",
+        "fundamentals"
+      ]
+    },
+    {
+      "id": 1220550,
+      "kanji": "期間",
+      "readings": "きかん",
+      "meanings": [
+        "period",
+        "term"
+      ]
+    },
+    {
+      "id": 1220570,
+      "kanji": "期待",
+      "readings": "きたい",
+      "meanings": [
+        "expectation",
+        "anticipation"
+      ]
+    },
+    {
+      "id": 1220870,
+      "kanji": "機関",
+      "readings": "きかん",
+      "meanings": [
+        "engine",
+        "agency"
+      ]
+    },
+    {
+      "id": 1220940,
+      "kanji": "機構",
+      "readings": "きこう",
+      "meanings": [
+        "mechanism",
+        "machinery"
+      ]
+    },
+    {
+      "id": 1221130,
+      "kanji": "機能",
+      "readings": "きのう",
+      "meanings": [
+        "function",
+        "facility"
+      ]
+    },
+    {
+      "id": 1221520,
+      "kanji": "気",
+      "readings": "き",
+      "meanings": [
+        "spirit",
+        "mind"
+      ]
+    },
+    {
+      "id": 1223010,
+      "kanji": "規制",
+      "readings": "きせい",
+      "meanings": [
+        "regulation",
+        "(traffic) policing"
+      ]
+    },
+    {
+      "id": 1223090,
+      "kanji": "規模",
+      "readings": "きぼ",
+      "meanings": [
+        "scale",
+        "scope"
+      ]
+    },
+    {
+      "id": 1223240,
+      "kanji": "記事",
+      "readings": "きじ",
+      "meanings": [
+        "article",
+        "news story"
+      ]
+    },
+    {
+      "id": 1223250,
+      "kanji": "記者",
+      "readings": "きしゃ",
+      "meanings": [
+        "reporter",
+        "journalist"
+      ]
+    },
+    {
+      "id": 1223440,
+      "kanji": "記録",
+      "readings": "きろく",
+      "meanings": [
+        "record",
+        "document"
+      ]
+    },
+    {
+      "id": 1225130,
+      "kanji": "技術",
+      "readings": "ぎじゅつ",
+      "meanings": [
+        "technology",
+        "engineering"
+      ]
+    },
+    {
+      "id": 1225490,
+      "kanji": "疑い",
+      "readings": "うたがい",
+      "meanings": [
+        "doubt",
+        "question"
+      ]
+    },
+    {
+      "id": 1226020,
+      "kanji": "議員",
+      "readings": "ぎいん",
+      "meanings": [
+        "member of an assembly",
+        "member of the Diet"
+      ]
+    },
+    {
+      "id": 1226040,
+      "kanji": "議会",
+      "readings": "ぎかい",
+      "meanings": [
+        "congress",
+        "parliament"
+      ]
+    },
+    {
+      "id": 1226140,
+      "kanji": "議長",
+      "readings": "ぎちょう",
+      "meanings": [
+        "chair",
+        "chairman"
+      ]
+    },
+    {
+      "id": 1226630,
+      "kanji": "客",
+      "readings": "きゃく",
+      "meanings": [
+        "guest",
+        "visitor"
+      ]
+    },
+    {
+      "id": 1234550,
+      "kanji": "共産党",
+      "readings": "きょうさんとう",
+      "meanings": [
+        "Communist Party"
+      ]
+    },
+    {
+      "id": 1235550,
+      "kanji": "協会",
+      "readings": "きょうかい",
+      "meanings": [
+        "association",
+        "society"
+      ]
+    },
+    {
+      "id": 1235570,
+      "kanji": "協議",
+      "readings": "きょうぎ",
+      "meanings": [
+        "conference",
+        "consultation"
+      ]
+    },
+    {
+      "id": 1235730,
+      "kanji": "協定",
+      "readings": "きょうてい",
+      "meanings": [
+        "arrangement",
+        "pact"
+      ]
+    },
+    {
+      "id": 1236200,
+      "kanji": "強化",
+      "readings": "きょうか",
+      "meanings": [
+        "strengthening",
+        "intensifying"
+      ]
+    },
+    {
+      "id": 1236950,
+      "kanji": "教育",
+      "readings": "きょういく",
+      "meanings": [
+        "education",
+        "schooling"
+      ]
+    },
+    {
+      "id": 1237160,
+      "kanji": "教授",
+      "readings": "きょうじゅ",
+      "meanings": [
+        "professor",
+        "teaching"
+      ]
+    },
+    {
+      "id": 1239380,
+      "kanji": "業界",
+      "readings": "ぎょうかい",
+      "meanings": [
+        "business world",
+        "business circles"
+      ]
+    },
+    {
+      "id": 1239440,
+      "kanji": "業者",
+      "readings": "ぎょうしゃ",
+      "meanings": [
+        "trader",
+        "dealer"
+      ]
+    },
+    {
+      "id": 1241750,
+      "kanji": "筋",
+      "readings": "すじ",
+      "meanings": [
+        "muscle",
+        "tendon"
+      ]
+    },
+    {
+      "id": 1243290,
+      "kanji": "金融",
+      "readings": "きんゆう",
+      "meanings": [
+        "finance",
+        "financing"
+      ]
+    },
+    {
+      "id": 1243330,
+      "kanji": "金利",
+      "readings": "きんり",
+      "meanings": [
+        "interest rate",
+        "interest"
+      ]
+    },
+    {
+      "id": 1243490,
+      "kanji": "銀行",
+      "readings": "ぎんこう",
+      "meanings": [
+        "bank",
+        "banking institution"
+      ]
+    },
+    {
+      "id": 1243660,
+      "kanji": "９月",
+      "readings": "くがつ",
+      "meanings": [
+        "September",
+        "ninth month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1245050,
+      "kanji": "具体的",
+      "readings": "ぐたいてき",
+      "meanings": [
+        "concrete",
+        "definite"
+      ]
+    },
+    {
+      "id": 1245570,
+      "kanji": "空港",
+      "readings": "くうこう",
+      "meanings": [
+        "airport"
+      ]
+    },
+    {
+      "id": 1248080,
+      "kanji": "軍事",
+      "readings": "ぐんじ",
+      "meanings": [
+        "military affairs"
+      ]
+    },
+    {
+      "id": 1250190,
+      "kanji": "契約",
+      "readings": "けいやく",
+      "meanings": [
+        "contract",
+        "compact"
+      ]
+    },
+    {
+      "id": 1250220,
+      "kanji": "形",
+      "readings": "かたち",
+      "meanings": [
+        "form",
+        "shape"
+      ]
+    },
+    {
+      "id": 1250830,
+      "kanji": "景気",
+      "readings": "けいき",
+      "meanings": [
+        "business conditions",
+        "the market"
+      ]
+    },
+    {
+      "id": 1251130,
+      "kanji": "経営",
+      "readings": "けいえい",
+      "meanings": [
+        "management",
+        "administration"
+      ]
+    },
+    {
+      "id": 1251320,
+      "kanji": "経済",
+      "readings": "けいざい",
+      "meanings": [
+        "economy",
+        "economics"
+      ]
+    },
+    {
+      "id": 1252090,
+      "kanji": "計画",
+      "readings": "けいかく",
+      "meanings": [
+        "plan",
+        "project"
+      ]
+    },
+    {
+      "id": 1252390,
+      "kanji": "警察",
+      "readings": "けいさつ",
+      "meanings": [
+        "police",
+        "police officer"
+      ]
+    },
+    {
+      "id": 1254240,
+      "kanji": "決議",
+      "readings": "けつぎ",
+      "meanings": [
+        "resolution",
+        "vote"
+      ]
+    },
+    {
+      "id": 1254380,
+      "kanji": "決定",
+      "readings": "けってい",
+      "meanings": [
+        "decision",
+        "determination"
+      ]
+    },
+    {
+      "id": 1254690,
+      "kanji": "結果",
+      "readings": "けっか",
+      "meanings": [
+        "result",
+        "consequence"
+      ]
+    },
+    {
+      "id": 1257420,
+      "kanji": "建設",
+      "readings": "けんせつ",
+      "meanings": [
+        "construction",
+        "establishment"
+      ]
+    },
+    {
+      "id": 1257590,
+      "kanji": "憲法",
+      "readings": "けんぽう",
+      "meanings": [
+        "constitution",
+        "rules"
+      ]
+    },
+    {
+      "id": 1258420,
+      "kanji": "献金",
+      "readings": "けんきん",
+      "meanings": [
+        "donation",
+        "contribution"
+      ]
+    },
+    {
+      "id": 1258520,
+      "kanji": "研究",
+      "readings": "けんきゅう",
+      "meanings": [
+        "research",
+        "study"
+      ]
+    },
+    {
+      "id": 1259890,
+      "kanji": "見直し",
+      "readings": "みなおし",
+      "meanings": [
+        "review",
+        "reconsideration"
+      ]
+    },
+    {
+      "id": 1260070,
+      "kanji": "見方",
+      "readings": "みかた",
+      "meanings": [
+        "viewpoint",
+        "point of view"
+      ]
+    },
+    {
+      "id": 1261190,
+      "kanji": "原因",
+      "readings": "げんいん",
+      "meanings": [
+        "cause",
+        "origin"
+      ]
+    },
+    {
+      "id": 1262070,
+      "kanji": "原則",
+      "readings": "げんそく",
+      "meanings": [
+        "principle",
+        "general rule"
+      ]
+    },
+    {
+      "id": 1263650,
+      "kanji": "現在",
+      "readings": "げんざい",
+      "meanings": [
+        "the present",
+        "present time"
+      ]
+    },
+    {
+      "id": 1263710,
+      "kanji": "現実",
+      "readings": "げんじつ",
+      "meanings": [
+        "reality",
+        "actuality"
+      ]
+    },
+    {
+      "id": 1263760,
+      "kanji": "現場",
+      "readings": "げんば",
+      "meanings": [
+        "actual spot",
+        "scene (of a crime, accident, etc.)"
+      ]
+    },
+    {
+      "id": 1263860,
+      "kanji": "現地",
+      "readings": "げんち",
+      "meanings": [
+        "actual place",
+        "actual location"
+      ]
+    },
+    {
+      "id": 1264380,
+      "kanji": "言わば",
+      "readings": "いわば",
+      "meanings": [
+        "so to speak",
+        "so to call it"
+      ]
+    },
+    {
+      "id": 1264540,
+      "kanji": "言葉",
+      "readings": "ことば",
+      "meanings": [
+        "language",
+        "dialect"
+      ]
+    },
+    {
+      "id": 1264770,
+      "kanji": "個人",
+      "readings": "こじん",
+      "meanings": [
+        "individual",
+        "private person"
+      ]
+    },
+    {
+      "id": 1268060,
+      "kanji": "五",
+      "readings": "ご",
+      "meanings": [
+        "five",
+        "5"
+      ]
+    },
+    {
+      "id": 1268170,
+      "kanji": "５月",
+      "readings": "ごがつ",
+      "meanings": [
+        "May",
+        "fifth month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1268990,
+      "kanji": "午後",
+      "readings": "ごご",
+      "meanings": [
+        "afternoon",
+        "p.m."
+      ]
+    },
+    {
+      "id": 1269060,
+      "kanji": "午前",
+      "readings": "ごぜん",
+      "meanings": [
+        "morning",
+        "a.m."
+      ]
+    },
+    {
+      "id": 1269320,
+      "kanji": "後",
+      "readings": "あと",
+      "meanings": [
+        "behind",
+        "rear"
+      ]
+    },
+    {
+      "id": 1272110,
+      "kanji": "交渉",
+      "readings": "こうしょう",
+      "meanings": [
+        "negotiations",
+        "bargaining"
+      ]
+    },
+    {
+      "id": 1272580,
+      "kanji": "交流",
+      "readings": "こうりゅう",
+      "meanings": [
+        "exchange (e.g. cultural)",
+        "interchange"
+      ]
+    },
+    {
+      "id": 1272730,
+      "kanji": "候補",
+      "readings": "こうほ",
+      "meanings": [
+        "candidate",
+        "contender"
+      ]
+    },
+    {
+      "id": 1272780,
+      "kanji": "光",
+      "readings": "ひかり",
+      "meanings": [
+        "light",
+        "illumination"
+      ]
+    },
+    {
+      "id": 1275130,
+      "kanji": "効果",
+      "readings": "こうか",
+      "meanings": [
+        "effect",
+        "effectiveness"
+      ]
+    },
+    {
+      "id": 1279170,
+      "kanji": "攻撃",
+      "readings": "こうげき",
+      "meanings": [
+        "attack",
+        "assault"
+      ]
+    },
+    {
+      "id": 1279790,
+      "kanji": "構造",
+      "readings": "こうぞう",
+      "meanings": [
+        "structure",
+        "construction"
+      ]
+    },
+    {
+      "id": 1281000,
+      "kanji": "考え",
+      "readings": "かんがえ",
+      "meanings": [
+        "thinking",
+        "thought"
+      ]
+    },
+    {
+      "id": 1282010,
+      "kanji": "行政",
+      "readings": "ぎょうせい",
+      "meanings": [
+        "executive",
+        "government"
+      ]
+    },
+    {
+      "id": 1282100,
+      "kanji": "行動",
+      "readings": "こうどう",
+      "meanings": [
+        "action",
+        "conduct"
+      ]
+    },
+    {
+      "id": 1283500,
+      "kanji": "高校",
+      "readings": "こうこう",
+      "meanings": [
+        "senior high school",
+        "high school"
+      ]
+    },
+    {
+      "id": 1284550,
+      "kanji": "合意",
+      "readings": "ごうい",
+      "meanings": [
+        "(coming to an) agreement",
+        "consent"
+      ]
+    },
+    {
+      "id": 1286080,
+      "kanji": "告別",
+      "readings": "こくべつ",
+      "meanings": [
+        "farewell",
+        "leave-taking"
+      ]
+    },
+    {
+      "id": 1286170,
+      "kanji": "国家",
+      "readings": "こっか",
+      "meanings": [
+        "state",
+        "country"
+      ]
+    },
+    {
+      "id": 1286240,
+      "kanji": "国会",
+      "readings": "こっかい",
+      "meanings": [
+        "National Diet",
+        {
+          "_g_type": "expl",
+          "__text": "legislative assembly of Japan (1947-)"
+        }
+      ]
+    },
+    {
+      "id": 1286400,
+      "kanji": "国際",
+      "readings": "こくさい",
+      "meanings": [
+        "international",
+        "diplomatic intercourse"
+      ]
+    },
+    {
+      "id": 1286930,
+      "kanji": "国内",
+      "readings": "こくない",
+      "meanings": [
+        "internal",
+        "domestic"
+      ]
+    },
+    {
+      "id": 1287070,
+      "kanji": "国民",
+      "readings": "こくみん",
+      "meanings": [
+        "people (of a country)",
+        "nation"
+      ]
+    },
+    {
+      "id": 1287210,
+      "kanji": "国連",
+      "readings": "こくれん",
+      "meanings": [
+        "United Nations",
+        "UN"
+      ]
+    },
+    {
+      "id": 1289070,
+      "kanji": "今回",
+      "readings": "こんかい",
+      "meanings": [
+        "this time",
+        "now"
+      ]
+    },
+    {
+      "id": 1289100,
+      "kanji": "今月",
+      "readings": "こんげつ",
+      "meanings": [
+        "this month"
+      ]
+    },
+    {
+      "id": 1289140,
+      "kanji": "今後",
+      "readings": "こんご",
+      "meanings": [
+        "from now on",
+        "hereafter"
+      ]
+    },
+    {
+      "id": 1290800,
+      "kanji": "左",
+      "readings": "ひだり",
+      "meanings": [
+        "left",
+        "left-hand side"
+      ]
+    },
+    {
+      "id": 1293700,
+      "kanji": "最も",
+      "readings": "もっとも",
+      "meanings": [
+        "most",
+        "extremely"
+      ]
+    },
+    {
+      "id": 1293780,
+      "kanji": "最近",
+      "readings": "さいきん",
+      "meanings": [
+        "recently",
+        "lately"
+      ]
+    },
+    {
+      "id": 1293810,
+      "kanji": "最後",
+      "readings": "さいご",
+      "meanings": [
+        "end",
+        "conclusion"
+      ]
+    },
+    {
+      "id": 1293850,
+      "kanji": "最高",
+      "readings": "さいこう",
+      "meanings": [
+        "best",
+        "supreme"
+      ]
+    },
+    {
+      "id": 1293940,
+      "kanji": "最終",
+      "readings": "さいしゅう",
+      "meanings": [
+        "last",
+        "final"
+      ]
+    },
+    {
+      "id": 1293990,
+      "kanji": "最初",
+      "readings": "さいしょ",
+      "meanings": [
+        "beginning",
+        "outset"
+      ]
+    },
+    {
+      "id": 1294180,
+      "kanji": "最大",
+      "readings": "さいだい",
+      "meanings": [
+        "biggest",
+        "greatest"
+      ]
+    },
+    {
+      "id": 1294330,
+      "kanji": "妻",
+      "readings": "つま",
+      "meanings": [
+        "wife",
+        "garnish (esp. one served with sashimi)"
+      ]
+    },
+    {
+      "id": 1296120,
+      "kanji": "裁判",
+      "readings": "さいばん",
+      "meanings": [
+        "trial",
+        "judgement"
+      ]
+    },
+    {
+      "id": 1296830,
+      "kanji": "財政",
+      "readings": "ざいせい",
+      "meanings": [
+        "public finance",
+        "financial affairs"
+      ]
+    },
+    {
+      "id": 1297540,
+      "kanji": "作業",
+      "readings": "さぎょう",
+      "meanings": [
+        "work",
+        "operation"
+      ]
+    },
+    {
+      "id": 1297910,
+      "kanji": "作品",
+      "readings": "さくひん",
+      "meanings": [
+        "work (e.g. book, film, painting, composition)",
+        "piece"
+      ]
+    },
+    {
+      "id": 1298110,
+      "kanji": "削減",
+      "readings": "さくげん",
+      "meanings": [
+        "cut",
+        "reduction"
+      ]
+    },
+    {
+      "id": 1298230,
+      "kanji": "昨年",
+      "readings": "さくねん",
+      "meanings": [
+        "last year"
+      ]
+    },
+    {
+      "id": 1300250,
+      "kanji": "３月",
+      "readings": "さんがつ",
+      "meanings": [
+        "March",
+        "third month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1301000,
+      "kanji": "三人",
+      "readings": "さんにん",
+      "meanings": [
+        "three people"
+      ]
+    },
+    {
+      "id": 1302080,
+      "kanji": "参院",
+      "readings": "さんいん",
+      "meanings": [
+        "House of Councillors (upper house of the National Diet of Japan)"
+      ]
+    },
+    {
+      "id": 1302090,
+      "kanji": "参加",
+      "readings": "さんか",
+      "meanings": [
+        "participation",
+        "joining"
+      ]
+    },
+    {
+      "id": 1303770,
+      "kanji": "産業",
+      "readings": "さんぎょう",
+      "meanings": [
+        "industry",
+        "livelihood"
+      ]
+    },
+    {
+      "id": 1304970,
+      "kanji": "仕事",
+      "readings": "しごと",
+      "meanings": [
+        "work",
+        "job"
+      ]
+    },
+    {
+      "id": 1307180,
+      "kanji": "４月",
+      "readings": "しがつ",
+      "meanings": [
+        "April",
+        "fourth month in the lunar calendar"
+      ]
+    },
+    {
+      "id": 1307710,
+      "kanji": "姿",
+      "readings": "すがた",
+      "meanings": [
+        "figure",
+        "form"
+      ]
+    },
+    {
+      "id": 1307740,
+      "kanji": "姿勢",
+      "readings": "しせい",
+      "meanings": [
+        "posture",
+        "pose"
+      ]
+    },
+    {
+      "id": 1307770,
+      "kanji": "子",
+      "readings": "こ",
+      "meanings": [
+        "child",
+        "kid"
+      ]
+    },
+    {
+      "id": 1307850,
+      "kanji": "子供",
+      "readings": "こども",
+      "meanings": [
+        "child",
+        "children"
+      ]
+    },
+    {
+      "id": 1308300,
+      "kanji": "市場",
+      "readings": "いちば",
+      "meanings": [
+        "(town) market",
+        "(street) market"
+      ]
+    },
+    {
+      "id": 1308305,
+      "kanji": "市場",
+      "readings": "しじょう",
+      "meanings": [
+        "market (financial, stock, domestic, etc.)",
+        "marketplace"
+      ]
+    },
+    {
+      "id": 1308640,
+      "kanji": "市内",
+      "readings": "しない",
+      "meanings": [
+        "in the city",
+        "within the city"
+      ]
+    },
+    {
+      "id": 1308690,
+      "kanji": "市民",
+      "readings": "しみん",
+      "meanings": [
+        "citizen (of a country)",
+        "citizenry"
+      ]
+    },
+    {
+      "id": 1309950,
+      "kanji": "指導",
+      "readings": "しどう",
+      "meanings": [
+        "guidance",
+        "leadership"
+      ]
+    },
+    {
+      "id": 1310100,
+      "kanji": "支援",
+      "readings": "しえん",
+      "meanings": [
+        "support",
+        "backing"
+      ]
+    },
+    {
+      "id": 1310150,
+      "kanji": "支持",
+      "readings": "しじ",
+      "meanings": [
+        "support",
+        "backing"
+      ]
+    },
+    {
+      "id": 1310410,
+      "kanji": "施設",
+      "readings": "しせつ",
+      "meanings": [
+        "facility",
+        "facilities"
+      ]
+    },
+    {
+      "id": 1310720,
+      "kanji": "死",
+      "readings": "し",
+      "meanings": [
+        "death",
+        "(an) out"
+      ]
+    },
+    {
+      "id": 1311110,
+      "kanji": "私",
+      "readings": "わたし",
+      "meanings": [
+        "I",
+        "me"
+      ]
+    },
+    {
+      "id": 1312420,
+      "kanji": "試合",
+      "readings": "しあい",
+      "meanings": [
+        "match",
+        "game"
+      ]
+    },
+    {
+      "id": 1312700,
+      "kanji": "資金",
+      "readings": "しきん",
+      "meanings": [
+        "funds",
+        "capital"
+      ]
+    },
+    {
+      "id": 1313670,
+      "kanji": "事業",
+      "readings": "じぎょう",
+      "meanings": [
+        "business",
+        "enterprise"
+      ]
+    },
+    {
+      "id": 1313830,
+      "kanji": "事件",
+      "readings": "じけん",
+      "meanings": [
+        "event",
+        "affair"
+      ]
+    },
+    {
+      "id": 1313850,
+      "kanji": "事故",
+      "readings": "じこ",
+      "meanings": [
+        "accident",
+        "incident"
+      ]
+    },
+    {
+      "id": 1313960,
+      "kanji": "事実",
+      "readings": "じじつ",
+      "meanings": [
+        "fact",
+        "truth"
+      ]
+    },
+    {
+      "id": 1314010,
+      "kanji": "事情",
+      "readings": "じじょう",
+      "meanings": [
+        "circumstances",
+        "conditions"
+      ]
+    },
+    {
+      "id": 1314270,
+      "kanji": "事務",
+      "readings": "じむ",
+      "meanings": [
+        "office work",
+        "clerical work"
+      ]
+    },
+    {
+      "id": 1314350,
+      "kanji": "事務局",
+      "readings": "じむきょく",
+      "meanings": [
+        "secretariat",
+        "executive office"
+      ]
+    },
+    {
+      "id": 1314400,
+      "kanji": "事務所",
+      "readings": "じむしょ",
+      "meanings": [
+        "office"
+      ]
+    },
+    {
+      "id": 1315920,
+      "kanji": "時間",
+      "readings": "じかん",
+      "meanings": [
+        "time",
+        "hour"
+      ]
+    },
+    {
+      "id": 1316040,
+      "kanji": "時期",
+      "readings": "じき",
+      "meanings": [
+        "time",
+        "season"
+      ]
+    },
+    {
+      "id": 1316300,
+      "kanji": "時代",
+      "readings": "じだい",
+      "meanings": [
+        "period",
+        "epoch"
+      ]
+    },
+    {
+      "id": 1317340,
+      "kanji": "自ら",
+      "readings": "みずから",
+      "meanings": [
+        "oneself",
+        "oneself"
+      ]
+    },
+    {
+      "id": 1317410,
+      "kanji": "自衛隊",
+      "readings": "じえいたい",
+      "meanings": [
+        "Japan Self-Defense Forces",
+        "JSDF"
+      ]
+    },
+    {
+      "id": 1318000,
+      "kanji": "自身",
+      "readings": "じしん",
+      "meanings": [
+        "(one's) self",
+        "oneself"
+      ]
+    },
+    {
+      "id": 1318090,
+      "kanji": "自然",
+      "readings": "しぜん",
+      "meanings": [
+        "nature",
+        "natural"
+      ]
+    },
+    {
+      "id": 1318260,
+      "kanji": "自宅",
+      "readings": "じたく",
+      "meanings": [
+        "one's home",
+        "one's house"
+      ]
+    },
+    {
+      "id": 1318400,
+      "kanji": "自動車",
+      "readings": "じどうしゃ",
+      "meanings": [
+        "car",
+        "automobile"
+      ]
+    },
+    {
+      "id": 1318610,
+      "kanji": "自分",
+      "readings": "じぶん",
+      "meanings": [
+        "myself",
+        "yourself"
+      ]
+    },
+    {
+      "id": 1318720,
+      "kanji": "自由",
+      "readings": "じゆう",
+      "meanings": [
+        "freedom",
+        "liberty"
+      ]
+    },
+    {
+      "id": 1319210,
+      "kanji": "七",
+      "readings": "しち",
+      "meanings": [
+        "seven"
+      ]
+    },
+    {
+      "id": 1319280,
+      "kanji": "７月",
+      "readings": "しちがつ",
+      "meanings": [
+        "July",
+        "seventh month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1320760,
+      "kanji": "質問",
+      "readings": "しつもん",
+      "meanings": [
+        "question",
+        "inquiry"
+      ]
+    },
+    {
+      "id": 1321140,
+      "kanji": "実施",
+      "readings": "じっし",
+      "meanings": [
+        "enforcement",
+        "implementation"
+      ]
+    },
+    {
+      "id": 1321900,
+      "kanji": "写真",
+      "readings": "しゃしん",
+      "meanings": [
+        "photograph",
+        "photo"
+      ]
+    },
+    {
+      "id": 1322700,
+      "kanji": "社会",
+      "readings": "しゃかい",
+      "meanings": [
+        "society",
+        "public"
+      ]
+    },
+    {
+      "id": 1322800,
+      "kanji": "社会党",
+      "readings": "しゃかいとう",
+      "meanings": [
+        "Socialist Party"
+      ]
+    },
+    {
+      "id": 1322920,
+      "kanji": "社長",
+      "readings": "しゃちょう",
+      "meanings": [
+        "company president",
+        "manager"
+      ]
+    },
+    {
+      "id": 1323080,
+      "kanji": "車",
+      "readings": "くるま",
+      "meanings": [
+        "car",
+        "automobile"
+      ]
+    },
+    {
+      "id": 1327190,
+      "kanji": "手",
+      "readings": "て",
+      "meanings": [
+        "hand",
+        "arm"
+      ]
+    },
+    {
+      "id": 1329300,
+      "kanji": "首相",
+      "readings": "しゅしょう",
+      "meanings": [
+        "prime minister",
+        "chancellor (Germany, Austria, etc.)"
+      ]
+    },
+    {
+      "id": 1329360,
+      "kanji": "首脳",
+      "readings": "しゅのう",
+      "meanings": [
+        "head",
+        "leader"
+      ]
+    },
+    {
+      "id": 1331300,
+      "kanji": "周辺",
+      "readings": "しゅうへん",
+      "meanings": [
+        "circumference",
+        "outskirts"
+      ]
+    },
+    {
+      "id": 1331840,
+      "kanji": "州",
+      "readings": "しゅう",
+      "meanings": [
+        "state (of the US, Australia, India, Germany, etc.)",
+        "province (e.g. of Canada)"
+      ]
+    },
+    {
+      "id": 1332650,
+      "kanji": "秋",
+      "readings": "あき",
+      "meanings": [
+        "autumn",
+        "fall"
+      ]
+    },
+    {
+      "id": 1333250,
+      "kanji": "衆院",
+      "readings": "しゅういん",
+      "meanings": [
+        "House of Representatives (lower house of the National Diet of Japan)"
+      ]
+    },
+    {
+      "id": 1334150,
+      "kanji": "住宅",
+      "readings": "じゅうたく",
+      "meanings": [
+        "residence",
+        "housing"
+      ]
+    },
+    {
+      "id": 1334210,
+      "kanji": "住民",
+      "readings": "じゅうみん",
+      "meanings": [
+        "inhabitant",
+        "resident"
+      ]
+    },
+    {
+      "id": 1334470,
+      "kanji": "十一",
+      "readings": "じゅういち",
+      "meanings": [
+        "eleven",
+        "11"
+      ]
+    },
+    {
+      "id": 1334480,
+      "kanji": "１１月",
+      "readings": "じゅういちがつ",
+      "meanings": [
+        "November",
+        "eleventh month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1334560,
+      "kanji": "十九",
+      "readings": "じゅうきゅう",
+      "meanings": [
+        "nineteen",
+        "19"
+      ]
+    },
+    {
+      "id": 1334570,
+      "kanji": "１０月",
+      "readings": "じゅうがつ",
+      "meanings": [
+        "October",
+        "tenth month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1334590,
+      "kanji": "十五",
+      "readings": "じゅうご",
+      "meanings": [
+        "fifteen",
+        "15"
+      ]
+    },
+    {
+      "id": 1334610,
+      "kanji": "十三",
+      "readings": "じゅうさん",
+      "meanings": [
+        "thirteen",
+        "13"
+      ]
+    },
+    {
+      "id": 1334890,
+      "kanji": "十二",
+      "readings": "じゅうに",
+      "meanings": [
+        "twelve",
+        "12"
+      ]
+    },
+    {
+      "id": 1334910,
+      "kanji": "１２月",
+      "readings": "じゅうにがつ",
+      "meanings": [
+        "December",
+        "twelfth month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1335050,
+      "kanji": "十八",
+      "readings": "じゅうはち",
+      "meanings": [
+        "eighteen",
+        "18"
+      ]
+    },
+    {
+      "id": 1335400,
+      "kanji": "従来",
+      "readings": "じゅうらい",
+      "meanings": [
+        "up to now",
+        "so far"
+      ]
+    },
+    {
+      "id": 1336820,
+      "kanji": "重要",
+      "readings": "じゅうよう",
+      "meanings": [
+        "important",
+        "essential"
+      ]
+    },
+    {
+      "id": 1339260,
+      "kanji": "出身",
+      "readings": "しゅっしん",
+      "meanings": [
+        "one's origin (e.g. city, country, parentage, school)"
+      ]
+    },
+    {
+      "id": 1341000,
+      "kanji": "春",
+      "readings": "はる",
+      "meanings": [
+        "spring",
+        "springtime"
+      ]
+    },
+    {
+      "id": 1342530,
+      "kanji": "初",
+      "readings": "はつ",
+      "meanings": [
+        "first",
+        "new"
+      ]
+    },
+    {
+      "id": 1344000,
+      "kanji": "書記",
+      "readings": "しょき",
+      "meanings": [
+        "clerk",
+        "secretary"
+      ]
+    },
+    {
+      "id": 1345140,
+      "kanji": "女子",
+      "readings": "じょし",
+      "meanings": [
+        "woman",
+        "girl"
+      ]
+    },
+    {
+      "id": 1345250,
+      "kanji": "女性",
+      "readings": "じょせい",
+      "meanings": [
+        "woman",
+        "female"
+      ]
+    },
+    {
+      "id": 1347310,
+      "kanji": "商品",
+      "readings": "しょうひん",
+      "meanings": [
+        "commodity",
+        "article of commerce"
+      ]
+    },
+    {
+      "id": 1347710,
+      "kanji": "将来",
+      "readings": "しょうらい",
+      "meanings": [
+        "future",
+        "(future) prospects"
+      ]
+    },
+    {
+      "id": 1348870,
+      "kanji": "少し",
+      "readings": "すこし",
+      "meanings": [
+        "a little",
+        "a bit"
+      ]
+    },
+    {
+      "id": 1351610,
+      "kanji": "証券",
+      "readings": "しょうけん",
+      "meanings": [
+        "bond",
+        "bill"
+      ]
+    },
+    {
+      "id": 1355850,
+      "kanji": "場所",
+      "readings": "ばしょ",
+      "meanings": [
+        "place",
+        "location"
+      ]
+    },
+    {
+      "id": 1356320,
+      "kanji": "情勢",
+      "readings": "じょうせい",
+      "meanings": [
+        "state of things",
+        "state of affairs"
+      ]
+    },
+    {
+      "id": 1356370,
+      "kanji": "情報",
+      "readings": "じょうほう",
+      "meanings": [
+        "information",
+        "news"
+      ]
+    },
+    {
+      "id": 1356510,
+      "kanji": "条件",
+      "readings": "じょうけん",
+      "meanings": [
+        "condition",
+        "term"
+      ]
+    },
+    {
+      "id": 1356580,
+      "kanji": "条約",
+      "readings": "じょうやく",
+      "meanings": [
+        "treaty",
+        "pact"
+      ]
+    },
+    {
+      "id": 1356700,
+      "kanji": "状況",
+      "readings": "じょうきょう",
+      "meanings": [
+        "state of affairs",
+        "situation"
+      ]
+    },
+    {
+      "id": 1356730,
+      "kanji": "状態",
+      "readings": "じょうたい",
+      "meanings": [
+        "state",
+        "condition"
+      ]
+    },
+    {
+      "id": 1357490,
+      "kanji": "職員",
+      "readings": "しょくいん",
+      "meanings": [
+        "staff member",
+        "employee"
+      ]
+    },
+    {
+      "id": 1360360,
+      "kanji": "審議",
+      "readings": "しんぎ",
+      "meanings": [
+        "deliberation",
+        "discussion"
+      ]
+    },
+    {
+      "id": 1361510,
+      "kanji": "新た",
+      "readings": "あらた",
+      "meanings": [
+        "new",
+        "fresh"
+      ]
+    },
+    {
+      "id": 1362230,
+      "kanji": "新党",
+      "readings": "しんとう",
+      "meanings": [
+        "new (political) party"
+      ]
+    },
+    {
+      "id": 1362360,
+      "kanji": "新聞",
+      "readings": "しんぶん",
+      "meanings": [
+        "newspaper"
+      ]
+    },
+    {
+      "id": 1366770,
+      "kanji": "人間",
+      "readings": "にんげん",
+      "meanings": [
+        "human being",
+        "human"
+      ]
+    },
+    {
+      "id": 1367010,
+      "kanji": "人気",
+      "readings": "にんき",
+      "meanings": [
+        "popularity",
+        "public favor"
+      ]
+    },
+    {
+      "id": 1367300,
+      "kanji": "人口",
+      "readings": "じんこう",
+      "meanings": [
+        "population",
+        "common talk"
+      ]
+    },
+    {
+      "id": 1371140,
+      "kanji": "推進",
+      "readings": "すいしん",
+      "meanings": [
+        "propulsion",
+        "drive"
+      ]
+    },
+    {
+      "id": 1371260,
+      "kanji": "水",
+      "readings": "みず",
+      "meanings": [
+        "water (esp. cool or cold)",
+        "fluid (esp. in an animal tissue)"
+      ]
+    },
+    {
+      "id": 1373860,
+      "kanji": "世界",
+      "readings": "せかい",
+      "meanings": [
+        "the world",
+        "society"
+      ]
+    },
+    {
+      "id": 1374880,
+      "kanji": "制度",
+      "readings": "せいど",
+      "meanings": [
+        "system",
+        "institution"
+      ]
+    },
+    {
+      "id": 1375150,
+      "kanji": "勢力",
+      "readings": "せいりょく",
+      "meanings": [
+        "influence",
+        "power"
+      ]
+    },
+    {
+      "id": 1375790,
+      "kanji": "成長",
+      "readings": "せいちょう",
+      "meanings": [
+        "growth",
+        "development"
+      ]
+    },
+    {
+      "id": 1375900,
+      "kanji": "政界",
+      "readings": "せいかい",
+      "meanings": [
+        "(world of) politics",
+        "political world"
+      ]
+    },
+    {
+      "id": 1375930,
+      "kanji": "政権",
+      "readings": "せいけん",
+      "meanings": [
+        "(political) administration",
+        "political power"
+      ]
+    },
+    {
+      "id": 1375950,
+      "kanji": "政策",
+      "readings": "せいさく",
+      "meanings": [
+        "political measures",
+        "policy"
+      ]
+    },
+    {
+      "id": 1375970,
+      "kanji": "政治",
+      "readings": "せいじ",
+      "meanings": [
+        "politics",
+        "government"
+      ]
+    },
+    {
+      "id": 1375980,
+      "kanji": "政治家",
+      "readings": "せいじか",
+      "meanings": [
+        "politician",
+        "statesman"
+      ]
+    },
+    {
+      "id": 1376060,
+      "kanji": "政党",
+      "readings": "せいとう",
+      "meanings": [
+        "political party"
+      ]
+    },
+    {
+      "id": 1376070,
+      "kanji": "政府",
+      "readings": "せいふ",
+      "meanings": [
+        "government",
+        "administration"
+      ]
+    },
+    {
+      "id": 1378860,
+      "kanji": "生活",
+      "readings": "せいかつ",
+      "meanings": [
+        "life",
+        "living"
+      ]
+    },
+    {
+      "id": 1378990,
+      "kanji": "生産",
+      "readings": "せいさん",
+      "meanings": [
+        "production",
+        "manufacture"
+      ]
+    },
+    {
+      "id": 1380440,
+      "kanji": "声",
+      "readings": "こえ",
+      "meanings": [
+        "voice",
+        "singing (of a bird)"
+      ]
+    },
+    {
+      "id": 1383030,
+      "kanji": "積極的",
+      "readings": "せっきょくてき",
+      "meanings": [
+        "positive",
+        "assertive"
+      ]
+    },
+    {
+      "id": 1383180,
+      "kanji": "責任",
+      "readings": "せきにん",
+      "meanings": [
+        "duty",
+        "responsibility (incl. supervision of staff)"
+      ]
+    },
+    {
+      "id": 1388740,
+      "kanji": "千",
+      "readings": "せん",
+      "meanings": [
+        "thousand",
+        "1,000"
+      ]
+    },
+    {
+      "id": 1389680,
+      "kanji": "宣言",
+      "readings": "せんげん",
+      "meanings": [
+        "declaration",
+        "proclamation"
+      ]
+    },
+    {
+      "id": 1390360,
+      "kanji": "戦争",
+      "readings": "せんそう",
+      "meanings": [
+        "war",
+        "fighting"
+      ]
+    },
+    {
+      "id": 1392190,
+      "kanji": "選挙",
+      "readings": "せんきょ",
+      "meanings": [
+        "election"
+      ]
+    },
+    {
+      "id": 1392250,
+      "kanji": "選手",
+      "readings": "せんしゅ",
+      "meanings": [
+        "player (of a sport)",
+        "athlete"
+      ]
+    },
+    {
+      "id": 1392260,
+      "kanji": "選手権",
+      "readings": "せんしゅけん",
+      "meanings": [
+        "championship",
+        "title (of champion)"
+      ]
+    },
+    {
+      "id": 1393840,
+      "kanji": "前年",
+      "readings": "ぜんねん",
+      "meanings": [
+        "the preceding year",
+        "the previous year"
+      ]
+    },
+    {
+      "id": 1395660,
+      "kanji": "全体",
+      "readings": "ぜんたい",
+      "meanings": [
+        "whole",
+        "entirety"
+      ]
+    },
+    {
+      "id": 1396530,
+      "kanji": "措置",
+      "readings": "そち",
+      "meanings": [
+        "measure",
+        "step"
+      ]
+    },
+    {
+      "id": 1397630,
+      "kanji": "組織",
+      "readings": "そしき",
+      "meanings": [
+        "organization",
+        "organisation"
+      ]
+    },
+    {
+      "id": 1399300,
+      "kanji": "喪主",
+      "readings": "もしゅ",
+      "meanings": [
+        "chief mourner"
+      ]
+    },
+    {
+      "id": 1399660,
+      "kanji": "捜査",
+      "readings": "そうさ",
+      "meanings": [
+        "search (esp. in criminal investigations)",
+        "investigation"
+      ]
+    },
+    {
+      "id": 1401000,
+      "kanji": "相手",
+      "readings": "あいて",
+      "meanings": [
+        "companion",
+        "partner"
+      ]
+    },
+    {
+      "id": 1401490,
+      "kanji": "総会",
+      "readings": "そうかい",
+      "meanings": [
+        "general meeting"
+      ]
+    },
+    {
+      "id": 1401580,
+      "kanji": "総裁",
+      "readings": "そうさい",
+      "meanings": [
+        "president (of an organization)",
+        "director general"
+      ]
+    },
+    {
+      "id": 1401690,
+      "kanji": "総選挙",
+      "readings": "そうせんきょ",
+      "meanings": [
+        "general election (of the lower house)"
+      ]
+    },
+    {
+      "id": 1402140,
+      "kanji": "葬儀",
+      "readings": "そうぎ",
+      "meanings": [
+        "funeral",
+        "funeral service"
+      ]
+    },
+    {
+      "id": 1404630,
+      "kanji": "足",
+      "readings": "あし",
+      "meanings": [
+        "foot",
+        "paw"
+      ]
+    },
+    {
+      "id": 1409550,
+      "kanji": "体制",
+      "readings": "たいせい",
+      "meanings": [
+        "order",
+        "system"
+      ]
+    },
+    {
+      "id": 1409840,
+      "kanji": "対応",
+      "readings": "たいおう",
+      "meanings": [
+        "correspondence (to)",
+        "equivalence"
+      ]
+    },
+    {
+      "id": 1410050,
+      "kanji": "対策",
+      "readings": "たいさく",
+      "meanings": [
+        "measure",
+        "step"
+      ]
+    },
+    {
+      "id": 1410120,
+      "kanji": "対象",
+      "readings": "たいしょう",
+      "meanings": [
+        "target",
+        "object (of worship, study, etc.)"
+      ]
+    },
+    {
+      "id": 1412170,
+      "kanji": "代表",
+      "readings": "だいひょう",
+      "meanings": [
+        "representation",
+        "representative"
+      ]
+    },
+    {
+      "id": 1412560,
+      "kanji": "台",
+      "readings": "だい",
+      "meanings": [
+        "stand",
+        "rest"
+      ]
+    },
+    {
+      "id": 1412840,
+      "kanji": "台湾",
+      "readings": "たいわん",
+      "meanings": [
+        "Taiwan"
+      ]
+    },
+    {
+      "id": 1413180,
+      "kanji": "大会",
+      "readings": "たいかい",
+      "meanings": [
+        "mass meeting",
+        "convention"
+      ]
+    },
+    {
+      "id": 1413240,
+      "kanji": "大学",
+      "readings": "だいがく",
+      "meanings": [
+        "university",
+        "college"
+      ]
+    },
+    {
+      "id": 1414010,
+      "kanji": "大手",
+      "readings": "おおて",
+      "meanings": [
+        "major company",
+        "big company"
+      ]
+    },
+    {
+      "id": 1414430,
+      "kanji": "大蔵省",
+      "readings": "おおくらしょう",
+      "meanings": [
+        "Ministry of Finance (1869-2001)",
+        "Ministry of the Treasury (under the ritsuryō system)"
+      ]
+    },
+    {
+      "id": 1414650,
+      "kanji": "大統領",
+      "readings": "だいとうりょう",
+      "meanings": [
+        "president (of a country)",
+        "big man"
+      ]
+    },
+    {
+      "id": 1414870,
+      "kanji": "大幅",
+      "readings": "おおはば",
+      "meanings": [
+        "big",
+        "large"
+      ]
+    },
+    {
+      "id": 1419270,
+      "kanji": "団体",
+      "readings": "だんたい",
+      "meanings": [
+        "group",
+        "party"
+      ]
+    },
+    {
+      "id": 1419950,
+      "kanji": "段階",
+      "readings": "だんかい",
+      "meanings": [
+        "stage",
+        "step"
+      ]
+    },
+    {
+      "id": 1419990,
+      "kanji": "男",
+      "readings": "おとこ",
+      "meanings": [
+        "man",
+        "male"
+      ]
+    },
+    {
+      "id": 1420070,
+      "kanji": "男子",
+      "readings": "だんし",
+      "meanings": [
+        "boy",
+        "man"
+      ]
+    },
+    {
+      "id": 1420160,
+      "kanji": "男性",
+      "readings": "だんせい",
+      "meanings": [
+        "man",
+        "male"
+      ]
+    },
+    {
+      "id": 1420580,
+      "kanji": "知事",
+      "readings": "ちじ",
+      "meanings": [
+        "prefectural governor"
+      ]
+    },
+    {
+      "id": 1420800,
+      "kanji": "地域",
+      "readings": "ちいき",
+      "meanings": [
+        "area",
+        "region"
+      ]
+    },
+    {
+      "id": 1420970,
+      "kanji": "地球",
+      "readings": "ちきゅう",
+      "meanings": [
+        "Earth",
+        "the globe"
+      ]
+    },
+    {
+      "id": 1421020,
+      "kanji": "地区",
+      "readings": "ちく",
+      "meanings": [
+        "district",
+        "area"
+      ]
+    },
+    {
+      "id": 1421060,
+      "kanji": "地元",
+      "readings": "じもと",
+      "meanings": [
+        "home area",
+        "home town"
+      ]
+    },
+    {
+      "id": 1421450,
+      "kanji": "地方",
+      "readings": "ちほう",
+      "meanings": [
+        "district",
+        "region"
+      ]
+    },
+    {
+      "id": 1423430,
+      "kanji": "中央",
+      "readings": "ちゅうおう",
+      "meanings": [
+        "centre",
+        "center"
+      ]
+    },
+    {
+      "id": 1424270,
+      "kanji": "中国",
+      "readings": "ちゅうごく",
+      "meanings": [
+        "China",
+        "Chūgoku region (western part of Honshu comprising the prefectures of Okayama, Hiroshima, Yamaguchi, Tottori and Shimane)"
+      ]
+    },
+    {
+      "id": 1424550,
+      "kanji": "中心",
+      "readings": "ちゅうしん",
+      "meanings": [
+        "center",
+        "centre"
+      ]
+    },
+    {
+      "id": 1429050,
+      "kanji": "調べ",
+      "readings": "しらべ",
+      "meanings": [
+        "investigation",
+        "inspection"
+      ]
+    },
+    {
+      "id": 1429120,
+      "kanji": "調査",
+      "readings": "ちょうさ",
+      "meanings": [
+        "investigation",
+        "examination"
+      ]
+    },
+    {
+      "id": 1429200,
+      "kanji": "調整",
+      "readings": "ちょうせい",
+      "meanings": [
+        "adjustment",
+        "regulation"
+      ]
+    },
+    {
+      "id": 1429820,
+      "kanji": "長官",
+      "readings": "ちょうかん",
+      "meanings": [
+        "secretary (government)",
+        "director"
+      ]
+    },
+    {
+      "id": 1430080,
+      "kanji": "長男",
+      "readings": "ちょうなん",
+      "meanings": [
+        "eldest son (may be the only son)",
+        "first-born son"
+      ]
+    },
+    {
+      "id": 1433330,
+      "kanji": "通信",
+      "readings": "つうしん",
+      "meanings": [
+        "correspondence",
+        "communication"
+      ]
+    },
+    {
+      "id": 1436540,
+      "kanji": "程度",
+      "readings": "ていど",
+      "meanings": [
+        "degree",
+        "amount"
+      ]
+    },
+    {
+      "id": 1443840,
+      "kanji": "電話",
+      "readings": "でんわ",
+      "meanings": [
+        "telephone call",
+        "phone call"
+      ]
+    },
+    {
+      "id": 1444990,
+      "kanji": "都市",
+      "readings": "とし",
+      "meanings": [
+        "town",
+        "city"
+      ]
+    },
+    {
+      "id": 1445040,
+      "kanji": "都内",
+      "readings": "とない",
+      "meanings": [
+        "within the (Tokyo) metropolitan area"
+      ]
+    },
+    {
+      "id": 1445130,
+      "kanji": "努力",
+      "readings": "どりょく",
+      "meanings": [
+        "effort",
+        "exertion"
+      ]
+    },
+    {
+      "id": 1445470,
+      "kanji": "土地",
+      "readings": "とち",
+      "meanings": [
+        "plot of land",
+        "lot"
+      ]
+    },
+    {
+      "id": 1447230,
+      "kanji": "投資",
+      "readings": "とうし",
+      "meanings": [
+        "investment"
+      ]
+    },
+    {
+      "id": 1447260,
+      "kanji": "投手",
+      "readings": "とうしゅ",
+      "meanings": [
+        "pitcher"
+      ]
+    },
+    {
+      "id": 1447320,
+      "kanji": "投票",
+      "readings": "とうひょう",
+      "meanings": [
+        "voting",
+        "ballot"
+      ]
+    },
+    {
+      "id": 1447440,
+      "kanji": "東",
+      "readings": "ひがし",
+      "meanings": [
+        "east"
+      ]
+    },
+    {
+      "id": 1447690,
+      "kanji": "東京",
+      "readings": "とうきょう",
+      "meanings": [
+        "Tokyo"
+      ]
+    },
+    {
+      "id": 1449030,
+      "kanji": "当局",
+      "readings": "とうきょく",
+      "meanings": [
+        "authorities",
+        "relevant authorities"
+      ]
+    },
+    {
+      "id": 1449090,
+      "kanji": "当時",
+      "readings": "とうじ",
+      "meanings": [
+        "at that time",
+        "in those days"
+      ]
+    },
+    {
+      "id": 1449110,
+      "kanji": "当初",
+      "readings": "とうしょ",
+      "meanings": [
+        "beginning",
+        "start"
+      ]
+    },
+    {
+      "id": 1449670,
+      "kanji": "統一",
+      "readings": "とういつ",
+      "meanings": [
+        "unity",
+        "consolidation"
+      ]
+    },
+    {
+      "id": 1451180,
+      "kanji": "動き",
+      "readings": "うごき",
+      "meanings": [
+        "movement",
+        "move"
+      ]
+    },
+    {
+      "id": 1452500,
+      "kanji": "同時",
+      "readings": "どうじ",
+      "meanings": [
+        "simultaneous",
+        "concurrent"
+      ]
+    },
+    {
+      "id": 1452570,
+      "kanji": "同社",
+      "readings": "どうしゃ",
+      "meanings": [
+        "the same company",
+        "the said firm"
+      ]
+    },
+    {
+      "id": 1453210,
+      "kanji": "同日",
+      "readings": "どうじつ",
+      "meanings": [
+        "the same day"
+      ]
+    },
+    {
+      "id": 1454080,
+      "kanji": "道",
+      "readings": "みち",
+      "meanings": [
+        "road",
+        "path"
+      ]
+    },
+    {
+      "id": 1454670,
+      "kanji": "特に",
+      "readings": "とくに",
+      "meanings": [
+        "particularly",
+        "especially"
+      ]
+    },
+    {
+      "id": 1455280,
+      "kanji": "特別",
+      "readings": "とくべつ",
+      "meanings": [
+        "special",
+        "particular"
+      ]
+    },
+    {
+      "id": 1457910,
+      "kanji": "内閣",
+      "readings": "ないかく",
+      "meanings": [
+        "cabinet (of a government)",
+        "ministry"
+      ]
+    },
+    {
+      "id": 1459400,
+      "kanji": "内容",
+      "readings": "ないよう",
+      "meanings": [
+        "contents",
+        "content"
+      ]
+    },
+    {
+      "id": 1459870,
+      "kanji": "南",
+      "readings": "みなみ",
+      "meanings": [
+        "south"
+      ]
+    },
+    {
+      "id": 1461140,
+      "kanji": "二",
+      "readings": "に",
+      "meanings": [
+        "two",
+        "2"
+      ]
+    },
+    {
+      "id": 1461560,
+      "kanji": "２月",
+      "readings": "にがつ",
+      "meanings": [
+        "February",
+        "second month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1464380,
+      "kanji": "日米",
+      "readings": "にちべい",
+      "meanings": [
+        "Japan and the United States",
+        "Japanese-American"
+      ]
+    },
+    {
+      "id": 1464700,
+      "kanji": "日本人",
+      "readings": "にほんじん",
+      "meanings": [
+        "Japanese person"
+      ]
+    },
+    {
+      "id": 1468380,
+      "kanji": "年間",
+      "readings": "ねんかん",
+      "meanings": [
+        "(period of) a year",
+        "during the era (of)"
+      ]
+    },
+    {
+      "id": 1470660,
+      "kanji": "農業",
+      "readings": "のうぎょう",
+      "meanings": [
+        "agriculture"
+      ]
+    },
+    {
+      "id": 1471130,
+      "kanji": "派遣",
+      "readings": "はけん",
+      "meanings": [
+        "dispatch",
+        "despatch"
+      ]
+    },
+    {
+      "id": 1472720,
+      "kanji": "背景",
+      "readings": "はいけい",
+      "meanings": [
+        "background",
+        "scenery"
+      ]
+    },
+    {
+      "id": 1476730,
+      "kanji": "８月",
+      "readings": "はちがつ",
+      "meanings": [
+        "August",
+        "eighth month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1477350,
+      "kanji": "発言",
+      "readings": "はつげん",
+      "meanings": [
+        "statement",
+        "remark"
+      ]
+    },
+    {
+      "id": 1478520,
+      "kanji": "判決",
+      "readings": "はんけつ",
+      "meanings": [
+        "judicial decision",
+        "judgement"
+      ]
+    },
+    {
+      "id": 1478620,
+      "kanji": "判断",
+      "readings": "はんだん",
+      "meanings": [
+        "judgment",
+        "judgement"
+      ]
+    },
+    {
+      "id": 1480670,
+      "kanji": "反対",
+      "readings": "はんたい",
+      "meanings": [
+        "opposition",
+        "resistance"
+      ]
+    },
+    {
+      "id": 1481800,
+      "kanji": "販売",
+      "readings": "はんばい",
+      "meanings": [
+        "sales",
+        "selling"
+      ]
+    },
+    {
+      "id": 1482340,
+      "kanji": "番組",
+      "readings": "ばんぐみ",
+      "meanings": [
+        "program (e.g. TV)",
+        "programme"
+      ]
+    },
+    {
+      "id": 1483420,
+      "kanji": "批判",
+      "readings": "ひはん",
+      "meanings": [
+        "criticism",
+        "judgement"
+      ]
+    },
+    {
+      "id": 1484410,
+      "kanji": "被告",
+      "readings": "ひこく",
+      "meanings": [
+        "defendant",
+        "the accused"
+      ]
+    },
+    {
+      "id": 1487660,
+      "kanji": "必要",
+      "readings": "ひつよう",
+      "meanings": [
+        "necessary",
+        "needed"
+      ]
+    },
+    {
+      "id": 1488000,
+      "kanji": "百",
+      "readings": "ひゃく",
+      "meanings": [
+        "hundred",
+        "100"
+      ]
+    },
+    {
+      "id": 1490220,
+      "kanji": "病院",
+      "readings": "びょういん",
+      "meanings": [
+        "hospital",
+        "clinic"
+      ]
+    },
+    {
+      "id": 1491950,
+      "kanji": "不況",
+      "readings": "ふきょう",
+      "meanings": [
+        "depression",
+        "recession"
+      ]
+    },
+    {
+      "id": 1496480,
+      "kanji": "夫",
+      "readings": "おっと",
+      "meanings": [
+        "husband"
+      ]
+    },
+    {
+      "id": 1497610,
+      "kanji": "父",
+      "readings": "ちち",
+      "meanings": [
+        "father"
+      ]
+    },
+    {
+      "id": 1499150,
+      "kanji": "舞台",
+      "readings": "ぶたい",
+      "meanings": [
+        "stage (of a theatre, concert hall, etc.)",
+        "(stage) performance"
+      ]
+    },
+    {
+      "id": 1499460,
+      "kanji": "部長",
+      "readings": "ぶちょう",
+      "meanings": [
+        "head (chief, director) of a section or department",
+        "head of a (school) club"
+      ]
+    },
+    {
+      "id": 1499490,
+      "kanji": "部分",
+      "readings": "ぶぶん",
+      "meanings": [
+        "portion",
+        "section"
+      ]
+    },
+    {
+      "id": 1499540,
+      "kanji": "部門",
+      "readings": "ぶもん",
+      "meanings": [
+        "division (of a larger group)",
+        "branch"
+      ]
+    },
+    {
+      "id": 1504330,
+      "kanji": "分野",
+      "readings": "ぶんや",
+      "meanings": [
+        "field",
+        "sphere"
+      ]
+    },
+    {
+      "id": 1505120,
+      "kanji": "文化",
+      "readings": "ぶんか",
+      "meanings": [
+        "culture",
+        "civilization"
+      ]
+    },
+    {
+      "id": 1508070,
+      "kanji": "平和",
+      "readings": "へいわ",
+      "meanings": [
+        "peace",
+        "harmony"
+      ]
+    },
+    {
+      "id": 1508900,
+      "kanji": "米国",
+      "readings": "べいこく",
+      "meanings": [
+        "(United States of) America",
+        "USA"
+      ]
+    },
+    {
+      "id": 1510890,
+      "kanji": "変化",
+      "readings": "へんか",
+      "meanings": [
+        "change",
+        "variation"
+      ]
+    },
+    {
+      "id": 1513530,
+      "kanji": "保護",
+      "readings": "ほご",
+      "meanings": [
+        "protection",
+        "safeguard"
+      ]
+    },
+    {
+      "id": 1514990,
+      "kanji": "母",
+      "readings": "はは",
+      "meanings": [
+        "mother"
+      ]
+    },
+    {
+      "id": 1515670,
+      "kanji": "報告",
+      "readings": "ほうこく",
+      "meanings": [
+        "report",
+        "information"
+      ]
+    },
+    {
+      "id": 1515730,
+      "kanji": "報道",
+      "readings": "ほうどう",
+      "meanings": [
+        "report (of news)",
+        "reporting"
+      ]
+    },
+    {
+      "id": 1516750,
+      "kanji": "放送",
+      "readings": "ほうそう",
+      "meanings": [
+        "broadcasting",
+        "broadcast"
+      ]
+    },
+    {
+      "id": 1516990,
+      "kanji": "方向",
+      "readings": "ほうこう",
+      "meanings": [
+        "direction",
+        "orientation"
+      ]
+    },
+    {
+      "id": 1517040,
+      "kanji": "方針",
+      "readings": "ほうしん",
+      "meanings": [
+        "policy",
+        "course"
+      ]
+    },
+    {
+      "id": 1517090,
+      "kanji": "方法",
+      "readings": "ほうほう",
+      "meanings": [
+        "method",
+        "way"
+      ]
+    },
+    {
+      "id": 1517160,
+      "kanji": "法案",
+      "readings": "ほうあん",
+      "meanings": [
+        "bill (law)",
+        "measure"
+      ]
+    },
+    {
+      "id": 1518120,
+      "kanji": "訪問",
+      "readings": "ほうもん",
+      "meanings": [
+        "call",
+        "visit"
+      ]
+    },
+    {
+      "id": 1520120,
+      "kanji": "貿易",
+      "readings": "ぼうえき",
+      "meanings": [
+        "(foreign) trade",
+        "(international) commerce"
+      ]
+    },
+    {
+      "id": 1520200,
+      "kanji": "防衛",
+      "readings": "ぼうえい",
+      "meanings": [
+        "defense",
+        "defence"
+      ]
+    },
+    {
+      "id": 1520670,
+      "kanji": "北",
+      "readings": "きた",
+      "meanings": [
+        "north",
+        "the North"
+      ]
+    },
+    {
+      "id": 1520810,
+      "kanji": "北海道",
+      "readings": "ほっかいどう",
+      "meanings": [
+        "Hokkaido (island, prefectural-level administrative unit)"
+      ]
+    },
+    {
+      "id": 1520860,
+      "kanji": "北京",
+      "readings": "ペキン",
+      "meanings": [
+        "Beijing (China)",
+        "Peking"
+      ]
+    },
+    {
+      "id": 1521200,
+      "kanji": "北朝鮮",
+      "readings": "きたちょうせん",
+      "meanings": [
+        "North Korea"
+      ]
+    },
+    {
+      "id": 1522630,
+      "kanji": "本社",
+      "readings": "ほんしゃ",
+      "meanings": [
+        "head office",
+        "main office"
+      ]
+    },
+    {
+      "id": 1523170,
+      "kanji": "本部",
+      "readings": "ほんぶ",
+      "meanings": [
+        "headquarters",
+        "head office"
+      ]
+    },
+    {
+      "id": 1524720,
+      "kanji": "毎日",
+      "readings": "まいにち",
+      "meanings": [
+        "every day"
+      ]
+    },
+    {
+      "id": 1528570,
+      "kanji": "民",
+      "readings": "たみ",
+      "meanings": [
+        "people",
+        "citizens"
+      ]
+    },
+    {
+      "id": 1528630,
+      "kanji": "民間",
+      "readings": "みんかん",
+      "meanings": [
+        "private",
+        "non-governmental"
+      ]
+    },
+    {
+      "id": 1528790,
+      "kanji": "民主",
+      "readings": "みんしゅ",
+      "meanings": [
+        "democracy",
+        "popular sovereignty"
+      ]
+    },
+    {
+      "id": 1532310,
+      "kanji": "明らか",
+      "readings": "あきらか",
+      "meanings": [
+        "clear",
+        "obvious"
+      ]
+    },
+    {
+      "id": 1534520,
+      "kanji": "木",
+      "readings": "き",
+      "meanings": [
+        "tree",
+        "shrub"
+      ]
+    },
+    {
+      "id": 1535560,
+      "kanji": "目的",
+      "readings": "もくてき",
+      "meanings": [
+        "purpose",
+        "goal"
+      ]
+    },
+    {
+      "id": 1535650,
+      "kanji": "目標",
+      "readings": "もくひょう",
+      "meanings": [
+        "goal",
+        "target"
+      ]
+    },
+    {
+      "id": 1536010,
+      "kanji": "問題",
+      "readings": "もんだい",
+      "meanings": [
+        "question (e.g. on a test)",
+        "problem"
+      ]
+    },
+    {
+      "id": 1537300,
+      "kanji": "野球",
+      "readings": "やきゅう",
+      "meanings": [
+        "baseball"
+      ]
+    },
+    {
+      "id": 1537580,
+      "kanji": "野党",
+      "readings": "やとう",
+      "meanings": [
+        "opposition party",
+        "the opposition"
+      ]
+    },
+    {
+      "id": 1538000,
+      "kanji": "役割",
+      "readings": "やくわり",
+      "meanings": [
+        "part",
+        "assigning (allotment of) parts"
+      ]
+    },
+    {
+      "id": 1538820,
+      "kanji": "輸出",
+      "readings": "ゆしゅつ",
+      "meanings": [
+        "export",
+        "exportation"
+      ]
+    },
+    {
+      "id": 1538870,
+      "kanji": "輸入",
+      "readings": "ゆにゅう",
+      "meanings": [
+        "import",
+        "importation"
+      ]
+    },
+    {
+      "id": 1539280,
+      "kanji": "優勝",
+      "readings": "ゆうしょう",
+      "meanings": [
+        "overall victory",
+        "championship"
+      ]
+    },
+    {
+      "id": 1542600,
+      "kanji": "融資",
+      "readings": "ゆうし",
+      "meanings": [
+        "financing",
+        "loan"
+      ]
+    },
+    {
+      "id": 1543000,
+      "kanji": "予算",
+      "readings": "よさん",
+      "meanings": [
+        "estimate (of costs)",
+        "budget"
+      ]
+    },
+    {
+      "id": 1543240,
+      "kanji": "予定",
+      "readings": "よてい",
+      "meanings": [
+        "plans",
+        "arrangement"
+      ]
+    },
+    {
+      "id": 1544870,
+      "kanji": "与党",
+      "readings": "よとう",
+      "meanings": [
+        "ruling party",
+        "government party"
+      ]
+    },
+    {
+      "id": 1545390,
+      "kanji": "容疑者",
+      "readings": "ようぎしゃ",
+      "meanings": [
+        "suspect"
+      ]
+    },
+    {
+      "id": 1546680,
+      "kanji": "要求",
+      "readings": "ようきゅう",
+      "meanings": [
+        "demand",
+        "firm request"
+      ]
+    },
+    {
+      "id": 1548220,
+      "kanji": "来年",
+      "readings": "らいねん",
+      "meanings": [
+        "next year"
+      ]
+    },
+    {
+      "id": 1549980,
+      "kanji": "理事",
+      "readings": "りじ",
+      "meanings": [
+        "director",
+        "trustee"
+      ]
+    },
+    {
+      "id": 1550140,
+      "kanji": "理由",
+      "readings": "りゆう",
+      "meanings": [
+        "reason",
+        "pretext"
+      ]
+    },
+    {
+      "id": 1551710,
+      "kanji": "立場",
+      "readings": "たちば",
+      "meanings": [
+        "position",
+        "situation"
+      ]
+    },
+    {
+      "id": 1553590,
+      "kanji": "両国",
+      "readings": "りょうこく",
+      "meanings": [
+        "both countries",
+        "Ryōgoku (area of Tokyo)"
+      ]
+    },
+    {
+      "id": 1554790,
+      "kanji": "領土",
+      "readings": "りょうど",
+      "meanings": [
+        "territory",
+        "domain"
+      ]
+    },
+    {
+      "id": 1558050,
+      "kanji": "歴史",
+      "readings": "れきし",
+      "meanings": [
+        "history"
+      ]
+    },
+    {
+      "id": 1559450,
+      "kanji": "連合",
+      "readings": "れんごう",
+      "meanings": [
+        "union",
+        "combination"
+      ]
+    },
+    {
+      "id": 1559610,
+      "kanji": "連続",
+      "readings": "れんぞく",
+      "meanings": [
+        "continuation",
+        "succession"
+      ]
+    },
+    {
+      "id": 1559790,
+      "kanji": "連邦",
+      "readings": "れんぽう",
+      "meanings": [
+        "federation (of states)",
+        "confederation"
+      ]
+    },
+    {
+      "id": 1559960,
+      "kanji": "連立",
+      "readings": "れんりつ",
+      "meanings": [
+        "coalition",
+        "alliance"
+      ]
+    },
+    {
+      "id": 1561330,
+      "kanji": "６月",
+      "readings": "ろくがつ",
+      "meanings": [
+        "June",
+        "sixth month of the lunar calendar"
+      ]
+    },
+    {
+      "id": 1561660,
+      "kanji": "論議",
+      "readings": "ろんぎ",
+      "meanings": [
+        "discussion",
+        "argument"
+      ]
+    },
+    {
+      "id": 1562210,
+      "kanji": "和平",
+      "readings": "わへい",
+      "meanings": [
+        "peace"
+      ]
+    },
+    {
+      "id": 1562810,
+      "kanji": "湾岸",
+      "readings": "わんがん",
+      "meanings": [
+        "gulf coast",
+        "bay coast"
+      ]
+    },
+    {
+      "id": 1576100,
+      "kanji": "一時",
+      "readings": "いちじ",
+      "meanings": [
+        "one o'clock",
+        "once"
+      ]
+    },
+    {
+      "id": 1578150,
+      "kanji": "九",
+      "readings": "きゅう",
+      "meanings": [
+        "nine",
+        "9"
+      ]
+    },
+    {
+      "id": 1578330,
+      "kanji": "研究所",
+      "readings": "けんきゅうじょ",
+      "meanings": [
+        "research establishment",
+        "research institute"
+      ]
+    },
+    {
+      "id": 1578700,
+      "kanji": "工場",
+      "readings": "こうじょう",
+      "meanings": [
+        "factory",
+        "plant"
+      ]
+    },
+    {
+      "id": 1579130,
+      "kanji": "今年",
+      "readings": "ことし",
+      "meanings": [
+        "this year"
+      ]
+    },
+    {
+      "id": 1579350,
+      "kanji": "三",
+      "readings": "さん",
+      "meanings": [
+        "three",
+        "3"
+      ]
+    },
+    {
+      "id": 1579470,
+      "kanji": "四",
+      "readings": "し",
+      "meanings": [
+        "four",
+        "4"
+      ]
+    },
+    {
+      "id": 1579840,
+      "kanji": "十",
+      "readings": "じゅう",
+      "meanings": [
+        "ten",
+        "10"
+      ]
+    },
+    {
+      "id": 1579860,
+      "kanji": "十四",
+      "readings": "じゅうし",
+      "meanings": [
+        "fourteen",
+        "14"
+      ]
+    },
+    {
+      "id": 1579880,
+      "kanji": "十七",
+      "readings": "じゅうなな",
+      "meanings": [
+        "seventeen",
+        "17"
+      ]
+    },
+    {
+      "id": 1580550,
+      "kanji": "信",
+      "readings": "しん",
+      "meanings": [
+        "honesty",
+        "sincerity"
+      ]
+    },
+    {
+      "id": 1580650,
+      "kanji": "人々",
+      "readings": "ひとびと",
+      "meanings": [
+        "people",
+        "men and women"
+      ]
+    },
+    {
+      "id": 1581180,
+      "kanji": "全国",
+      "readings": "ぜんこく",
+      "meanings": [
+        "the whole country"
+      ]
+    },
+    {
+      "id": 1582670,
+      "kanji": "二人",
+      "readings": "ふたり",
+      "meanings": [
+        "two persons",
+        "two people"
+      ]
+    },
+    {
+      "id": 1583090,
+      "kanji": "八",
+      "readings": "はち",
+      "meanings": [
+        "eight",
+        "8"
+      ]
+    },
+    {
+      "id": 1583870,
+      "kanji": "平均",
+      "readings": "へいきん",
+      "meanings": [
+        "average",
+        "mean"
+      ]
+    },
+    {
+      "id": 1585310,
+      "kanji": "六",
+      "readings": "ろく",
+      "meanings": [
+        "six",
+        "6"
+      ]
+    },
+    {
+      "id": 1587040,
+      "kanji": "言う",
+      "readings": "いう",
+      "meanings": [
+        "to say",
+        "to utter"
+      ]
+    },
+    {
+      "id": 1587200,
+      "kanji": "意向",
+      "readings": "いこう",
+      "meanings": [
+        "intention",
+        "idea"
+      ]
+    },
+    {
+      "id": 1589060,
+      "kanji": "行う",
+      "readings": "おこなう",
+      "meanings": [
+        "to perform",
+        "to do"
+      ]
+    },
+    {
+      "id": 1589190,
+      "kanji": "雄",
+      "readings": "おす",
+      "meanings": [
+        "male (animal, plant)"
+      ]
+    },
+    {
+      "id": 1591210,
+      "kanji": "基準",
+      "readings": "きじゅん",
+      "meanings": [
+        "standard",
+        "criterion"
+      ]
+    },
+    {
+      "id": 1591430,
+      "kanji": "気持ち",
+      "readings": "きもち",
+      "meanings": [
+        "feeling",
+        "sensation"
+      ]
+    },
+    {
+      "id": 1591660,
+      "kanji": "共同",
+      "readings": "きょうどう",
+      "meanings": [
+        "cooperation",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 1591720,
+      "kanji": "協力",
+      "readings": "きょうりょく",
+      "meanings": [
+        "cooperation",
+        "collaboration"
+      ]
+    },
+    {
+      "id": 1592250,
+      "kanji": "国",
+      "readings": "くに",
+      "meanings": [
+        "country",
+        "state"
+      ]
+    },
+    {
+      "id": 1593610,
+      "kanji": "五輪",
+      "readings": "ごりん",
+      "meanings": [
+        "Olympic Games",
+        "Olympics"
+      ]
+    },
+    {
+      "id": 1595090,
+      "kanji": "銀",
+      "readings": "ぎん",
+      "meanings": [
+        "silver (Ag)",
+        "silver coin"
+      ]
+    },
+    {
+      "id": 1595240,
+      "kanji": "事態",
+      "readings": "じたい",
+      "meanings": [
+        "situation",
+        "(present) state of affairs"
+      ]
+    },
+    {
+      "id": 1596380,
+      "kanji": "総合",
+      "readings": "そうごう",
+      "meanings": [
+        "synthesis",
+        "combination"
+      ]
+    },
+    {
+      "id": 1598590,
+      "kanji": "問い合わせ",
+      "readings": "といあわせ",
+      "meanings": [
+        "inquiry",
+        "query"
+      ]
+    },
+    {
+      "id": 1599120,
+      "kanji": "取引",
+      "readings": "とりひき",
+      "meanings": [
+        "transactions",
+        "dealings"
+      ]
+    },
+    {
+      "id": 1600900,
+      "kanji": "話",
+      "readings": "はなし",
+      "meanings": [
+        "talk",
+        "speech"
+      ]
+    },
+    {
+      "id": 1604610,
+      "kanji": "見通し",
+      "readings": "みとおし",
+      "meanings": [
+        "unobstructed view",
+        "perspective"
+      ]
+    },
+    {
+      "id": 1604740,
+      "kanji": "民族",
+      "readings": "みんぞく",
+      "meanings": [
+        "people",
+        "race"
+      ]
+    },
+    {
+      "id": 1606450,
+      "kanji": "労働",
+      "readings": "ろうどう",
+      "meanings": [
+        "manual labor",
+        "manual labour"
+      ]
+    },
+    {
+      "id": 1607450,
+      "kanji": "戦後",
+      "readings": "せんご",
+      "meanings": [
+        "postwar period",
+        "period after Second World War"
+      ]
+    },
+    {
+      "id": 1608020,
+      "kanji": "自民党",
+      "readings": "じみんとう",
+      "meanings": [
+        "Liberal Democratic Party",
+        "LDP"
+      ]
+    },
+    {
+      "id": 1634950,
+      "kanji": "時事",
+      "readings": "じじ",
+      "meanings": [
+        "events of the day",
+        "current affairs"
+      ]
+    },
+    {
+      "id": 1650220,
+      "kanji": "４０",
+      "readings": "よんじゅう",
+      "meanings": [
+        "forty",
+        "40"
+      ]
+    },
+    {
+      "id": 1652350,
+      "kanji": "京都",
+      "readings": "きょうと",
+      "meanings": [
+        "Kyoto (city, prefecture)"
+      ]
+    },
+    {
+      "id": 1658480,
+      "kanji": "時半",
+      "readings": "じはん",
+      "meanings": [
+        "half past (the hour)"
+      ]
+    },
+    {
+      "id": 1658610,
+      "kanji": "自民",
+      "readings": "じみん",
+      "meanings": [
+        "Liberal Democratic Party",
+        "LDP"
+      ]
+    },
+    {
+      "id": 1693050,
+      "kanji": "５０",
+      "readings": "ごじゅう",
+      "meanings": [
+        "fifty",
+        "50"
+      ]
+    },
+    {
+      "id": 1898260,
+      "kanji": "同市",
+      "readings": "どうし",
+      "meanings": [
+        "same city"
+      ]
+    },
+    {
+      "id": 1922770,
+      "kanji": "３０",
+      "readings": "さんじゅう",
+      "meanings": [
+        "thirty",
+        "30"
+      ]
+    },
+    {
+      "id": 1951150,
+      "kanji": "決まって",
+      "readings": "きまって",
+      "meanings": [
+        "always",
+        "without fail"
+      ]
+    },
+    {
+      "id": 2010500,
+      "kanji": "グアテマラ共和国",
+      "readings": "グアテマラきょうわこく",
+      "meanings": [
+        "Republic of Guatemala"
+      ]
+    },
+    {
+      "id": 2153730,
+      "kanji": "業",
+      "readings": "ぎょう",
+      "meanings": [
+        "work",
+        "business"
+      ]
+    }
+  ]
+}
