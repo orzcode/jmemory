@@ -1,7 +1,7 @@
 {
   "entries": [
     {
-      "id": 1153930,
+      "id": 1,
       "kanji": "安全",
       "readings": "あんぜん",
       "meanings": [
@@ -10,16 +10,7 @@
       ]
     },
     {
-      "id": 1154260,
-      "kanji": "安保",
-      "readings": "あんぽ",
-      "meanings": [
-        "security (e.g. national security)",
-        "US-Japan Security Treaty"
-      ]
-    },
-    {
-      "id": 1155210,
+      "id": 2,
       "kanji": "以来",
       "readings": "いらい",
       "meanings": [
@@ -28,15 +19,7 @@
       ]
     },
     {
-      "id": 1156100,
-      "kanji": "委員",
-      "readings": "いいん",
-      "meanings": [
-        "committee member"
-      ]
-    },
-    {
-      "id": 1156110,
+      "id": 3,
       "kanji": "委員会",
       "readings": "いいんかい",
       "meanings": [
@@ -45,16 +28,16 @@
       ]
     },
     {
-      "id": 1156120,
+      "id": 4,
       "kanji": "委員長",
       "readings": "いいんちょう",
       "meanings": [
-        "chairperson (of a committee)",
+        "chairperson",
         "chair"
       ]
     },
     {
-      "id": 1156530,
+      "id": 5,
       "kanji": "意見",
       "readings": "いけん",
       "meanings": [
@@ -63,7 +46,7 @@
       ]
     },
     {
-      "id": 1156800,
+      "id": 6,
       "kanji": "意味",
       "readings": "いみ",
       "meanings": [
@@ -72,7 +55,7 @@
       ]
     },
     {
-      "id": 1158450,
+      "id": 7,
       "kanji": "維持",
       "readings": "いじ",
       "meanings": [
@@ -81,7 +64,7 @@
       ]
     },
     {
-      "id": 1158950,
+      "id": 8,
       "kanji": "違反",
       "readings": "いはん",
       "meanings": [
@@ -90,7 +73,7 @@
       ]
     },
     {
-      "id": 1160140,
+      "id": 9,
       "kanji": "医療",
       "readings": "いりょう",
       "meanings": [
@@ -99,25 +82,7 @@
       ]
     },
     {
-      "id": 1160820,
-      "kanji": "一つ",
-      "readings": "ひとつ",
-      "meanings": [
-        "one",
-        "for one thing"
-      ]
-    },
-    {
-      "id": 1162120,
-      "kanji": "１月",
-      "readings": "いちがつ",
-      "meanings": [
-        "January",
-        "first month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1165790,
+      "id": 10,
       "kanji": "一般",
       "readings": "いっぱん",
       "meanings": [
@@ -126,16 +91,7 @@
       ]
     },
     {
-      "id": 1165970,
-      "kanji": "一番",
-      "readings": "いちばん",
-      "meanings": [
-        "number one",
-        "first"
-      ]
-    },
-    {
-      "id": 1166180,
+      "id": 11,
       "kanji": "一部",
       "readings": "いちぶ",
       "meanings": [
@@ -144,7 +100,7 @@
       ]
     },
     {
-      "id": 1166510,
+      "id": 12,
       "kanji": "一方",
       "readings": "いっぽう",
       "meanings": [
@@ -153,16 +109,7 @@
       ]
     },
     {
-      "id": 1171010,
-      "kanji": "右",
-      "readings": "みぎ",
-      "meanings": [
-        "right",
-        "right-hand side"
-      ]
-    },
-    {
-      "id": 1172910,
+      "id": 13,
       "kanji": "運動",
       "readings": "うんどう",
       "meanings": [
@@ -171,7 +118,7 @@
       ]
     },
     {
-      "id": 1173660,
+      "id": 14,
       "kanji": "影響",
       "readings": "えいきょう",
       "meanings": [
@@ -180,7 +127,7 @@
       ]
     },
     {
-      "id": 1173720,
+      "id": 15,
       "kanji": "映画",
       "readings": "えいが",
       "meanings": [
@@ -189,7 +136,7 @@
       ]
     },
     {
-      "id": 1176660,
+      "id": 16,
       "kanji": "援助",
       "readings": "えんじょ",
       "meanings": [
@@ -198,7 +145,7 @@
       ]
     },
     {
-      "id": 1181190,
+      "id": 17,
       "kanji": "欧州",
       "readings": "おうしゅう",
       "meanings": [
@@ -206,7 +153,7 @@
       ]
     },
     {
-      "id": 1183720,
+      "id": 18,
       "kanji": "音楽",
       "readings": "おんがく",
       "meanings": [
@@ -214,7 +161,7 @@
       ]
     },
     {
-      "id": 1189500,
+      "id": 19,
       "kanji": "価格",
       "readings": "かかく",
       "meanings": [
@@ -223,16 +170,16 @@
       ]
     },
     {
-      "id": 1190580,
+      "id": 20,
       "kanji": "加盟",
       "readings": "かめい",
       "meanings": [
-        "joining (an association, agreement, etc.)",
+        "joining (association, etc)",
         "participation"
       ]
     },
     {
-      "id": 1191060,
+      "id": 21,
       "kanji": "可能",
       "readings": "かのう",
       "meanings": [
@@ -241,7 +188,7 @@
       ]
     },
     {
-      "id": 1191080,
+      "id": 22,
       "kanji": "可能性",
       "readings": "かのうせい",
       "meanings": [
@@ -250,7 +197,7 @@
       ]
     },
     {
-      "id": 1191320,
+      "id": 23,
       "kanji": "夏",
       "readings": "なつ",
       "meanings": [
@@ -258,7 +205,7 @@
       ]
     },
     {
-      "id": 1192150,
+      "id": 24,
       "kanji": "家族",
       "readings": "かぞく",
       "meanings": [
@@ -266,7 +213,7 @@
       ]
     },
     {
-      "id": 1192280,
+      "id": 25,
       "kanji": "家庭",
       "readings": "かてい",
       "meanings": [
@@ -275,7 +222,7 @@
       ]
     },
     {
-      "id": 1194500,
+      "id": 26,
       "kanji": "花",
       "readings": "はな",
       "meanings": [
@@ -284,7 +231,7 @@
       ]
     },
     {
-      "id": 1195820,
+      "id": 27,
       "kanji": "課題",
       "readings": "かだい",
       "meanings": [
@@ -293,7 +240,7 @@
       ]
     },
     {
-      "id": 1196030,
+      "id": 28,
       "kanji": "過去",
       "readings": "かこ",
       "meanings": [
@@ -302,7 +249,7 @@
       ]
     },
     {
-      "id": 1198230,
+      "id": 29,
       "kanji": "会員",
       "readings": "かいいん",
       "meanings": [
@@ -311,7 +258,7 @@
       ]
     },
     {
-      "id": 1198360,
+      "id": 30,
       "kanji": "会議",
       "readings": "かいぎ",
       "meanings": [
@@ -320,7 +267,7 @@
       ]
     },
     {
-      "id": 1198500,
+      "id": 31,
       "kanji": "会見",
       "readings": "かいけん",
       "meanings": [
@@ -329,7 +276,7 @@
       ]
     },
     {
-      "id": 1198550,
+      "id": 32,
       "kanji": "会社",
       "readings": "かいしゃ",
       "meanings": [
@@ -338,16 +285,16 @@
       ]
     },
     {
-      "id": 1198760,
+      "id": 33,
       "kanji": "会談",
       "readings": "かいだん",
       "meanings": [
-        "talks (i.e. formal discussions)",
+        "talks (formal)",
         "conference"
       ]
     },
     {
-      "id": 1198770,
+      "id": 34,
       "kanji": "会長",
       "readings": "かいちょう",
       "meanings": [
@@ -356,7 +303,7 @@
       ]
     },
     {
-      "id": 1198960,
+      "id": 35,
       "kanji": "解決",
       "readings": "かいけつ",
       "meanings": [
@@ -365,7 +312,7 @@
       ]
     },
     {
-      "id": 1199720,
+      "id": 36,
       "kanji": "回復",
       "readings": "かいふく",
       "meanings": [
@@ -374,7 +321,7 @@
       ]
     },
     {
-      "id": 1200780,
+      "id": 37,
       "kanji": "改革",
       "readings": "かいかく",
       "meanings": [
@@ -383,7 +330,7 @@
       ]
     },
     {
-      "id": 1200930,
+      "id": 38,
       "kanji": "改正",
       "readings": "かいせい",
       "meanings": [
@@ -392,7 +339,7 @@
       ]
     },
     {
-      "id": 1201260,
+      "id": 39,
       "kanji": "海外",
       "readings": "かいがい",
       "meanings": [
@@ -401,7 +348,7 @@
       ]
     },
     {
-      "id": 1202880,
+      "id": 40,
       "kanji": "開発",
       "readings": "かいはつ",
       "meanings": [
@@ -410,16 +357,15 @@
       ]
     },
     {
-      "id": 1203540,
+      "id": 41,
       "kanji": "外交",
       "readings": "がいこう",
       "meanings": [
-        "diplomacy",
-        "selling (e.g. door-to-door)"
+        "diplomacy"
       ]
     },
     {
-      "id": 1203620,
+      "id": 42,
       "kanji": "外国",
       "readings": "がいこく",
       "meanings": [
@@ -427,7 +373,7 @@
       ]
     },
     {
-      "id": 1203650,
+      "id": 43,
       "kanji": "外国人",
       "readings": "がいこくじん",
       "meanings": [
@@ -436,7 +382,7 @@
       ]
     },
     {
-      "id": 1203940,
+      "id": 44,
       "kanji": "外相",
       "readings": "がいしょう",
       "meanings": [
@@ -444,7 +390,7 @@
       ]
     },
     {
-      "id": 1204140,
+      "id": 45,
       "kanji": "外務省",
       "readings": "がいむしょう",
       "meanings": [
@@ -452,7 +398,7 @@
       ]
     },
     {
-      "id": 1205200,
+      "id": 46,
       "kanji": "拡大",
       "readings": "かくだい",
       "meanings": [
@@ -461,7 +407,7 @@
       ]
     },
     {
-      "id": 1206310,
+      "id": 47,
       "kanji": "閣僚",
       "readings": "かくりょう",
       "meanings": [
@@ -469,7 +415,7 @@
       ]
     },
     {
-      "id": 1206730,
+      "id": 48,
       "kanji": "学校",
       "readings": "がっこう",
       "meanings": [
@@ -477,24 +423,24 @@
       ]
     },
     {
-      "id": 1206900,
+      "id": 49,
       "kanji": "学生",
       "readings": "がくせい",
       "meanings": [
-        "student (esp. a university student)"
+        "student"
       ]
     },
     {
-      "id": 1208360,
+      "id": 50,
       "kanji": "活動",
       "readings": "かつどう",
       "meanings": [
-        "activity (of a person, organization, animal, volcano, etc.)",
+        "activity (person, organization etc)",
         "action"
       ]
     },
     {
-      "id": 1208970,
+      "id": 51,
       "kanji": "株式",
       "readings": "かぶしき",
       "meanings": [
@@ -503,7 +449,7 @@
       ]
     },
     {
-      "id": 1212110,
+      "id": 52,
       "kanji": "幹事",
       "readings": "かんじ",
       "meanings": [
@@ -512,7 +458,7 @@
       ]
     },
     {
-      "id": 1212170,
+      "id": 53,
       "kanji": "幹部",
       "readings": "かんぶ",
       "meanings": [
@@ -521,7 +467,7 @@
       ]
     },
     {
-      "id": 1212210,
+      "id": 54,
       "kanji": "患者",
       "readings": "かんじゃ",
       "meanings": [
@@ -529,7 +475,7 @@
       ]
     },
     {
-      "id": 1213280,
+      "id": 55,
       "kanji": "環境",
       "readings": "かんきょう",
       "meanings": [
@@ -538,7 +484,7 @@
       ]
     },
     {
-      "id": 1213720,
+      "id": 56,
       "kanji": "監督",
       "readings": "かんとく",
       "meanings": [
@@ -547,16 +493,16 @@
       ]
     },
     {
-      "id": 1214200,
+      "id": 57,
       "kanji": "管理",
       "readings": "かんり",
       "meanings": [
         "control",
-        "management (e.g. of a business)"
+        "management"
       ]
     },
     {
-      "id": 1215810,
+      "id": 58,
       "kanji": "関係",
       "readings": "かんけい",
       "meanings": [
@@ -565,16 +511,16 @@
       ]
     },
     {
-      "id": 1215850,
+      "id": 59,
       "kanji": "関係者",
       "readings": "かんけいしゃ",
       "meanings": [
         "person concerned",
-        "people involved (in an event)"
+        "people involved"
       ]
     },
     {
-      "id": 1215870,
+      "id": 60,
       "kanji": "関心",
       "readings": "かんしん",
       "meanings": [
@@ -583,7 +529,7 @@
       ]
     },
     {
-      "id": 1216060,
+      "id": 61,
       "kanji": "関連",
       "readings": "かんれん",
       "meanings": [
@@ -592,7 +538,7 @@
       ]
     },
     {
-      "id": 1216170,
+      "id": 62,
       "kanji": "韓国",
       "readings": "かんこく",
       "meanings": [
@@ -601,7 +547,7 @@
       ]
     },
     {
-      "id": 1217730,
+      "id": 63,
       "kanji": "顔",
       "readings": "かお",
       "meanings": [
@@ -610,7 +556,7 @@
       ]
     },
     {
-      "id": 1218190,
+      "id": 64,
       "kanji": "企業",
       "readings": "きぎょう",
       "meanings": [
@@ -619,7 +565,7 @@
       ]
     },
     {
-      "id": 1218450,
+      "id": 65,
       "kanji": "危機",
       "readings": "きき",
       "meanings": [
@@ -628,7 +574,7 @@
       ]
     },
     {
-      "id": 1219190,
+      "id": 66,
       "kanji": "基本",
       "readings": "きほん",
       "meanings": [
@@ -637,7 +583,7 @@
       ]
     },
     {
-      "id": 1220550,
+      "id": 67,
       "kanji": "期間",
       "readings": "きかん",
       "meanings": [
@@ -646,7 +592,7 @@
       ]
     },
     {
-      "id": 1220570,
+      "id": 68,
       "kanji": "期待",
       "readings": "きたい",
       "meanings": [
@@ -655,7 +601,7 @@
       ]
     },
     {
-      "id": 1220870,
+      "id": 69,
       "kanji": "機関",
       "readings": "きかん",
       "meanings": [
@@ -664,7 +610,7 @@
       ]
     },
     {
-      "id": 1220940,
+      "id": 70,
       "kanji": "機構",
       "readings": "きこう",
       "meanings": [
@@ -673,7 +619,7 @@
       ]
     },
     {
-      "id": 1221130,
+      "id": 71,
       "kanji": "機能",
       "readings": "きのう",
       "meanings": [
@@ -682,7 +628,7 @@
       ]
     },
     {
-      "id": 1221520,
+      "id": 72,
       "kanji": "気",
       "readings": "き",
       "meanings": [
@@ -691,7 +637,7 @@
       ]
     },
     {
-      "id": 1223010,
+      "id": 73,
       "kanji": "規制",
       "readings": "きせい",
       "meanings": [
@@ -700,7 +646,7 @@
       ]
     },
     {
-      "id": 1223090,
+      "id": 74,
       "kanji": "規模",
       "readings": "きぼ",
       "meanings": [
@@ -709,7 +655,7 @@
       ]
     },
     {
-      "id": 1223240,
+      "id": 75,
       "kanji": "記事",
       "readings": "きじ",
       "meanings": [
@@ -718,7 +664,7 @@
       ]
     },
     {
-      "id": 1223250,
+      "id": 76,
       "kanji": "記者",
       "readings": "きしゃ",
       "meanings": [
@@ -727,7 +673,7 @@
       ]
     },
     {
-      "id": 1223440,
+      "id": 77,
       "kanji": "記録",
       "readings": "きろく",
       "meanings": [
@@ -736,7 +682,7 @@
       ]
     },
     {
-      "id": 1225130,
+      "id": 78,
       "kanji": "技術",
       "readings": "ぎじゅつ",
       "meanings": [
@@ -745,7 +691,7 @@
       ]
     },
     {
-      "id": 1225490,
+      "id": 79,
       "kanji": "疑い",
       "readings": "うたがい",
       "meanings": [
@@ -754,16 +700,16 @@
       ]
     },
     {
-      "id": 1226020,
+      "id": 80,
       "kanji": "議員",
       "readings": "ぎいん",
       "meanings": [
-        "member of an assembly",
+        "member of assembly",
         "member of the Diet"
       ]
     },
     {
-      "id": 1226040,
+      "id": 81,
       "kanji": "議会",
       "readings": "ぎかい",
       "meanings": [
@@ -772,7 +718,7 @@
       ]
     },
     {
-      "id": 1226140,
+      "id": 82,
       "kanji": "議長",
       "readings": "ぎちょう",
       "meanings": [
@@ -781,7 +727,7 @@
       ]
     },
     {
-      "id": 1226630,
+      "id": 83,
       "kanji": "客",
       "readings": "きゃく",
       "meanings": [
@@ -790,7 +736,7 @@
       ]
     },
     {
-      "id": 1234550,
+      "id": 84,
       "kanji": "共産党",
       "readings": "きょうさんとう",
       "meanings": [
@@ -798,7 +744,7 @@
       ]
     },
     {
-      "id": 1235550,
+      "id": 85,
       "kanji": "協会",
       "readings": "きょうかい",
       "meanings": [
@@ -807,7 +753,7 @@
       ]
     },
     {
-      "id": 1235570,
+      "id": 86,
       "kanji": "協議",
       "readings": "きょうぎ",
       "meanings": [
@@ -816,7 +762,7 @@
       ]
     },
     {
-      "id": 1235730,
+      "id": 87,
       "kanji": "協定",
       "readings": "きょうてい",
       "meanings": [
@@ -825,7 +771,7 @@
       ]
     },
     {
-      "id": 1236200,
+      "id": 88,
       "kanji": "強化",
       "readings": "きょうか",
       "meanings": [
@@ -834,7 +780,7 @@
       ]
     },
     {
-      "id": 1236950,
+      "id": 89,
       "kanji": "教育",
       "readings": "きょういく",
       "meanings": [
@@ -843,7 +789,7 @@
       ]
     },
     {
-      "id": 1237160,
+      "id": 90,
       "kanji": "教授",
       "readings": "きょうじゅ",
       "meanings": [
@@ -852,7 +798,7 @@
       ]
     },
     {
-      "id": 1239380,
+      "id": 91,
       "kanji": "業界",
       "readings": "ぎょうかい",
       "meanings": [
@@ -861,7 +807,7 @@
       ]
     },
     {
-      "id": 1239440,
+      "id": 92,
       "kanji": "業者",
       "readings": "ぎょうしゃ",
       "meanings": [
@@ -870,7 +816,7 @@
       ]
     },
     {
-      "id": 1241750,
+      "id": 93,
       "kanji": "筋",
       "readings": "すじ",
       "meanings": [
@@ -879,7 +825,7 @@
       ]
     },
     {
-      "id": 1243290,
+      "id": 94,
       "kanji": "金融",
       "readings": "きんゆう",
       "meanings": [
@@ -888,7 +834,7 @@
       ]
     },
     {
-      "id": 1243330,
+      "id": 95,
       "kanji": "金利",
       "readings": "きんり",
       "meanings": [
@@ -897,7 +843,7 @@
       ]
     },
     {
-      "id": 1243490,
+      "id": 96,
       "kanji": "銀行",
       "readings": "ぎんこう",
       "meanings": [
@@ -906,16 +852,7 @@
       ]
     },
     {
-      "id": 1243660,
-      "kanji": "９月",
-      "readings": "くがつ",
-      "meanings": [
-        "September",
-        "ninth month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1245050,
+      "id": 97,
       "kanji": "具体的",
       "readings": "ぐたいてき",
       "meanings": [
@@ -924,7 +861,7 @@
       ]
     },
     {
-      "id": 1245570,
+      "id": 98,
       "kanji": "空港",
       "readings": "くうこう",
       "meanings": [
@@ -932,7 +869,7 @@
       ]
     },
     {
-      "id": 1248080,
+      "id": 99,
       "kanji": "軍事",
       "readings": "ぐんじ",
       "meanings": [
@@ -940,7 +877,7 @@
       ]
     },
     {
-      "id": 1250190,
+      "id": 100,
       "kanji": "契約",
       "readings": "けいやく",
       "meanings": [
@@ -949,7 +886,7 @@
       ]
     },
     {
-      "id": 1250220,
+      "id": 101,
       "kanji": "形",
       "readings": "かたち",
       "meanings": [
@@ -958,7 +895,7 @@
       ]
     },
     {
-      "id": 1250830,
+      "id": 102,
       "kanji": "景気",
       "readings": "けいき",
       "meanings": [
@@ -967,7 +904,7 @@
       ]
     },
     {
-      "id": 1251130,
+      "id": 103,
       "kanji": "経営",
       "readings": "けいえい",
       "meanings": [
@@ -976,7 +913,7 @@
       ]
     },
     {
-      "id": 1251320,
+      "id": 104,
       "kanji": "経済",
       "readings": "けいざい",
       "meanings": [
@@ -985,7 +922,7 @@
       ]
     },
     {
-      "id": 1252090,
+      "id": 105,
       "kanji": "計画",
       "readings": "けいかく",
       "meanings": [
@@ -994,7 +931,7 @@
       ]
     },
     {
-      "id": 1252390,
+      "id": 106,
       "kanji": "警察",
       "readings": "けいさつ",
       "meanings": [
@@ -1003,7 +940,7 @@
       ]
     },
     {
-      "id": 1254240,
+      "id": 107,
       "kanji": "決議",
       "readings": "けつぎ",
       "meanings": [
@@ -1012,7 +949,7 @@
       ]
     },
     {
-      "id": 1254380,
+      "id": 108,
       "kanji": "決定",
       "readings": "けってい",
       "meanings": [
@@ -1021,7 +958,7 @@
       ]
     },
     {
-      "id": 1254690,
+      "id": 109,
       "kanji": "結果",
       "readings": "けっか",
       "meanings": [
@@ -1030,7 +967,7 @@
       ]
     },
     {
-      "id": 1257420,
+      "id": 110,
       "kanji": "建設",
       "readings": "けんせつ",
       "meanings": [
@@ -1039,7 +976,7 @@
       ]
     },
     {
-      "id": 1257590,
+      "id": 111,
       "kanji": "憲法",
       "readings": "けんぽう",
       "meanings": [
@@ -1048,7 +985,7 @@
       ]
     },
     {
-      "id": 1258420,
+      "id": 112,
       "kanji": "献金",
       "readings": "けんきん",
       "meanings": [
@@ -1057,7 +994,7 @@
       ]
     },
     {
-      "id": 1258520,
+      "id": 113,
       "kanji": "研究",
       "readings": "けんきゅう",
       "meanings": [
@@ -1066,7 +1003,7 @@
       ]
     },
     {
-      "id": 1259890,
+      "id": 114,
       "kanji": "見直し",
       "readings": "みなおし",
       "meanings": [
@@ -1075,7 +1012,7 @@
       ]
     },
     {
-      "id": 1260070,
+      "id": 115,
       "kanji": "見方",
       "readings": "みかた",
       "meanings": [
@@ -1084,7 +1021,7 @@
       ]
     },
     {
-      "id": 1261190,
+      "id": 116,
       "kanji": "原因",
       "readings": "げんいん",
       "meanings": [
@@ -1093,7 +1030,7 @@
       ]
     },
     {
-      "id": 1262070,
+      "id": 117,
       "kanji": "原則",
       "readings": "げんそく",
       "meanings": [
@@ -1102,7 +1039,7 @@
       ]
     },
     {
-      "id": 1263650,
+      "id": 118,
       "kanji": "現在",
       "readings": "げんざい",
       "meanings": [
@@ -1111,7 +1048,7 @@
       ]
     },
     {
-      "id": 1263710,
+      "id": 119,
       "kanji": "現実",
       "readings": "げんじつ",
       "meanings": [
@@ -1120,16 +1057,16 @@
       ]
     },
     {
-      "id": 1263760,
+      "id": 120,
       "kanji": "現場",
       "readings": "げんば",
       "meanings": [
         "actual spot",
-        "scene (of a crime, accident, etc.)"
+        "scene (crime, accident etc)"
       ]
     },
     {
-      "id": 1263860,
+      "id": 121,
       "kanji": "現地",
       "readings": "げんち",
       "meanings": [
@@ -1138,7 +1075,7 @@
       ]
     },
     {
-      "id": 1264380,
+      "id": 122,
       "kanji": "言わば",
       "readings": "いわば",
       "meanings": [
@@ -1147,7 +1084,7 @@
       ]
     },
     {
-      "id": 1264540,
+      "id": 123,
       "kanji": "言葉",
       "readings": "ことば",
       "meanings": [
@@ -1156,7 +1093,7 @@
       ]
     },
     {
-      "id": 1264770,
+      "id": 124,
       "kanji": "個人",
       "readings": "こじん",
       "meanings": [
@@ -1165,25 +1102,7 @@
       ]
     },
     {
-      "id": 1268060,
-      "kanji": "五",
-      "readings": "ご",
-      "meanings": [
-        "five",
-        "5"
-      ]
-    },
-    {
-      "id": 1268170,
-      "kanji": "５月",
-      "readings": "ごがつ",
-      "meanings": [
-        "May",
-        "fifth month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1268990,
+      "id": 125,
       "kanji": "午後",
       "readings": "ごご",
       "meanings": [
@@ -1192,7 +1111,7 @@
       ]
     },
     {
-      "id": 1269060,
+      "id": 126,
       "kanji": "午前",
       "readings": "ごぜん",
       "meanings": [
@@ -1201,7 +1120,7 @@
       ]
     },
     {
-      "id": 1269320,
+      "id": 127,
       "kanji": "後",
       "readings": "あと",
       "meanings": [
@@ -1210,7 +1129,7 @@
       ]
     },
     {
-      "id": 1272110,
+      "id": 128,
       "kanji": "交渉",
       "readings": "こうしょう",
       "meanings": [
@@ -1219,16 +1138,16 @@
       ]
     },
     {
-      "id": 1272580,
+      "id": 129,
       "kanji": "交流",
       "readings": "こうりゅう",
       "meanings": [
-        "exchange (e.g. cultural)",
+        "exchange (cultural)",
         "interchange"
       ]
     },
     {
-      "id": 1272730,
+      "id": 130,
       "kanji": "候補",
       "readings": "こうほ",
       "meanings": [
@@ -1237,7 +1156,7 @@
       ]
     },
     {
-      "id": 1272780,
+      "id": 131,
       "kanji": "光",
       "readings": "ひかり",
       "meanings": [
@@ -1246,7 +1165,7 @@
       ]
     },
     {
-      "id": 1275130,
+      "id": 132,
       "kanji": "効果",
       "readings": "こうか",
       "meanings": [
@@ -1255,7 +1174,7 @@
       ]
     },
     {
-      "id": 1279170,
+      "id": 133,
       "kanji": "攻撃",
       "readings": "こうげき",
       "meanings": [
@@ -1264,7 +1183,7 @@
       ]
     },
     {
-      "id": 1279790,
+      "id": 134,
       "kanji": "構造",
       "readings": "こうぞう",
       "meanings": [
@@ -1273,7 +1192,7 @@
       ]
     },
     {
-      "id": 1281000,
+      "id": 135,
       "kanji": "考え",
       "readings": "かんがえ",
       "meanings": [
@@ -1282,7 +1201,7 @@
       ]
     },
     {
-      "id": 1282010,
+      "id": 136,
       "kanji": "行政",
       "readings": "ぎょうせい",
       "meanings": [
@@ -1291,7 +1210,7 @@
       ]
     },
     {
-      "id": 1282100,
+      "id": 137,
       "kanji": "行動",
       "readings": "こうどう",
       "meanings": [
@@ -1300,7 +1219,7 @@
       ]
     },
     {
-      "id": 1283500,
+      "id": 138,
       "kanji": "高校",
       "readings": "こうこう",
       "meanings": [
@@ -1309,16 +1228,16 @@
       ]
     },
     {
-      "id": 1284550,
+      "id": 139,
       "kanji": "合意",
       "readings": "ごうい",
       "meanings": [
-        "(coming to an) agreement",
+        "(coming to) agreement",
         "consent"
       ]
     },
     {
-      "id": 1286080,
+      "id": 140,
       "kanji": "告別",
       "readings": "こくべつ",
       "meanings": [
@@ -1327,7 +1246,7 @@
       ]
     },
     {
-      "id": 1286170,
+      "id": 141,
       "kanji": "国家",
       "readings": "こっか",
       "meanings": [
@@ -1336,37 +1255,15 @@
       ]
     },
     {
-      "id": 1286240,
-      "kanji": "国会",
-      "readings": "こっかい",
-      "meanings": [
-        "National Diet",
-        {
-          "_g_type": "expl",
-          "__text": "legislative assembly of Japan (1947-)"
-        }
-      ]
-    },
-    {
-      "id": 1286400,
+      "id": 142,
       "kanji": "国際",
       "readings": "こくさい",
       "meanings": [
-        "international",
-        "diplomatic intercourse"
+        "international"
       ]
     },
     {
-      "id": 1286930,
-      "kanji": "国内",
-      "readings": "こくない",
-      "meanings": [
-        "internal",
-        "domestic"
-      ]
-    },
-    {
-      "id": 1287070,
+      "id": 143,
       "kanji": "国民",
       "readings": "こくみん",
       "meanings": [
@@ -1375,7 +1272,7 @@
       ]
     },
     {
-      "id": 1287210,
+      "id": 144,
       "kanji": "国連",
       "readings": "こくれん",
       "meanings": [
@@ -1384,7 +1281,7 @@
       ]
     },
     {
-      "id": 1289070,
+      "id": 145,
       "kanji": "今回",
       "readings": "こんかい",
       "meanings": [
@@ -1393,7 +1290,7 @@
       ]
     },
     {
-      "id": 1289100,
+      "id": 146,
       "kanji": "今月",
       "readings": "こんげつ",
       "meanings": [
@@ -1401,7 +1298,7 @@
       ]
     },
     {
-      "id": 1289140,
+      "id": 147,
       "kanji": "今後",
       "readings": "こんご",
       "meanings": [
@@ -1410,7 +1307,7 @@
       ]
     },
     {
-      "id": 1290800,
+      "id": 148,
       "kanji": "左",
       "readings": "ひだり",
       "meanings": [
@@ -1419,7 +1316,7 @@
       ]
     },
     {
-      "id": 1293700,
+      "id": 149,
       "kanji": "最も",
       "readings": "もっとも",
       "meanings": [
@@ -1428,7 +1325,7 @@
       ]
     },
     {
-      "id": 1293780,
+      "id": 150,
       "kanji": "最近",
       "readings": "さいきん",
       "meanings": [
@@ -1437,7 +1334,7 @@
       ]
     },
     {
-      "id": 1293810,
+      "id": 151,
       "kanji": "最後",
       "readings": "さいご",
       "meanings": [
@@ -1446,7 +1343,7 @@
       ]
     },
     {
-      "id": 1293850,
+      "id": 152,
       "kanji": "最高",
       "readings": "さいこう",
       "meanings": [
@@ -1455,7 +1352,7 @@
       ]
     },
     {
-      "id": 1293940,
+      "id": 153,
       "kanji": "最終",
       "readings": "さいしゅう",
       "meanings": [
@@ -1464,7 +1361,7 @@
       ]
     },
     {
-      "id": 1293990,
+      "id": 154,
       "kanji": "最初",
       "readings": "さいしょ",
       "meanings": [
@@ -1473,7 +1370,7 @@
       ]
     },
     {
-      "id": 1294180,
+      "id": 155,
       "kanji": "最大",
       "readings": "さいだい",
       "meanings": [
@@ -1482,16 +1379,16 @@
       ]
     },
     {
-      "id": 1294330,
+      "id": 156,
       "kanji": "妻",
       "readings": "つま",
       "meanings": [
         "wife",
-        "garnish (esp. one served with sashimi)"
+        "garnish"
       ]
     },
     {
-      "id": 1296120,
+      "id": 157,
       "kanji": "裁判",
       "readings": "さいばん",
       "meanings": [
@@ -1500,7 +1397,7 @@
       ]
     },
     {
-      "id": 1296830,
+      "id": 158,
       "kanji": "財政",
       "readings": "ざいせい",
       "meanings": [
@@ -1509,7 +1406,7 @@
       ]
     },
     {
-      "id": 1297540,
+      "id": 159,
       "kanji": "作業",
       "readings": "さぎょう",
       "meanings": [
@@ -1518,16 +1415,16 @@
       ]
     },
     {
-      "id": 1297910,
+      "id": 160,
       "kanji": "作品",
       "readings": "さくひん",
       "meanings": [
-        "work (e.g. book, film, painting, composition)",
+        "work (book, film etc)",
         "piece"
       ]
     },
     {
-      "id": 1298110,
+      "id": 161,
       "kanji": "削減",
       "readings": "さくげん",
       "meanings": [
@@ -1536,7 +1433,7 @@
       ]
     },
     {
-      "id": 1298230,
+      "id": 162,
       "kanji": "昨年",
       "readings": "さくねん",
       "meanings": [
@@ -1544,32 +1441,7 @@
       ]
     },
     {
-      "id": 1300250,
-      "kanji": "３月",
-      "readings": "さんがつ",
-      "meanings": [
-        "March",
-        "third month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1301000,
-      "kanji": "三人",
-      "readings": "さんにん",
-      "meanings": [
-        "three people"
-      ]
-    },
-    {
-      "id": 1302080,
-      "kanji": "参院",
-      "readings": "さんいん",
-      "meanings": [
-        "House of Councillors (upper house of the National Diet of Japan)"
-      ]
-    },
-    {
-      "id": 1302090,
+      "id": 163,
       "kanji": "参加",
       "readings": "さんか",
       "meanings": [
@@ -1578,7 +1450,7 @@
       ]
     },
     {
-      "id": 1303770,
+      "id": 164,
       "kanji": "産業",
       "readings": "さんぎょう",
       "meanings": [
@@ -1587,7 +1459,7 @@
       ]
     },
     {
-      "id": 1304970,
+      "id": 165,
       "kanji": "仕事",
       "readings": "しごと",
       "meanings": [
@@ -1596,16 +1468,7 @@
       ]
     },
     {
-      "id": 1307180,
-      "kanji": "４月",
-      "readings": "しがつ",
-      "meanings": [
-        "April",
-        "fourth month in the lunar calendar"
-      ]
-    },
-    {
-      "id": 1307710,
+      "id": 166,
       "kanji": "姿",
       "readings": "すがた",
       "meanings": [
@@ -1614,7 +1477,7 @@
       ]
     },
     {
-      "id": 1307740,
+      "id": 167,
       "kanji": "姿勢",
       "readings": "しせい",
       "meanings": [
@@ -1623,16 +1486,7 @@
       ]
     },
     {
-      "id": 1307770,
-      "kanji": "子",
-      "readings": "こ",
-      "meanings": [
-        "child",
-        "kid"
-      ]
-    },
-    {
-      "id": 1307850,
+      "id": 168,
       "kanji": "子供",
       "readings": "こども",
       "meanings": [
@@ -1641,25 +1495,25 @@
       ]
     },
     {
-      "id": 1308300,
+      "id": 169,
       "kanji": "市場",
       "readings": "いちば",
       "meanings": [
-        "(town) market",
-        "(street) market"
+        "town market",
+        "street market"
       ]
     },
     {
-      "id": 1308305,
+      "id": 170,
       "kanji": "市場",
       "readings": "しじょう",
       "meanings": [
-        "market (financial, stock, domestic, etc.)",
+        "market (financial, stock etc)",
         "marketplace"
       ]
     },
     {
-      "id": 1308640,
+      "id": 171,
       "kanji": "市内",
       "readings": "しない",
       "meanings": [
@@ -1668,7 +1522,7 @@
       ]
     },
     {
-      "id": 1308690,
+      "id": 172,
       "kanji": "市民",
       "readings": "しみん",
       "meanings": [
@@ -1677,7 +1531,7 @@
       ]
     },
     {
-      "id": 1309950,
+      "id": 173,
       "kanji": "指導",
       "readings": "しどう",
       "meanings": [
@@ -1686,7 +1540,7 @@
       ]
     },
     {
-      "id": 1310100,
+      "id": 174,
       "kanji": "支援",
       "readings": "しえん",
       "meanings": [
@@ -1695,7 +1549,7 @@
       ]
     },
     {
-      "id": 1310150,
+      "id": 175,
       "kanji": "支持",
       "readings": "しじ",
       "meanings": [
@@ -1704,7 +1558,7 @@
       ]
     },
     {
-      "id": 1310410,
+      "id": 176,
       "kanji": "施設",
       "readings": "しせつ",
       "meanings": [
@@ -1713,7 +1567,7 @@
       ]
     },
     {
-      "id": 1310720,
+      "id": 177,
       "kanji": "死",
       "readings": "し",
       "meanings": [
@@ -1722,16 +1576,7 @@
       ]
     },
     {
-      "id": 1311110,
-      "kanji": "私",
-      "readings": "わたし",
-      "meanings": [
-        "I",
-        "me"
-      ]
-    },
-    {
-      "id": 1312420,
+      "id": 178,
       "kanji": "試合",
       "readings": "しあい",
       "meanings": [
@@ -1740,7 +1585,7 @@
       ]
     },
     {
-      "id": 1312700,
+      "id": 179,
       "kanji": "資金",
       "readings": "しきん",
       "meanings": [
@@ -1749,7 +1594,7 @@
       ]
     },
     {
-      "id": 1313670,
+      "id": 180,
       "kanji": "事業",
       "readings": "じぎょう",
       "meanings": [
@@ -1758,7 +1603,7 @@
       ]
     },
     {
-      "id": 1313830,
+      "id": 181,
       "kanji": "事件",
       "readings": "じけん",
       "meanings": [
@@ -1767,7 +1612,7 @@
       ]
     },
     {
-      "id": 1313850,
+      "id": 182,
       "kanji": "事故",
       "readings": "じこ",
       "meanings": [
@@ -1776,7 +1621,7 @@
       ]
     },
     {
-      "id": 1313960,
+      "id": 183,
       "kanji": "事実",
       "readings": "じじつ",
       "meanings": [
@@ -1785,7 +1630,7 @@
       ]
     },
     {
-      "id": 1314010,
+      "id": 184,
       "kanji": "事情",
       "readings": "じじょう",
       "meanings": [
@@ -1794,7 +1639,7 @@
       ]
     },
     {
-      "id": 1314270,
+      "id": 185,
       "kanji": "事務",
       "readings": "じむ",
       "meanings": [
@@ -1803,7 +1648,7 @@
       ]
     },
     {
-      "id": 1314350,
+      "id": 186,
       "kanji": "事務局",
       "readings": "じむきょく",
       "meanings": [
@@ -1812,7 +1657,7 @@
       ]
     },
     {
-      "id": 1314400,
+      "id": 187,
       "kanji": "事務所",
       "readings": "じむしょ",
       "meanings": [
@@ -1820,7 +1665,7 @@
       ]
     },
     {
-      "id": 1315920,
+      "id": 188,
       "kanji": "時間",
       "readings": "じかん",
       "meanings": [
@@ -1829,7 +1674,7 @@
       ]
     },
     {
-      "id": 1316040,
+      "id": 189,
       "kanji": "時期",
       "readings": "じき",
       "meanings": [
@@ -1838,7 +1683,7 @@
       ]
     },
     {
-      "id": 1316300,
+      "id": 190,
       "kanji": "時代",
       "readings": "じだい",
       "meanings": [
@@ -1847,7 +1692,7 @@
       ]
     },
     {
-      "id": 1317340,
+      "id": 191,
       "kanji": "自ら",
       "readings": "みずから",
       "meanings": [
@@ -1856,7 +1701,7 @@
       ]
     },
     {
-      "id": 1317410,
+      "id": 192,
       "kanji": "自衛隊",
       "readings": "じえいたい",
       "meanings": [
@@ -1865,7 +1710,7 @@
       ]
     },
     {
-      "id": 1318000,
+      "id": 193,
       "kanji": "自身",
       "readings": "じしん",
       "meanings": [
@@ -1874,7 +1719,7 @@
       ]
     },
     {
-      "id": 1318090,
+      "id": 194,
       "kanji": "自然",
       "readings": "しぜん",
       "meanings": [
@@ -1883,7 +1728,7 @@
       ]
     },
     {
-      "id": 1318260,
+      "id": 195,
       "kanji": "自宅",
       "readings": "じたく",
       "meanings": [
@@ -1892,7 +1737,7 @@
       ]
     },
     {
-      "id": 1318400,
+      "id": 196,
       "kanji": "自動車",
       "readings": "じどうしゃ",
       "meanings": [
@@ -1901,7 +1746,7 @@
       ]
     },
     {
-      "id": 1318610,
+      "id": 197,
       "kanji": "自分",
       "readings": "じぶん",
       "meanings": [
@@ -1910,7 +1755,7 @@
       ]
     },
     {
-      "id": 1318720,
+      "id": 198,
       "kanji": "自由",
       "readings": "じゆう",
       "meanings": [
@@ -1919,24 +1764,7 @@
       ]
     },
     {
-      "id": 1319210,
-      "kanji": "七",
-      "readings": "しち",
-      "meanings": [
-        "seven"
-      ]
-    },
-    {
-      "id": 1319280,
-      "kanji": "７月",
-      "readings": "しちがつ",
-      "meanings": [
-        "July",
-        "seventh month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1320760,
+      "id": 199,
       "kanji": "質問",
       "readings": "しつもん",
       "meanings": [
@@ -1945,7 +1773,7 @@
       ]
     },
     {
-      "id": 1321140,
+      "id": 200,
       "kanji": "実施",
       "readings": "じっし",
       "meanings": [
@@ -1954,7 +1782,7 @@
       ]
     },
     {
-      "id": 1321900,
+      "id": 201,
       "kanji": "写真",
       "readings": "しゃしん",
       "meanings": [
@@ -1963,7 +1791,7 @@
       ]
     },
     {
-      "id": 1322700,
+      "id": 202,
       "kanji": "社会",
       "readings": "しゃかい",
       "meanings": [
@@ -1972,7 +1800,7 @@
       ]
     },
     {
-      "id": 1322800,
+      "id": 203,
       "kanji": "社会党",
       "readings": "しゃかいとう",
       "meanings": [
@@ -1980,7 +1808,7 @@
       ]
     },
     {
-      "id": 1322920,
+      "id": 204,
       "kanji": "社長",
       "readings": "しゃちょう",
       "meanings": [
@@ -1989,7 +1817,7 @@
       ]
     },
     {
-      "id": 1323080,
+      "id": 205,
       "kanji": "車",
       "readings": "くるま",
       "meanings": [
@@ -1998,7 +1826,7 @@
       ]
     },
     {
-      "id": 1327190,
+      "id": 206,
       "kanji": "手",
       "readings": "て",
       "meanings": [
@@ -2007,16 +1835,7 @@
       ]
     },
     {
-      "id": 1329300,
-      "kanji": "首相",
-      "readings": "しゅしょう",
-      "meanings": [
-        "prime minister",
-        "chancellor (Germany, Austria, etc.)"
-      ]
-    },
-    {
-      "id": 1329360,
+      "id": 207,
       "kanji": "首脳",
       "readings": "しゅのう",
       "meanings": [
@@ -2025,7 +1844,7 @@
       ]
     },
     {
-      "id": 1331300,
+      "id": 208,
       "kanji": "周辺",
       "readings": "しゅうへん",
       "meanings": [
@@ -2034,16 +1853,16 @@
       ]
     },
     {
-      "id": 1331840,
+      "id": 209,
       "kanji": "州",
       "readings": "しゅう",
       "meanings": [
-        "state (of the US, Australia, India, Germany, etc.)",
+        "state (of the US etc)",
         "province (e.g. of Canada)"
       ]
     },
     {
-      "id": 1332650,
+      "id": 210,
       "kanji": "秋",
       "readings": "あき",
       "meanings": [
@@ -2052,15 +1871,7 @@
       ]
     },
     {
-      "id": 1333250,
-      "kanji": "衆院",
-      "readings": "しゅういん",
-      "meanings": [
-        "House of Representatives (lower house of the National Diet of Japan)"
-      ]
-    },
-    {
-      "id": 1334150,
+      "id": 211,
       "kanji": "住宅",
       "readings": "じゅうたく",
       "meanings": [
@@ -2069,7 +1880,7 @@
       ]
     },
     {
-      "id": 1334210,
+      "id": 212,
       "kanji": "住民",
       "readings": "じゅうみん",
       "meanings": [
@@ -2078,88 +1889,7 @@
       ]
     },
     {
-      "id": 1334470,
-      "kanji": "十一",
-      "readings": "じゅういち",
-      "meanings": [
-        "eleven",
-        "11"
-      ]
-    },
-    {
-      "id": 1334480,
-      "kanji": "１１月",
-      "readings": "じゅういちがつ",
-      "meanings": [
-        "November",
-        "eleventh month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1334560,
-      "kanji": "十九",
-      "readings": "じゅうきゅう",
-      "meanings": [
-        "nineteen",
-        "19"
-      ]
-    },
-    {
-      "id": 1334570,
-      "kanji": "１０月",
-      "readings": "じゅうがつ",
-      "meanings": [
-        "October",
-        "tenth month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1334590,
-      "kanji": "十五",
-      "readings": "じゅうご",
-      "meanings": [
-        "fifteen",
-        "15"
-      ]
-    },
-    {
-      "id": 1334610,
-      "kanji": "十三",
-      "readings": "じゅうさん",
-      "meanings": [
-        "thirteen",
-        "13"
-      ]
-    },
-    {
-      "id": 1334890,
-      "kanji": "十二",
-      "readings": "じゅうに",
-      "meanings": [
-        "twelve",
-        "12"
-      ]
-    },
-    {
-      "id": 1334910,
-      "kanji": "１２月",
-      "readings": "じゅうにがつ",
-      "meanings": [
-        "December",
-        "twelfth month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1335050,
-      "kanji": "十八",
-      "readings": "じゅうはち",
-      "meanings": [
-        "eighteen",
-        "18"
-      ]
-    },
-    {
-      "id": 1335400,
+      "id": 213,
       "kanji": "従来",
       "readings": "じゅうらい",
       "meanings": [
@@ -2168,7 +1898,7 @@
       ]
     },
     {
-      "id": 1336820,
+      "id": 214,
       "kanji": "重要",
       "readings": "じゅうよう",
       "meanings": [
@@ -2177,15 +1907,15 @@
       ]
     },
     {
-      "id": 1339260,
+      "id": 215,
       "kanji": "出身",
       "readings": "しゅっしん",
       "meanings": [
-        "one's origin (e.g. city, country, parentage, school)"
+        "one's origin (city, country etc)"
       ]
     },
     {
-      "id": 1341000,
+      "id": 216,
       "kanji": "春",
       "readings": "はる",
       "meanings": [
@@ -2194,7 +1924,7 @@
       ]
     },
     {
-      "id": 1342530,
+      "id": 217,
       "kanji": "初",
       "readings": "はつ",
       "meanings": [
@@ -2203,7 +1933,7 @@
       ]
     },
     {
-      "id": 1344000,
+      "id": 218,
       "kanji": "書記",
       "readings": "しょき",
       "meanings": [
@@ -2212,7 +1942,7 @@
       ]
     },
     {
-      "id": 1345140,
+      "id": 219,
       "kanji": "女子",
       "readings": "じょし",
       "meanings": [
@@ -2221,7 +1951,7 @@
       ]
     },
     {
-      "id": 1345250,
+      "id": 220,
       "kanji": "女性",
       "readings": "じょせい",
       "meanings": [
@@ -2230,7 +1960,7 @@
       ]
     },
     {
-      "id": 1347310,
+      "id": 221,
       "kanji": "商品",
       "readings": "しょうひん",
       "meanings": [
@@ -2239,7 +1969,7 @@
       ]
     },
     {
-      "id": 1347710,
+      "id": 222,
       "kanji": "将来",
       "readings": "しょうらい",
       "meanings": [
@@ -2248,7 +1978,7 @@
       ]
     },
     {
-      "id": 1348870,
+      "id": 223,
       "kanji": "少し",
       "readings": "すこし",
       "meanings": [
@@ -2257,7 +1987,7 @@
       ]
     },
     {
-      "id": 1351610,
+      "id": 224,
       "kanji": "証券",
       "readings": "しょうけん",
       "meanings": [
@@ -2266,7 +1996,7 @@
       ]
     },
     {
-      "id": 1355850,
+      "id": 225,
       "kanji": "場所",
       "readings": "ばしょ",
       "meanings": [
@@ -2275,7 +2005,7 @@
       ]
     },
     {
-      "id": 1356320,
+      "id": 226,
       "kanji": "情勢",
       "readings": "じょうせい",
       "meanings": [
@@ -2284,7 +2014,7 @@
       ]
     },
     {
-      "id": 1356370,
+      "id": 227,
       "kanji": "情報",
       "readings": "じょうほう",
       "meanings": [
@@ -2293,7 +2023,7 @@
       ]
     },
     {
-      "id": 1356510,
+      "id": 228,
       "kanji": "条件",
       "readings": "じょうけん",
       "meanings": [
@@ -2302,7 +2032,7 @@
       ]
     },
     {
-      "id": 1356580,
+      "id": 229,
       "kanji": "条約",
       "readings": "じょうやく",
       "meanings": [
@@ -2311,7 +2041,7 @@
       ]
     },
     {
-      "id": 1356700,
+      "id": 230,
       "kanji": "状況",
       "readings": "じょうきょう",
       "meanings": [
@@ -2320,7 +2050,7 @@
       ]
     },
     {
-      "id": 1356730,
+      "id": 231,
       "kanji": "状態",
       "readings": "じょうたい",
       "meanings": [
@@ -2329,7 +2059,7 @@
       ]
     },
     {
-      "id": 1357490,
+      "id": 232,
       "kanji": "職員",
       "readings": "しょくいん",
       "meanings": [
@@ -2338,7 +2068,7 @@
       ]
     },
     {
-      "id": 1360360,
+      "id": 233,
       "kanji": "審議",
       "readings": "しんぎ",
       "meanings": [
@@ -2347,7 +2077,7 @@
       ]
     },
     {
-      "id": 1361510,
+      "id": 234,
       "kanji": "新た",
       "readings": "あらた",
       "meanings": [
@@ -2356,7 +2086,7 @@
       ]
     },
     {
-      "id": 1362230,
+      "id": 235,
       "kanji": "新党",
       "readings": "しんとう",
       "meanings": [
@@ -2364,7 +2094,7 @@
       ]
     },
     {
-      "id": 1362360,
+      "id": 236,
       "kanji": "新聞",
       "readings": "しんぶん",
       "meanings": [
@@ -2372,7 +2102,7 @@
       ]
     },
     {
-      "id": 1366770,
+      "id": 237,
       "kanji": "人間",
       "readings": "にんげん",
       "meanings": [
@@ -2381,7 +2111,7 @@
       ]
     },
     {
-      "id": 1367010,
+      "id": 238,
       "kanji": "人気",
       "readings": "にんき",
       "meanings": [
@@ -2390,16 +2120,15 @@
       ]
     },
     {
-      "id": 1367300,
+      "id": 239,
       "kanji": "人口",
       "readings": "じんこう",
       "meanings": [
-        "population",
-        "common talk"
+        "population"
       ]
     },
     {
-      "id": 1371140,
+      "id": 240,
       "kanji": "推進",
       "readings": "すいしん",
       "meanings": [
@@ -2408,16 +2137,15 @@
       ]
     },
     {
-      "id": 1371260,
+      "id": 241,
       "kanji": "水",
       "readings": "みず",
       "meanings": [
-        "water (esp. cool or cold)",
-        "fluid (esp. in an animal tissue)"
+        "water"
       ]
     },
     {
-      "id": 1373860,
+      "id": 242,
       "kanji": "世界",
       "readings": "せかい",
       "meanings": [
@@ -2426,7 +2154,7 @@
       ]
     },
     {
-      "id": 1374880,
+      "id": 243,
       "kanji": "制度",
       "readings": "せいど",
       "meanings": [
@@ -2435,7 +2163,7 @@
       ]
     },
     {
-      "id": 1375150,
+      "id": 244,
       "kanji": "勢力",
       "readings": "せいりょく",
       "meanings": [
@@ -2444,7 +2172,7 @@
       ]
     },
     {
-      "id": 1375790,
+      "id": 245,
       "kanji": "成長",
       "readings": "せいちょう",
       "meanings": [
@@ -2453,7 +2181,7 @@
       ]
     },
     {
-      "id": 1375900,
+      "id": 246,
       "kanji": "政界",
       "readings": "せいかい",
       "meanings": [
@@ -2462,16 +2190,16 @@
       ]
     },
     {
-      "id": 1375930,
+      "id": 247,
       "kanji": "政権",
       "readings": "せいけん",
       "meanings": [
-        "(political) administration",
+        "political administration",
         "political power"
       ]
     },
     {
-      "id": 1375950,
+      "id": 248,
       "kanji": "政策",
       "readings": "せいさく",
       "meanings": [
@@ -2480,7 +2208,7 @@
       ]
     },
     {
-      "id": 1375970,
+      "id": 249,
       "kanji": "政治",
       "readings": "せいじ",
       "meanings": [
@@ -2489,7 +2217,7 @@
       ]
     },
     {
-      "id": 1375980,
+      "id": 250,
       "kanji": "政治家",
       "readings": "せいじか",
       "meanings": [
@@ -2498,7 +2226,7 @@
       ]
     },
     {
-      "id": 1376060,
+      "id": 251,
       "kanji": "政党",
       "readings": "せいとう",
       "meanings": [
@@ -2506,7 +2234,7 @@
       ]
     },
     {
-      "id": 1376070,
+      "id": 252,
       "kanji": "政府",
       "readings": "せいふ",
       "meanings": [
@@ -2515,7 +2243,7 @@
       ]
     },
     {
-      "id": 1378860,
+      "id": 253,
       "kanji": "生活",
       "readings": "せいかつ",
       "meanings": [
@@ -2524,7 +2252,7 @@
       ]
     },
     {
-      "id": 1378990,
+      "id": 254,
       "kanji": "生産",
       "readings": "せいさん",
       "meanings": [
@@ -2533,7 +2261,7 @@
       ]
     },
     {
-      "id": 1380440,
+      "id": 255,
       "kanji": "声",
       "readings": "こえ",
       "meanings": [
@@ -2542,7 +2270,7 @@
       ]
     },
     {
-      "id": 1383030,
+      "id": 256,
       "kanji": "積極的",
       "readings": "せっきょくてき",
       "meanings": [
@@ -2551,16 +2279,16 @@
       ]
     },
     {
-      "id": 1383180,
+      "id": 257,
       "kanji": "責任",
       "readings": "せきにん",
       "meanings": [
         "duty",
-        "responsibility (incl. supervision of staff)"
+        "responsibility"
       ]
     },
     {
-      "id": 1388740,
+      "id": 258,
       "kanji": "千",
       "readings": "せん",
       "meanings": [
@@ -2569,7 +2297,7 @@
       ]
     },
     {
-      "id": 1389680,
+      "id": 259,
       "kanji": "宣言",
       "readings": "せんげん",
       "meanings": [
@@ -2578,7 +2306,7 @@
       ]
     },
     {
-      "id": 1390360,
+      "id": 260,
       "kanji": "戦争",
       "readings": "せんそう",
       "meanings": [
@@ -2587,7 +2315,7 @@
       ]
     },
     {
-      "id": 1392190,
+      "id": 261,
       "kanji": "選挙",
       "readings": "せんきょ",
       "meanings": [
@@ -2595,16 +2323,16 @@
       ]
     },
     {
-      "id": 1392250,
+      "id": 262,
       "kanji": "選手",
       "readings": "せんしゅ",
       "meanings": [
-        "player (of a sport)",
+        "player (of sport)",
         "athlete"
       ]
     },
     {
-      "id": 1392260,
+      "id": 263,
       "kanji": "選手権",
       "readings": "せんしゅけん",
       "meanings": [
@@ -2613,7 +2341,7 @@
       ]
     },
     {
-      "id": 1393840,
+      "id": 264,
       "kanji": "前年",
       "readings": "ぜんねん",
       "meanings": [
@@ -2622,7 +2350,7 @@
       ]
     },
     {
-      "id": 1395660,
+      "id": 265,
       "kanji": "全体",
       "readings": "ぜんたい",
       "meanings": [
@@ -2631,7 +2359,7 @@
       ]
     },
     {
-      "id": 1396530,
+      "id": 266,
       "kanji": "措置",
       "readings": "そち",
       "meanings": [
@@ -2640,7 +2368,7 @@
       ]
     },
     {
-      "id": 1397630,
+      "id": 267,
       "kanji": "組織",
       "readings": "そしき",
       "meanings": [
@@ -2649,24 +2377,16 @@
       ]
     },
     {
-      "id": 1399300,
-      "kanji": "喪主",
-      "readings": "もしゅ",
-      "meanings": [
-        "chief mourner"
-      ]
-    },
-    {
-      "id": 1399660,
+      "id": 268,
       "kanji": "捜査",
       "readings": "そうさ",
       "meanings": [
-        "search (esp. in criminal investigations)",
+        "search (crime etc)",
         "investigation"
       ]
     },
     {
-      "id": 1401000,
+      "id": 269,
       "kanji": "相手",
       "readings": "あいて",
       "meanings": [
@@ -2675,7 +2395,7 @@
       ]
     },
     {
-      "id": 1401490,
+      "id": 270,
       "kanji": "総会",
       "readings": "そうかい",
       "meanings": [
@@ -2683,24 +2403,16 @@
       ]
     },
     {
-      "id": 1401580,
+      "id": 271,
       "kanji": "総裁",
       "readings": "そうさい",
       "meanings": [
-        "president (of an organization)",
+        "president (of organization)",
         "director general"
       ]
     },
     {
-      "id": 1401690,
-      "kanji": "総選挙",
-      "readings": "そうせんきょ",
-      "meanings": [
-        "general election (of the lower house)"
-      ]
-    },
-    {
-      "id": 1402140,
+      "id": 272,
       "kanji": "葬儀",
       "readings": "そうぎ",
       "meanings": [
@@ -2709,7 +2421,7 @@
       ]
     },
     {
-      "id": 1404630,
+      "id": 273,
       "kanji": "足",
       "readings": "あし",
       "meanings": [
@@ -2718,7 +2430,7 @@
       ]
     },
     {
-      "id": 1409550,
+      "id": 274,
       "kanji": "体制",
       "readings": "たいせい",
       "meanings": [
@@ -2727,7 +2439,7 @@
       ]
     },
     {
-      "id": 1409840,
+      "id": 275,
       "kanji": "対応",
       "readings": "たいおう",
       "meanings": [
@@ -2736,7 +2448,7 @@
       ]
     },
     {
-      "id": 1410050,
+      "id": 276,
       "kanji": "対策",
       "readings": "たいさく",
       "meanings": [
@@ -2745,16 +2457,16 @@
       ]
     },
     {
-      "id": 1410120,
+      "id": 277,
       "kanji": "対象",
       "readings": "たいしょう",
       "meanings": [
         "target",
-        "object (of worship, study, etc.)"
+        "object (of worship, study etc)"
       ]
     },
     {
-      "id": 1412170,
+      "id": 278,
       "kanji": "代表",
       "readings": "だいひょう",
       "meanings": [
@@ -2763,7 +2475,7 @@
       ]
     },
     {
-      "id": 1412560,
+      "id": 279,
       "kanji": "台",
       "readings": "だい",
       "meanings": [
@@ -2772,15 +2484,7 @@
       ]
     },
     {
-      "id": 1412840,
-      "kanji": "台湾",
-      "readings": "たいわん",
-      "meanings": [
-        "Taiwan"
-      ]
-    },
-    {
-      "id": 1413180,
+      "id": 280,
       "kanji": "大会",
       "readings": "たいかい",
       "meanings": [
@@ -2789,7 +2493,7 @@
       ]
     },
     {
-      "id": 1413240,
+      "id": 281,
       "kanji": "大学",
       "readings": "だいがく",
       "meanings": [
@@ -2798,7 +2502,7 @@
       ]
     },
     {
-      "id": 1414010,
+      "id": 282,
       "kanji": "大手",
       "readings": "おおて",
       "meanings": [
@@ -2807,25 +2511,15 @@
       ]
     },
     {
-      "id": 1414430,
-      "kanji": "大蔵省",
-      "readings": "おおくらしょう",
-      "meanings": [
-        "Ministry of Finance (1869-2001)",
-        "Ministry of the Treasury (under the ritsuryō system)"
-      ]
-    },
-    {
-      "id": 1414650,
+      "id": 283,
       "kanji": "大統領",
       "readings": "だいとうりょう",
       "meanings": [
-        "president (of a country)",
-        "big man"
+        "president (of a country)"
       ]
     },
     {
-      "id": 1414870,
+      "id": 284,
       "kanji": "大幅",
       "readings": "おおはば",
       "meanings": [
@@ -2834,7 +2528,7 @@
       ]
     },
     {
-      "id": 1419270,
+      "id": 285,
       "kanji": "団体",
       "readings": "だんたい",
       "meanings": [
@@ -2843,7 +2537,7 @@
       ]
     },
     {
-      "id": 1419950,
+      "id": 286,
       "kanji": "段階",
       "readings": "だんかい",
       "meanings": [
@@ -2852,7 +2546,7 @@
       ]
     },
     {
-      "id": 1419990,
+      "id": 287,
       "kanji": "男",
       "readings": "おとこ",
       "meanings": [
@@ -2861,7 +2555,7 @@
       ]
     },
     {
-      "id": 1420070,
+      "id": 288,
       "kanji": "男子",
       "readings": "だんし",
       "meanings": [
@@ -2870,7 +2564,7 @@
       ]
     },
     {
-      "id": 1420160,
+      "id": 289,
       "kanji": "男性",
       "readings": "だんせい",
       "meanings": [
@@ -2879,7 +2573,7 @@
       ]
     },
     {
-      "id": 1420580,
+      "id": 290,
       "kanji": "知事",
       "readings": "ちじ",
       "meanings": [
@@ -2887,7 +2581,7 @@
       ]
     },
     {
-      "id": 1420800,
+      "id": 291,
       "kanji": "地域",
       "readings": "ちいき",
       "meanings": [
@@ -2896,7 +2590,7 @@
       ]
     },
     {
-      "id": 1420970,
+      "id": 292,
       "kanji": "地球",
       "readings": "ちきゅう",
       "meanings": [
@@ -2905,7 +2599,7 @@
       ]
     },
     {
-      "id": 1421020,
+      "id": 293,
       "kanji": "地区",
       "readings": "ちく",
       "meanings": [
@@ -2914,7 +2608,7 @@
       ]
     },
     {
-      "id": 1421060,
+      "id": 294,
       "kanji": "地元",
       "readings": "じもと",
       "meanings": [
@@ -2923,7 +2617,7 @@
       ]
     },
     {
-      "id": 1421450,
+      "id": 295,
       "kanji": "地方",
       "readings": "ちほう",
       "meanings": [
@@ -2932,34 +2626,23 @@
       ]
     },
     {
-      "id": 1423430,
+      "id": 296,
       "kanji": "中央",
       "readings": "ちゅうおう",
       "meanings": [
-        "centre",
         "center"
       ]
     },
     {
-      "id": 1424270,
-      "kanji": "中国",
-      "readings": "ちゅうごく",
-      "meanings": [
-        "China",
-        "Chūgoku region (western part of Honshu comprising the prefectures of Okayama, Hiroshima, Yamaguchi, Tottori and Shimane)"
-      ]
-    },
-    {
-      "id": 1424550,
+      "id": 297,
       "kanji": "中心",
       "readings": "ちゅうしん",
       "meanings": [
-        "center",
-        "centre"
+        "center"
       ]
     },
     {
-      "id": 1429050,
+      "id": 298,
       "kanji": "調べ",
       "readings": "しらべ",
       "meanings": [
@@ -2968,7 +2651,7 @@
       ]
     },
     {
-      "id": 1429120,
+      "id": 299,
       "kanji": "調査",
       "readings": "ちょうさ",
       "meanings": [
@@ -2977,7 +2660,7 @@
       ]
     },
     {
-      "id": 1429200,
+      "id": 300,
       "kanji": "調整",
       "readings": "ちょうせい",
       "meanings": [
@@ -2986,7 +2669,7 @@
       ]
     },
     {
-      "id": 1429820,
+      "id": 301,
       "kanji": "長官",
       "readings": "ちょうかん",
       "meanings": [
@@ -2995,16 +2678,16 @@
       ]
     },
     {
-      "id": 1430080,
+      "id": 302,
       "kanji": "長男",
       "readings": "ちょうなん",
       "meanings": [
-        "eldest son (may be the only son)",
+        "eldest son",
         "first-born son"
       ]
     },
     {
-      "id": 1433330,
+      "id": 303,
       "kanji": "通信",
       "readings": "つうしん",
       "meanings": [
@@ -3013,7 +2696,7 @@
       ]
     },
     {
-      "id": 1436540,
+      "id": 304,
       "kanji": "程度",
       "readings": "ていど",
       "meanings": [
@@ -3022,7 +2705,7 @@
       ]
     },
     {
-      "id": 1443840,
+      "id": 305,
       "kanji": "電話",
       "readings": "でんわ",
       "meanings": [
@@ -3031,7 +2714,7 @@
       ]
     },
     {
-      "id": 1444990,
+      "id": 306,
       "kanji": "都市",
       "readings": "とし",
       "meanings": [
@@ -3040,15 +2723,7 @@
       ]
     },
     {
-      "id": 1445040,
-      "kanji": "都内",
-      "readings": "とない",
-      "meanings": [
-        "within the (Tokyo) metropolitan area"
-      ]
-    },
-    {
-      "id": 1445130,
+      "id": 307,
       "kanji": "努力",
       "readings": "どりょく",
       "meanings": [
@@ -3057,7 +2732,7 @@
       ]
     },
     {
-      "id": 1445470,
+      "id": 308,
       "kanji": "土地",
       "readings": "とち",
       "meanings": [
@@ -3066,7 +2741,7 @@
       ]
     },
     {
-      "id": 1447230,
+      "id": 309,
       "kanji": "投資",
       "readings": "とうし",
       "meanings": [
@@ -3074,15 +2749,7 @@
       ]
     },
     {
-      "id": 1447260,
-      "kanji": "投手",
-      "readings": "とうしゅ",
-      "meanings": [
-        "pitcher"
-      ]
-    },
-    {
-      "id": 1447320,
+      "id": 310,
       "kanji": "投票",
       "readings": "とうひょう",
       "meanings": [
@@ -3091,7 +2758,7 @@
       ]
     },
     {
-      "id": 1447440,
+      "id": 311,
       "kanji": "東",
       "readings": "ひがし",
       "meanings": [
@@ -3099,7 +2766,7 @@
       ]
     },
     {
-      "id": 1447690,
+      "id": 312,
       "kanji": "東京",
       "readings": "とうきょう",
       "meanings": [
@@ -3107,7 +2774,7 @@
       ]
     },
     {
-      "id": 1449030,
+      "id": 313,
       "kanji": "当局",
       "readings": "とうきょく",
       "meanings": [
@@ -3116,7 +2783,7 @@
       ]
     },
     {
-      "id": 1449090,
+      "id": 314,
       "kanji": "当時",
       "readings": "とうじ",
       "meanings": [
@@ -3125,7 +2792,7 @@
       ]
     },
     {
-      "id": 1449110,
+      "id": 315,
       "kanji": "当初",
       "readings": "とうしょ",
       "meanings": [
@@ -3134,7 +2801,7 @@
       ]
     },
     {
-      "id": 1449670,
+      "id": 316,
       "kanji": "統一",
       "readings": "とういつ",
       "meanings": [
@@ -3143,7 +2810,7 @@
       ]
     },
     {
-      "id": 1451180,
+      "id": 317,
       "kanji": "動き",
       "readings": "うごき",
       "meanings": [
@@ -3152,7 +2819,7 @@
       ]
     },
     {
-      "id": 1452500,
+      "id": 318,
       "kanji": "同時",
       "readings": "どうじ",
       "meanings": [
@@ -3161,7 +2828,7 @@
       ]
     },
     {
-      "id": 1452570,
+      "id": 319,
       "kanji": "同社",
       "readings": "どうしゃ",
       "meanings": [
@@ -3170,7 +2837,7 @@
       ]
     },
     {
-      "id": 1453210,
+      "id": 320,
       "kanji": "同日",
       "readings": "どうじつ",
       "meanings": [
@@ -3178,7 +2845,7 @@
       ]
     },
     {
-      "id": 1454080,
+      "id": 321,
       "kanji": "道",
       "readings": "みち",
       "meanings": [
@@ -3187,7 +2854,7 @@
       ]
     },
     {
-      "id": 1454670,
+      "id": 322,
       "kanji": "特に",
       "readings": "とくに",
       "meanings": [
@@ -3196,7 +2863,7 @@
       ]
     },
     {
-      "id": 1455280,
+      "id": 323,
       "kanji": "特別",
       "readings": "とくべつ",
       "meanings": [
@@ -3205,16 +2872,16 @@
       ]
     },
     {
-      "id": 1457910,
+      "id": 324,
       "kanji": "内閣",
       "readings": "ないかく",
       "meanings": [
-        "cabinet (of a government)",
+        "cabinet (government)",
         "ministry"
       ]
     },
     {
-      "id": 1459400,
+      "id": 325,
       "kanji": "内容",
       "readings": "ないよう",
       "meanings": [
@@ -3223,7 +2890,7 @@
       ]
     },
     {
-      "id": 1459870,
+      "id": 326,
       "kanji": "南",
       "readings": "みなみ",
       "meanings": [
@@ -3231,34 +2898,16 @@
       ]
     },
     {
-      "id": 1461140,
-      "kanji": "二",
-      "readings": "に",
-      "meanings": [
-        "two",
-        "2"
-      ]
-    },
-    {
-      "id": 1461560,
-      "kanji": "２月",
-      "readings": "にがつ",
-      "meanings": [
-        "February",
-        "second month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1464380,
+      "id": 327,
       "kanji": "日米",
       "readings": "にちべい",
       "meanings": [
-        "Japan and the United States",
+        "Japan and United States",
         "Japanese-American"
       ]
     },
     {
-      "id": 1464700,
+      "id": 328,
       "kanji": "日本人",
       "readings": "にほんじん",
       "meanings": [
@@ -3266,7 +2915,7 @@
       ]
     },
     {
-      "id": 1468380,
+      "id": 329,
       "kanji": "年間",
       "readings": "ねんかん",
       "meanings": [
@@ -3275,7 +2924,7 @@
       ]
     },
     {
-      "id": 1470660,
+      "id": 330,
       "kanji": "農業",
       "readings": "のうぎょう",
       "meanings": [
@@ -3283,7 +2932,7 @@
       ]
     },
     {
-      "id": 1471130,
+      "id": 331,
       "kanji": "派遣",
       "readings": "はけん",
       "meanings": [
@@ -3292,7 +2941,7 @@
       ]
     },
     {
-      "id": 1472720,
+      "id": 332,
       "kanji": "背景",
       "readings": "はいけい",
       "meanings": [
@@ -3301,16 +2950,7 @@
       ]
     },
     {
-      "id": 1476730,
-      "kanji": "８月",
-      "readings": "はちがつ",
-      "meanings": [
-        "August",
-        "eighth month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1477350,
+      "id": 333,
       "kanji": "発言",
       "readings": "はつげん",
       "meanings": [
@@ -3319,7 +2959,7 @@
       ]
     },
     {
-      "id": 1478520,
+      "id": 334,
       "kanji": "判決",
       "readings": "はんけつ",
       "meanings": [
@@ -3328,7 +2968,7 @@
       ]
     },
     {
-      "id": 1478620,
+      "id": 335,
       "kanji": "判断",
       "readings": "はんだん",
       "meanings": [
@@ -3337,7 +2977,7 @@
       ]
     },
     {
-      "id": 1480670,
+      "id": 336,
       "kanji": "反対",
       "readings": "はんたい",
       "meanings": [
@@ -3346,7 +2986,7 @@
       ]
     },
     {
-      "id": 1481800,
+      "id": 337,
       "kanji": "販売",
       "readings": "はんばい",
       "meanings": [
@@ -3355,7 +2995,7 @@
       ]
     },
     {
-      "id": 1482340,
+      "id": 338,
       "kanji": "番組",
       "readings": "ばんぐみ",
       "meanings": [
@@ -3364,7 +3004,7 @@
       ]
     },
     {
-      "id": 1483420,
+      "id": 339,
       "kanji": "批判",
       "readings": "ひはん",
       "meanings": [
@@ -3373,7 +3013,7 @@
       ]
     },
     {
-      "id": 1484410,
+      "id": 340,
       "kanji": "被告",
       "readings": "ひこく",
       "meanings": [
@@ -3382,7 +3022,7 @@
       ]
     },
     {
-      "id": 1487660,
+      "id": 341,
       "kanji": "必要",
       "readings": "ひつよう",
       "meanings": [
@@ -3391,7 +3031,7 @@
       ]
     },
     {
-      "id": 1488000,
+      "id": 342,
       "kanji": "百",
       "readings": "ひゃく",
       "meanings": [
@@ -3400,7 +3040,7 @@
       ]
     },
     {
-      "id": 1490220,
+      "id": 343,
       "kanji": "病院",
       "readings": "びょういん",
       "meanings": [
@@ -3409,7 +3049,7 @@
       ]
     },
     {
-      "id": 1491950,
+      "id": 344,
       "kanji": "不況",
       "readings": "ふきょう",
       "meanings": [
@@ -3418,7 +3058,7 @@
       ]
     },
     {
-      "id": 1496480,
+      "id": 345,
       "kanji": "夫",
       "readings": "おっと",
       "meanings": [
@@ -3426,7 +3066,7 @@
       ]
     },
     {
-      "id": 1497610,
+      "id": 346,
       "kanji": "父",
       "readings": "ちち",
       "meanings": [
@@ -3434,25 +3074,25 @@
       ]
     },
     {
-      "id": 1499150,
+      "id": 347,
       "kanji": "舞台",
       "readings": "ぶたい",
       "meanings": [
-        "stage (of a theatre, concert hall, etc.)",
+        "stage (theatre, hall etc)",
         "(stage) performance"
       ]
     },
     {
-      "id": 1499460,
+      "id": 348,
       "kanji": "部長",
       "readings": "ぶちょう",
       "meanings": [
-        "head (chief, director) of a section or department",
-        "head of a (school) club"
+        "head of department",
+        "head of a club"
       ]
     },
     {
-      "id": 1499490,
+      "id": 349,
       "kanji": "部分",
       "readings": "ぶぶん",
       "meanings": [
@@ -3461,16 +3101,16 @@
       ]
     },
     {
-      "id": 1499540,
+      "id": 350,
       "kanji": "部門",
       "readings": "ぶもん",
       "meanings": [
-        "division (of a larger group)",
+        "division (of larger group)",
         "branch"
       ]
     },
     {
-      "id": 1504330,
+      "id": 351,
       "kanji": "分野",
       "readings": "ぶんや",
       "meanings": [
@@ -3479,7 +3119,7 @@
       ]
     },
     {
-      "id": 1505120,
+      "id": 352,
       "kanji": "文化",
       "readings": "ぶんか",
       "meanings": [
@@ -3488,7 +3128,7 @@
       ]
     },
     {
-      "id": 1508070,
+      "id": 353,
       "kanji": "平和",
       "readings": "へいわ",
       "meanings": [
@@ -3497,7 +3137,7 @@
       ]
     },
     {
-      "id": 1508900,
+      "id": 354,
       "kanji": "米国",
       "readings": "べいこく",
       "meanings": [
@@ -3506,7 +3146,7 @@
       ]
     },
     {
-      "id": 1510890,
+      "id": 355,
       "kanji": "変化",
       "readings": "へんか",
       "meanings": [
@@ -3515,7 +3155,7 @@
       ]
     },
     {
-      "id": 1513530,
+      "id": 356,
       "kanji": "保護",
       "readings": "ほご",
       "meanings": [
@@ -3524,7 +3164,7 @@
       ]
     },
     {
-      "id": 1514990,
+      "id": 357,
       "kanji": "母",
       "readings": "はは",
       "meanings": [
@@ -3532,7 +3172,7 @@
       ]
     },
     {
-      "id": 1515670,
+      "id": 358,
       "kanji": "報告",
       "readings": "ほうこく",
       "meanings": [
@@ -3541,7 +3181,7 @@
       ]
     },
     {
-      "id": 1515730,
+      "id": 359,
       "kanji": "報道",
       "readings": "ほうどう",
       "meanings": [
@@ -3550,7 +3190,7 @@
       ]
     },
     {
-      "id": 1516750,
+      "id": 360,
       "kanji": "放送",
       "readings": "ほうそう",
       "meanings": [
@@ -3559,7 +3199,7 @@
       ]
     },
     {
-      "id": 1516990,
+      "id": 361,
       "kanji": "方向",
       "readings": "ほうこう",
       "meanings": [
@@ -3568,7 +3208,7 @@
       ]
     },
     {
-      "id": 1517040,
+      "id": 362,
       "kanji": "方針",
       "readings": "ほうしん",
       "meanings": [
@@ -3577,7 +3217,7 @@
       ]
     },
     {
-      "id": 1517090,
+      "id": 363,
       "kanji": "方法",
       "readings": "ほうほう",
       "meanings": [
@@ -3586,7 +3226,7 @@
       ]
     },
     {
-      "id": 1517160,
+      "id": 364,
       "kanji": "法案",
       "readings": "ほうあん",
       "meanings": [
@@ -3595,7 +3235,7 @@
       ]
     },
     {
-      "id": 1518120,
+      "id": 365,
       "kanji": "訪問",
       "readings": "ほうもん",
       "meanings": [
@@ -3604,25 +3244,24 @@
       ]
     },
     {
-      "id": 1520120,
+      "id": 366,
       "kanji": "貿易",
       "readings": "ぼうえき",
       "meanings": [
-        "(foreign) trade",
-        "(international) commerce"
+        "foreign trade",
+        "international commerce"
       ]
     },
     {
-      "id": 1520200,
+      "id": 367,
       "kanji": "防衛",
       "readings": "ぼうえい",
       "meanings": [
-        "defense",
         "defence"
       ]
     },
     {
-      "id": 1520670,
+      "id": 368,
       "kanji": "北",
       "readings": "きた",
       "meanings": [
@@ -3631,32 +3270,15 @@
       ]
     },
     {
-      "id": 1520810,
+      "id": 369,
       "kanji": "北海道",
       "readings": "ほっかいどう",
       "meanings": [
-        "Hokkaido (island, prefectural-level administrative unit)"
+        "Hokkaido"
       ]
     },
     {
-      "id": 1520860,
-      "kanji": "北京",
-      "readings": "ペキン",
-      "meanings": [
-        "Beijing (China)",
-        "Peking"
-      ]
-    },
-    {
-      "id": 1521200,
-      "kanji": "北朝鮮",
-      "readings": "きたちょうせん",
-      "meanings": [
-        "North Korea"
-      ]
-    },
-    {
-      "id": 1522630,
+      "id": 370,
       "kanji": "本社",
       "readings": "ほんしゃ",
       "meanings": [
@@ -3665,7 +3287,7 @@
       ]
     },
     {
-      "id": 1523170,
+      "id": 371,
       "kanji": "本部",
       "readings": "ほんぶ",
       "meanings": [
@@ -3674,7 +3296,7 @@
       ]
     },
     {
-      "id": 1524720,
+      "id": 372,
       "kanji": "毎日",
       "readings": "まいにち",
       "meanings": [
@@ -3682,7 +3304,7 @@
       ]
     },
     {
-      "id": 1528570,
+      "id": 373,
       "kanji": "民",
       "readings": "たみ",
       "meanings": [
@@ -3691,7 +3313,7 @@
       ]
     },
     {
-      "id": 1528630,
+      "id": 374,
       "kanji": "民間",
       "readings": "みんかん",
       "meanings": [
@@ -3700,7 +3322,7 @@
       ]
     },
     {
-      "id": 1528790,
+      "id": 375,
       "kanji": "民主",
       "readings": "みんしゅ",
       "meanings": [
@@ -3709,7 +3331,7 @@
       ]
     },
     {
-      "id": 1532310,
+      "id": 376,
       "kanji": "明らか",
       "readings": "あきらか",
       "meanings": [
@@ -3718,7 +3340,7 @@
       ]
     },
     {
-      "id": 1534520,
+      "id": 377,
       "kanji": "木",
       "readings": "き",
       "meanings": [
@@ -3727,7 +3349,7 @@
       ]
     },
     {
-      "id": 1535560,
+      "id": 378,
       "kanji": "目的",
       "readings": "もくてき",
       "meanings": [
@@ -3736,7 +3358,7 @@
       ]
     },
     {
-      "id": 1535650,
+      "id": 379,
       "kanji": "目標",
       "readings": "もくひょう",
       "meanings": [
@@ -3745,16 +3367,16 @@
       ]
     },
     {
-      "id": 1536010,
+      "id": 380,
       "kanji": "問題",
       "readings": "もんだい",
       "meanings": [
-        "question (e.g. on a test)",
+        "question (on test)",
         "problem"
       ]
     },
     {
-      "id": 1537300,
+      "id": 381,
       "kanji": "野球",
       "readings": "やきゅう",
       "meanings": [
@@ -3762,7 +3384,7 @@
       ]
     },
     {
-      "id": 1537580,
+      "id": 382,
       "kanji": "野党",
       "readings": "やとう",
       "meanings": [
@@ -3771,16 +3393,16 @@
       ]
     },
     {
-      "id": 1538000,
+      "id": 383,
       "kanji": "役割",
       "readings": "やくわり",
       "meanings": [
         "part",
-        "assigning (allotment of) parts"
+        "assigning of parts"
       ]
     },
     {
-      "id": 1538820,
+      "id": 384,
       "kanji": "輸出",
       "readings": "ゆしゅつ",
       "meanings": [
@@ -3789,7 +3411,7 @@
       ]
     },
     {
-      "id": 1538870,
+      "id": 385,
       "kanji": "輸入",
       "readings": "ゆにゅう",
       "meanings": [
@@ -3798,7 +3420,7 @@
       ]
     },
     {
-      "id": 1539280,
+      "id": 386,
       "kanji": "優勝",
       "readings": "ゆうしょう",
       "meanings": [
@@ -3807,7 +3429,7 @@
       ]
     },
     {
-      "id": 1542600,
+      "id": 387,
       "kanji": "融資",
       "readings": "ゆうし",
       "meanings": [
@@ -3816,7 +3438,7 @@
       ]
     },
     {
-      "id": 1543000,
+      "id": 388,
       "kanji": "予算",
       "readings": "よさん",
       "meanings": [
@@ -3825,7 +3447,7 @@
       ]
     },
     {
-      "id": 1543240,
+      "id": 389,
       "kanji": "予定",
       "readings": "よてい",
       "meanings": [
@@ -3834,7 +3456,7 @@
       ]
     },
     {
-      "id": 1544870,
+      "id": 390,
       "kanji": "与党",
       "readings": "よとう",
       "meanings": [
@@ -3843,7 +3465,7 @@
       ]
     },
     {
-      "id": 1545390,
+      "id": 391,
       "kanji": "容疑者",
       "readings": "ようぎしゃ",
       "meanings": [
@@ -3851,7 +3473,7 @@
       ]
     },
     {
-      "id": 1546680,
+      "id": 392,
       "kanji": "要求",
       "readings": "ようきゅう",
       "meanings": [
@@ -3860,7 +3482,7 @@
       ]
     },
     {
-      "id": 1548220,
+      "id": 393,
       "kanji": "来年",
       "readings": "らいねん",
       "meanings": [
@@ -3868,7 +3490,7 @@
       ]
     },
     {
-      "id": 1549980,
+      "id": 394,
       "kanji": "理事",
       "readings": "りじ",
       "meanings": [
@@ -3877,7 +3499,7 @@
       ]
     },
     {
-      "id": 1550140,
+      "id": 395,
       "kanji": "理由",
       "readings": "りゆう",
       "meanings": [
@@ -3886,7 +3508,7 @@
       ]
     },
     {
-      "id": 1551710,
+      "id": 396,
       "kanji": "立場",
       "readings": "たちば",
       "meanings": [
@@ -3895,7 +3517,7 @@
       ]
     },
     {
-      "id": 1553590,
+      "id": 397,
       "kanji": "両国",
       "readings": "りょうこく",
       "meanings": [
@@ -3904,7 +3526,7 @@
       ]
     },
     {
-      "id": 1554790,
+      "id": 398,
       "kanji": "領土",
       "readings": "りょうど",
       "meanings": [
@@ -3913,7 +3535,7 @@
       ]
     },
     {
-      "id": 1558050,
+      "id": 399,
       "kanji": "歴史",
       "readings": "れきし",
       "meanings": [
@@ -3921,7 +3543,7 @@
       ]
     },
     {
-      "id": 1559450,
+      "id": 400,
       "kanji": "連合",
       "readings": "れんごう",
       "meanings": [
@@ -3930,7 +3552,7 @@
       ]
     },
     {
-      "id": 1559610,
+      "id": 401,
       "kanji": "連続",
       "readings": "れんぞく",
       "meanings": [
@@ -3939,34 +3561,7 @@
       ]
     },
     {
-      "id": 1559790,
-      "kanji": "連邦",
-      "readings": "れんぽう",
-      "meanings": [
-        "federation (of states)",
-        "confederation"
-      ]
-    },
-    {
-      "id": 1559960,
-      "kanji": "連立",
-      "readings": "れんりつ",
-      "meanings": [
-        "coalition",
-        "alliance"
-      ]
-    },
-    {
-      "id": 1561330,
-      "kanji": "６月",
-      "readings": "ろくがつ",
-      "meanings": [
-        "June",
-        "sixth month of the lunar calendar"
-      ]
-    },
-    {
-      "id": 1561660,
+      "id": 402,
       "kanji": "論議",
       "readings": "ろんぎ",
       "meanings": [
@@ -3975,7 +3570,7 @@
       ]
     },
     {
-      "id": 1562210,
+      "id": 403,
       "kanji": "和平",
       "readings": "わへい",
       "meanings": [
@@ -3983,34 +3578,7 @@
       ]
     },
     {
-      "id": 1562810,
-      "kanji": "湾岸",
-      "readings": "わんがん",
-      "meanings": [
-        "gulf coast",
-        "bay coast"
-      ]
-    },
-    {
-      "id": 1576100,
-      "kanji": "一時",
-      "readings": "いちじ",
-      "meanings": [
-        "one o'clock",
-        "once"
-      ]
-    },
-    {
-      "id": 1578150,
-      "kanji": "九",
-      "readings": "きゅう",
-      "meanings": [
-        "nine",
-        "9"
-      ]
-    },
-    {
-      "id": 1578330,
+      "id": 404,
       "kanji": "研究所",
       "readings": "けんきゅうじょ",
       "meanings": [
@@ -4019,7 +3587,7 @@
       ]
     },
     {
-      "id": 1578700,
+      "id": 405,
       "kanji": "工場",
       "readings": "こうじょう",
       "meanings": [
@@ -4028,7 +3596,7 @@
       ]
     },
     {
-      "id": 1579130,
+      "id": 406,
       "kanji": "今年",
       "readings": "ことし",
       "meanings": [
@@ -4036,52 +3604,7 @@
       ]
     },
     {
-      "id": 1579350,
-      "kanji": "三",
-      "readings": "さん",
-      "meanings": [
-        "three",
-        "3"
-      ]
-    },
-    {
-      "id": 1579470,
-      "kanji": "四",
-      "readings": "し",
-      "meanings": [
-        "four",
-        "4"
-      ]
-    },
-    {
-      "id": 1579840,
-      "kanji": "十",
-      "readings": "じゅう",
-      "meanings": [
-        "ten",
-        "10"
-      ]
-    },
-    {
-      "id": 1579860,
-      "kanji": "十四",
-      "readings": "じゅうし",
-      "meanings": [
-        "fourteen",
-        "14"
-      ]
-    },
-    {
-      "id": 1579880,
-      "kanji": "十七",
-      "readings": "じゅうなな",
-      "meanings": [
-        "seventeen",
-        "17"
-      ]
-    },
-    {
-      "id": 1580550,
+      "id": 407,
       "kanji": "信",
       "readings": "しん",
       "meanings": [
@@ -4090,7 +3613,7 @@
       ]
     },
     {
-      "id": 1580650,
+      "id": 408,
       "kanji": "人々",
       "readings": "ひとびと",
       "meanings": [
@@ -4099,7 +3622,7 @@
       ]
     },
     {
-      "id": 1581180,
+      "id": 409,
       "kanji": "全国",
       "readings": "ぜんこく",
       "meanings": [
@@ -4107,25 +3630,7 @@
       ]
     },
     {
-      "id": 1582670,
-      "kanji": "二人",
-      "readings": "ふたり",
-      "meanings": [
-        "two persons",
-        "two people"
-      ]
-    },
-    {
-      "id": 1583090,
-      "kanji": "八",
-      "readings": "はち",
-      "meanings": [
-        "eight",
-        "8"
-      ]
-    },
-    {
-      "id": 1583870,
+      "id": 410,
       "kanji": "平均",
       "readings": "へいきん",
       "meanings": [
@@ -4134,16 +3639,7 @@
       ]
     },
     {
-      "id": 1585310,
-      "kanji": "六",
-      "readings": "ろく",
-      "meanings": [
-        "six",
-        "6"
-      ]
-    },
-    {
-      "id": 1587040,
+      "id": 411,
       "kanji": "言う",
       "readings": "いう",
       "meanings": [
@@ -4152,7 +3648,7 @@
       ]
     },
     {
-      "id": 1587200,
+      "id": 412,
       "kanji": "意向",
       "readings": "いこう",
       "meanings": [
@@ -4161,7 +3657,7 @@
       ]
     },
     {
-      "id": 1589060,
+      "id": 413,
       "kanji": "行う",
       "readings": "おこなう",
       "meanings": [
@@ -4170,15 +3666,7 @@
       ]
     },
     {
-      "id": 1589190,
-      "kanji": "雄",
-      "readings": "おす",
-      "meanings": [
-        "male (animal, plant)"
-      ]
-    },
-    {
-      "id": 1591210,
+      "id": 414,
       "kanji": "基準",
       "readings": "きじゅん",
       "meanings": [
@@ -4187,7 +3675,7 @@
       ]
     },
     {
-      "id": 1591430,
+      "id": 415,
       "kanji": "気持ち",
       "readings": "きもち",
       "meanings": [
@@ -4196,7 +3684,7 @@
       ]
     },
     {
-      "id": 1591660,
+      "id": 416,
       "kanji": "共同",
       "readings": "きょうどう",
       "meanings": [
@@ -4205,7 +3693,7 @@
       ]
     },
     {
-      "id": 1591720,
+      "id": 417,
       "kanji": "協力",
       "readings": "きょうりょく",
       "meanings": [
@@ -4214,7 +3702,7 @@
       ]
     },
     {
-      "id": 1592250,
+      "id": 418,
       "kanji": "国",
       "readings": "くに",
       "meanings": [
@@ -4223,7 +3711,7 @@
       ]
     },
     {
-      "id": 1593610,
+      "id": 419,
       "kanji": "五輪",
       "readings": "ごりん",
       "meanings": [
@@ -4232,7 +3720,7 @@
       ]
     },
     {
-      "id": 1595090,
+      "id": 420,
       "kanji": "銀",
       "readings": "ぎん",
       "meanings": [
@@ -4241,16 +3729,16 @@
       ]
     },
     {
-      "id": 1595240,
+      "id": 421,
       "kanji": "事態",
       "readings": "じたい",
       "meanings": [
         "situation",
-        "(present) state of affairs"
+        "state of affairs"
       ]
     },
     {
-      "id": 1596380,
+      "id": 422,
       "kanji": "総合",
       "readings": "そうごう",
       "meanings": [
@@ -4259,7 +3747,7 @@
       ]
     },
     {
-      "id": 1598590,
+      "id": 423,
       "kanji": "問い合わせ",
       "readings": "といあわせ",
       "meanings": [
@@ -4268,7 +3756,7 @@
       ]
     },
     {
-      "id": 1599120,
+      "id": 424,
       "kanji": "取引",
       "readings": "とりひき",
       "meanings": [
@@ -4277,7 +3765,7 @@
       ]
     },
     {
-      "id": 1600900,
+      "id": 425,
       "kanji": "話",
       "readings": "はなし",
       "meanings": [
@@ -4286,7 +3774,7 @@
       ]
     },
     {
-      "id": 1604610,
+      "id": 426,
       "kanji": "見通し",
       "readings": "みとおし",
       "meanings": [
@@ -4295,7 +3783,7 @@
       ]
     },
     {
-      "id": 1604740,
+      "id": 427,
       "kanji": "民族",
       "readings": "みんぞく",
       "meanings": [
@@ -4304,7 +3792,7 @@
       ]
     },
     {
-      "id": 1606450,
+      "id": 428,
       "kanji": "労働",
       "readings": "ろうどう",
       "meanings": [
@@ -4313,16 +3801,16 @@
       ]
     },
     {
-      "id": 1607450,
+      "id": 429,
       "kanji": "戦後",
       "readings": "せんご",
       "meanings": [
         "postwar period",
-        "period after Second World War"
+        "period after WWII"
       ]
     },
     {
-      "id": 1608020,
+      "id": 430,
       "kanji": "自民党",
       "readings": "じみんとう",
       "meanings": [
@@ -4331,7 +3819,7 @@
       ]
     },
     {
-      "id": 1634950,
+      "id": 431,
       "kanji": "時事",
       "readings": "じじ",
       "meanings": [
@@ -4340,16 +3828,7 @@
       ]
     },
     {
-      "id": 1650220,
-      "kanji": "４０",
-      "readings": "よんじゅう",
-      "meanings": [
-        "forty",
-        "40"
-      ]
-    },
-    {
-      "id": 1652350,
+      "id": 432,
       "kanji": "京都",
       "readings": "きょうと",
       "meanings": [
@@ -4357,15 +3836,7 @@
       ]
     },
     {
-      "id": 1658480,
-      "kanji": "時半",
-      "readings": "じはん",
-      "meanings": [
-        "half past (the hour)"
-      ]
-    },
-    {
-      "id": 1658610,
+      "id": 433,
       "kanji": "自民",
       "readings": "じみん",
       "meanings": [
@@ -4374,16 +3845,7 @@
       ]
     },
     {
-      "id": 1693050,
-      "kanji": "５０",
-      "readings": "ごじゅう",
-      "meanings": [
-        "fifty",
-        "50"
-      ]
-    },
-    {
-      "id": 1898260,
+      "id": 434,
       "kanji": "同市",
       "readings": "どうし",
       "meanings": [
@@ -4391,16 +3853,7 @@
       ]
     },
     {
-      "id": 1922770,
-      "kanji": "３０",
-      "readings": "さんじゅう",
-      "meanings": [
-        "thirty",
-        "30"
-      ]
-    },
-    {
-      "id": 1951150,
+      "id": 435,
       "kanji": "決まって",
       "readings": "きまって",
       "meanings": [
@@ -4409,15 +3862,7 @@
       ]
     },
     {
-      "id": 2010500,
-      "kanji": "グアテマラ共和国",
-      "readings": "グアテマラきょうわこく",
-      "meanings": [
-        "Republic of Guatemala"
-      ]
-    },
-    {
-      "id": 2153730,
+      "id": 436,
       "kanji": "業",
       "readings": "ぎょう",
       "meanings": [
