@@ -114,11 +114,3 @@ footer {
 }
 /* ----------------------------------------- */
 /* ----------------------------------------- */
-.Card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 1rem;
-  border-radius: 1rem;
-  border: 2px solid black;
-}

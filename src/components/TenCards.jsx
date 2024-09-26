@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useEffect } from "react";
-import nf01 from "./assets/nf01.json";
+import nf01 from "../assets/nf01.json";
 
 function TenCards({ tenCards, setTenCards, mode, setMode }) {
   useEffect(() => {
@@ -12,11 +12,7 @@ function TenCards({ tenCards, setTenCards, mode, setMode }) {
     setTenCards(newCards); // Update state once after generating all cards
   }, [mode, setTenCards]); // Runs only when `mode` changes
 
-  return (
-    <>
-		{/* render 10 cards here	 */}
-    </>
-  );
+  return <>{/* render 10 cards here	 */}</>;
 }
 
 export default TenCards;

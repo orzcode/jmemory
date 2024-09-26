@@ -1,6 +1,7 @@
 import { useState } from "react";
 import TenCards from "./TenCards.jsx";
 
+
 function MainMiddle() {
   const [mode, setMode] = useState(100);
   const [tenCards, setTenCards] = useState([]);
