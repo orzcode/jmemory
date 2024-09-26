@@ -4,16 +4,15 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: whitesmoke;
-  background-color: #242424;
+  color: rgb(0, 0, 0);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --header: #22334b;
-  --main: #2e2b2d;
+  --header: #F9D77E;
+  --main: #FFDFA0;
   /* --highlighted: #22334B; */
 }
 *,
@@ -22,7 +21,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  outline: 1px solid red;
+
+  /* outline: 1px solid red; */
+
 }
 html {
   font-size: 62.5%;
@@ -58,7 +59,6 @@ button:focus-visible {
 /* ----------------------------------------- */
 html {
   background-color: var(--main);
-  color: whitesmoke;
 }
 #root {
   display: flex;
@@ -68,10 +68,17 @@ html {
   /*This is important for flex-based bottom footer*/
 }
 /* ----------------------------------------- */
-#header {
+header {
   background-color: var(--header);
-  border-bottom: 1px solid black;
-  filter: drop-shadow(1px 1px 50px black);
+  
+  background: linear-gradient(
+    to bottom, 
+    #F9D77E 80%, /* Darker tone for 90% of the header */
+    #FFDFA0 100% /* Lighter tone starts at 90% */
+  );
+  
+  /* border-bottom: 1px solid black;
+  filter: drop-shadow(1px 1px 50px black); */
   width: 100%;
   text-align: center;
   flex-grow: 0;
@@ -83,10 +90,10 @@ html {
   align-items: center;
 }
 h1 {
-  filter: drop-shadow(1px 1px 1px black);
+  /* filter: drop-shadow(1px 1px 1px black); */
   font-size: clamp(3.3rem, 5vw, 4.5rem);
 }
-#main {
+main {
   background-color: var(--main);
   display: flex;
   flex-grow: 1;
@@ -94,7 +101,7 @@ h1 {
   align-items: center;
   justify-items: center;
 }
-#footer {
+footer {
   background-color: var(--header);
   width: 100%;
   text-align: center;
@@ -104,4 +111,14 @@ h1 {
 }
 .fa-brands {
   color: whitesmoke;
+}
+/* ----------------------------------------- */
+/* ----------------------------------------- */
+.Card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 2px solid black;
 }

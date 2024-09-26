@@ -33,9 +33,10 @@ export const tatoebaAPI = async (props) => {
 
 	return exampleArray
 }
-tatoebaAPI({ jukugo: "安全" })
 
 
+
+//tatoebaAPI({ jukugo: "安全" })
 
 // https://en.wiki.tatoeba.org/articles/show/text-search
 // https://tatoeba.org/en/
