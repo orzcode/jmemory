@@ -10,7 +10,7 @@ createRoot(document.getElementById("root")).render(
       <h1>J-memory</h1>
     </header>
 
-  <Card />
+  
 
     <MainMiddle />
 

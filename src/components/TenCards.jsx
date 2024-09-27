@@ -1,17 +1,10 @@
 import { useState } from "react";
-import { useEffect } from "react";
 import nf01 from "../assets/nf01.json";
 
-function TenCards({ tenCards, setTenCards, mode, setMode }) {
-  useEffect(() => {
-    const newCards = [];
-    for (let i = 0; i < 10; i++) {
-      const randomCardNo = Math.floor(Math.random() * mode);
-      newCards.push(nf01.entries[randomCardNo]);
-    }
-    setTenCards(newCards); // Update state once after generating all cards
-  }, [mode, setTenCards]); // Runs only when `mode` changes
+function TenCards({ tenCards}) {
 
+  // tenCards forEach map li... etc?//
+  
   return <>{/* render 10 cards here	 */}</>;
 }
 

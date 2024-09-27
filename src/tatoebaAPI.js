@@ -1,6 +1,5 @@
-export const tatoebaAPI = async (props) => {
+export const tatoebaAPI = async (jukugo) => {
 
-	const jukugo = props.jukugo;
 	const limit = 3;
 	//alter this number to control how many examples are returned
 	const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q=${jukugo}&trans=eng&limit=${limit}&sort=words`;
@@ -33,7 +32,7 @@ export const tatoebaAPI = async (props) => {
 
 	return exampleArray
 }
-
+export default tatoebaAPI
 
 
 //tatoebaAPI({ jukugo: "安全" })

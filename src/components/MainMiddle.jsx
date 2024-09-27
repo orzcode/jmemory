@@ -1,18 +1,45 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import TenCards from "./TenCards.jsx";
-
+import Card from "./Card.jsx";
+import nf01 from "../assets/nf01.json";
+import tatoebaAPI from "../tatoebaAPI.js";
 
 function MainMiddle() {
   const [mode, setMode] = useState(100);
   const [tenCards, setTenCards] = useState([]);
 
+  useEffect(() => {
+    const newCards = [];
+    
+    // Step 1: Pick 10 random cards based on 'mode' pool size number
+    for (let i = 0; i < 10; i++) {
+      const randomCardNo = Math.floor(Math.random() * mode);
+      newCards.push(nf01.entries[randomCardNo]);
+    }
+
+    // Step 2: Attach Tatoeba API data to each card
+    const updatedCards = [...newCards]; // Copy the newCards array
+    updatedCards.forEach((card, index) => {
+      tatoebaAPI(card.kanji).then((data) => {
+        updatedCards[index].tatoeba = data; // Add API data to the card
+        setTenCards([...updatedCards]); // Update state with new data
+      });
+    });
+    
+  }, []); // Runs whenever `mode` changes?: mode
+
   return (
-    <main>
+    <main className="MainMiddle">
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
       <TenCards
         tenCards={tenCards}
-        setTenCards={setTenCards}
-        mode={mode}
-        setMode={setMode}
       />
     </main>
   );
