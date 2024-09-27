@@ -3,17 +3,25 @@ function Card() {
 
 	return (
 	<div className="Card">
-	<div className="kanji-section">
-	  <span className="furigana">げん</span>
-	  <span className="kanji">原</span>
+	<div className="CardJukugoDiv">
+	<h3 className="Jukugo">
+		<ruby>原<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+	</h3>
 	</div>
-	<div className="meanings">
-	  <p className="meaning">meaning 1</p>
-	  <p className="meaning">meaning 2</p>
+	<div className="CardMeaningsDiv">
+	  <ul>
+		<li>
+			<p className="Meaning">meaning 1</p>
+		</li>
+		<li>
+			<p className="Meaning">meaning 2</p>
+		</li>
+	  </ul>
 	</div>
-	<div className="example">
-	  <p className="example-sentence-jp">原子力は安全だ。</p>
-	  <p className="example-sentence-en">Nuclear power is safe.</p>
+	<hr></hr>
+	<div className="CardExampleDiv">
+	  <p className="ExampleJP"><ruby>原<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby>力は<ruby>安<rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby>だ。</p>
+	  <p className="ExampleEN">Nuclear power is safe.</p>
 	</div>
   </div>)
 }
