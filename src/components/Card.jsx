@@ -1,11 +1,12 @@
 import "./Card.css"
-function Card() {
+function Card(props) {
 
 	return (
 	<div className="Card">
 	<div className="CardJukugoDiv">
 	<h3 className="Jukugo">
-		<ruby>原<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby>
+		<ruby>{props.kanji}<rt>{props.reading}</rt></ruby>
+		{/* <ruby>原<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby> */}
 	</h3>
 	</div>
 	<div className="CardMeaningsDiv">
