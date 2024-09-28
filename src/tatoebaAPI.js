@@ -1,6 +1,7 @@
+export const limit = 3;
 export const tatoebaAPI = async (jukugo) => {
+	console.log("Tatoeba API call: " + jukugo);
 
-	const limit = 3;
 	//alter this number to control how many examples are returned
 	const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q=${jukugo}&trans=eng&limit=${limit}&sort=words`;
 
@@ -19,6 +20,7 @@ export const tatoebaAPI = async (jukugo) => {
 		const sentence = example.text;
 		const translation = example.translations[0][0].text;
 		const transcriptionHTML = example.transcriptions[0].html;
+								//note: .text can provide non-html kanji+kana
 	  
 		// Push these items to an object, to be then pushed into the array of examples
 		exampleArray.push({
@@ -28,7 +30,6 @@ export const tatoebaAPI = async (jukugo) => {
 		});
 	  }
 
-	console.log(exampleArray)
 
 	return exampleArray
 }

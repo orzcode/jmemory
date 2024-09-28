@@ -114,10 +114,11 @@ footer {
 }
 /* ----------------------------------------- */
 /* ----------------------------------------- */
-.MainMiddle {
+.TenCards {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(calc(30rem + 2vw), 1fr));
  gap: 2rem;
+ width: 100%;
  padding: 1rem;
  align-items: center;
  justify-items: center;
