@@ -14,15 +14,12 @@ function Card({ card }) {
 	</div>
 	<div className="CardMeaningsDiv">
 	  <ul>
-		<li>
-			<p className="Meaning">{card.meanings[0]}</p>
-		</li>
-		<li>
-			<p className="Meaning">{card.meanings[1]}</p>
-		</li>
+		{card.meanings.map((meaning, index) => (
+			<li key={index}><p className="Meaning">{meaning}</p></li>
+		))}
 	  </ul>
 	</div>
-	<hr></hr>
+	<hr />
 
 	<div className="CardExampleDiv">
 	  <p className="ExampleJP" dangerouslySetInnerHTML={{ __html: card.tatoeba[randomEG].transcriptionHTML }} />

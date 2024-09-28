@@ -10,8 +10,10 @@ function MainMiddle() {
       <TenCards
         mode={mode}
       />
-      
+
     </main>
+
+    //remember: clear tencards when mode changes - a 'later' problem
   );
 }
 

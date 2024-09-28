@@ -6,38 +6,42 @@ import tatoebaAPI from "../tatoebaAPI.js";
 function TenCards({ mode }) {
   const [tenCards, setTenCards] = useState([]);
 
-  useEffect(() => {
-    // Step 1: Pick 10 random cards based on 'mode' pool size number
-    const newCards = [];
-    for (let i = 0; i < 10; i++) {
-      const randomCardNo = Math.floor(Math.random() * mode);
-      newCards.push(nf01.entries[randomCardNo]);
-    }
 
-    // Step 2: Fetch Tatoeba API data for each card
-    Promise.all(
-      newCards.map(async (card) => {
-        const data = await tatoebaAPI(card.kanji);
-        return { ...card, tatoeba: data };
-      })
-    ).then((updatedCards) => {
-      setTenCards(updatedCards); // Update state once all API calls are done
-    });
-    
-  }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
+    useEffect(() => {
+      if (tenCards.length > 0) return; // Early return if cards are already loaded
+      
+      // Step 1: Pick 10 random cards based on 'mode' pool size number
+      const newCards = [];
+      for (let i = 0; i < 10; i++) {
+        const randomCardNo = Math.floor(Math.random() * mode);
+        newCards.push(nf01.entries[randomCardNo]);
+      }
+  
+      // Step 2: Fetch Tatoeba API data for each card
+      Promise.all(
+        newCards.map(async (card) => {
+          const data = await tatoebaAPI(card.kanji);
+          return { ...card, tatoeba: data };
+        })
+      ).then((updatedCards) => {
+        setTenCards(updatedCards); // Update state once all API calls are done
+      });
+      
+    }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
 
-  // Step 3: Conditional rendering to ensure cards are available
-  if (tenCards.length === 0) {
-    return <p>Loading...</p>; // Display loading message while data is being fetched
-  }
+
 
   return (
+    //conditional rendering - shows 'loading' if tencards is empty
     <div className="TenCards">
-      {/* Render all 10 cards */}
-      {tenCards.map((card, index) => (
-        <Card key={index} card={card} />
-      ))}
-    </div>
+    {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
+    {tenCards.length > 0 ? (
+      // Render all 10 cards
+      tenCards.map((card, index) => <Card key={index} card={card} />)
+    ) : (
+      <p>Loading...</p>
+    )}
+  </div>
   );
 }
 

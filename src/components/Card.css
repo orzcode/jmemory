@@ -32,6 +32,12 @@
 
   .CardMeaningsDiv {
 	font-size: clamp(1.2rem, 8vw, 2.5rem);
+	width: 100%;
+	ul{
+		list-style-position: outside;
+		list-style-type: "🍙";
+		padding-left: 3rem;
+	}
   }
 
   hr {
