@@ -6,6 +6,7 @@
 	padding: 1rem;
 	border-radius: 1rem;
 	border: 2px solid black;
+	cursor: pointer;
 
 	width: 350px;
 	height: 500px;
@@ -21,6 +22,30 @@
 
 	/* *{outline: 1px solid red;} */
   }
+ /*//////////////////////////////////////////////*/
+  .Card {
+	transition: transform 0.1s, box-shadow 0.1s;
+  }  
+  .Card:hover {
+	transform: scale(1.04); /* Slightly enlarges the card on hover */
+	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Adds shadow on hover */
+  }  
+  /* Click/Active effect */
+  .Card:active {
+	transform: scale(0.98); 
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); 
+  }  
+  /* Focus effect (if clickable via keyboard) */
+  .Card:focus {
+	outline: 2px solid #ffcc00;
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
+  }
+/*//////////////////////////////////////////////*/
+
+
+
+
+
 
   h3{
 	font-size: clamp(5.6rem, 8vw, 7.2rem);
