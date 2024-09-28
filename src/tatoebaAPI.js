@@ -1,40 +1,34 @@
 export const limit = 3;
 export const tatoebaAPI = async (jukugo) => {
-	console.log("Tatoeba API call: " + jukugo);
+  //console.log("Tatoeba API call: " + jukugo);
 
-	//alter this number to control how many examples are returned
-	const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q=${jukugo}&trans=eng&limit=${limit}&sort=words`;
+  //alter this number to control how many examples are returned
+  const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q=${encodeURIComponent(
+    jukugo
+  )}&trans=eng&limit=${limit}&sort=words`;
 
-	// const randomExNo = Math.floor(Math.random() * limit);
-	// const sentence = JSON.data[randomExNo].text;
-	// const translation = JSON.data[randomExNo].translations[0][0].text
-	// const transcriptionHTML = JSON.data[randomExNo].transcriptions[0].html
-		//used if wanting to decide upon a random example from the returned results immediately rather than later
-		//otherwise, make an array of 3 examples and pick one later (eg: during card component creation)
+  const response = await fetch(shortURL);
+  const JSON = await response.json();
 
-	const response = await fetch(shortURL)
-	const JSON = await response.json()
+  const exampleArray = [];
+  for (const example of JSON.data) {
+    const sentence = example.text;
+    const translation = example.translations[0][0].text;
+    const transcriptionHTML = example.transcriptions[0].html;
+    //note: .text can provide non-html kanji+kana
 
-	const exampleArray = []
-	for (const example of JSON.data) {
-		const sentence = example.text;
-		const translation = example.translations[0][0].text;
-		const transcriptionHTML = example.transcriptions[0].html;
-								//note: .text can provide non-html kanji+kana
-	  
-		// Push these items to an object, to be then pushed into the array of examples
-		exampleArray.push({
-		  sentence,
-		  translation,
-		  transcriptionHTML
-		});
-	  }
+    // Push these items to an object, to be then pushed into the array of examples
+    exampleArray.push({
+      sentence,
+      translation,
+      transcriptionHTML,
+    });
+  }
 
-
-	return exampleArray
-}
-export default tatoebaAPI
-
+  console.log(exampleArray);
+  return exampleArray;
+};
+export default tatoebaAPI;
 
 //tatoebaAPI({ jukugo: "安全" })
 
@@ -45,3 +39,49 @@ export default tatoebaAPI
 // https://en.wiki.tatoeba.org/articles/show/api#example-1
 
 //安全
+
+// export const limit = 3;
+
+// export const tatoebaAPI = async (jukugo) => {
+// 	//console.log("Tatoeba API call: " + jukugo);
+
+// 	// Create the API URL
+// 	const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q=${encodeURIComponent(jukugo)}&trans=eng&limit=${limit}&sort=words`;
+
+// 	try {
+// 		const response = await fetch(shortURL);
+	
+// 		// Check if the response is ok (status 200)
+// 		if (!response.ok) {
+// 			throw new Error(`Error fetching data: ${response.statusText}`);
+// 		}
+	
+// 		const JSON = await response.json();
+	
+// 		// Ensure data is in the expected format
+// 		if (!JSON.data || !Array.isArray(JSON.data)) {
+// 			throw new Error('Unexpected response format: JSON.data is not an array');
+// 		}
+
+// 		const exampleArray = [];
+// 		for (const example of JSON.data) {
+// 			const sentence = example.text;
+// 			const translation = example.translations[0][0].text;
+// 			const transcriptionHTML = example.transcriptions[0].html;
+
+// 			// Push these items to an object, to be then pushed into the array of examples
+// 			exampleArray.push({
+// 				sentence,
+// 				translation,
+// 				transcriptionHTML
+// 			});
+// 		}
+
+// 		return exampleArray;
+// 	} catch (error) {
+// 		console.error("API error:", error);
+// 		return []; // Return an empty array on error
+// 	}
+// }
+
+// export default tatoebaAPI;
