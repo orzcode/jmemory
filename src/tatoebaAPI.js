@@ -12,10 +12,16 @@ export const tatoebaAPI = async (jukugo) => {
 
   const exampleArray = [];
   for (const example of JSON.data) {
+
     const sentence = example.text;
-    const translation = example.translations[0][0].text;
+
+    //sometimes, translation array will the 2nd for some reason:
+    const translation = example.translations[0].length > 0
+  ? example.translations[0][0].text
+  : example.translations[1][0].text;
+  
     const transcriptionHTML = example.transcriptions[0].html;
-    //note: .text can provide non-html kanji+kana
+    //note: .text instead of .html can provide non-html kanji+kana
 
     // Push these items to an object, to be then pushed into the array of examples
     exampleArray.push({
