@@ -1,8 +1,6 @@
-export const limit = 3;
- //alter this number to control how many examples are returned
- 
 export const tatoebaAPI = async (jukugo) => {
   //console.log("Tatoeba API call: " + jukugo);
+  const limit = 6;
 
   const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q="%22${encodeURIComponent(jukugo)}%22"&trans=eng&limit=${limit}&sort=words`;
 	//note the %22 is needed to send in quotes - to search for full jukugo
@@ -31,7 +29,7 @@ export const tatoebaAPI = async (jukugo) => {
     });
   }
 
-  console.log(exampleArray);
+  //console.log(exampleArray);
   return exampleArray;
 };
 export default tatoebaAPI;

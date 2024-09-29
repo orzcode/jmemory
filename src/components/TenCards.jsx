@@ -29,7 +29,12 @@ function TenCards({ mode }) {
       
     }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
 
-
+  // Function to shuffle the cards visually
+  const reshuffleCards = () => {
+    console.log("Cards shuffled")
+    const shuffledCards = [...tenCards].sort(() => Math.random() - 0.5); // Simple shuffle
+    setTenCards(shuffledCards); // Update state to trigger re-render
+  };
 
   return (
     //conditional rendering - shows 'loading' if tencards is empty
@@ -37,7 +42,7 @@ function TenCards({ mode }) {
     {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
     {tenCards.length > 0 ? (
       // Render all 10 cards
-      tenCards.map((card, index) => <Card key={index} card={card} />)
+      tenCards.map((card, index) => <Card key={index} card={card} onClick={reshuffleCards}/>)
     ) : (
       <p>Loading...</p>
     )}
