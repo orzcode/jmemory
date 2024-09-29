@@ -85,13 +85,15 @@
   }
     
   .ExampleJP {
-	word-break: auto-phrase;
-	max-width: 350px;
+	/* word-break: auto-phrase;
+	max-width: 340px; */
 
-	/* text-wrap: balance; */
-	
-	/*experimental auto-phrase will overflow unless width set
-	probably still better, but textwrap balance is an option too*/
+	text-wrap: balance;	
+	/*experimental auto-phrase will overflow unless width set.
+	HTML lang also must be 'ja' for it to work.
+
+	Probably still better, but textwrap balance is an option too.
+	However in practise it seems a bit hit and miss*/
   }
   .ExampleEN {
 	font-style: italic; /* Make English translation italic */

@@ -9,10 +9,9 @@ createRoot(document.getElementById("root")).render(
       <h1>J-memory 🗾</h1>
     </header>
 
-  
-
-    <MainMiddle />
-
+    <main className="MainMiddle">
+      <MainMiddle />
+    </main>
     {/* <footer id="footer">Created by Orz <a href='https://github.com/orzcode' target='_blank'><i class='fa-brands fa-github'></i></a></footer> */}
   </StrictMode>
 );

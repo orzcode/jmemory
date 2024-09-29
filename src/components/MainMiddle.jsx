@@ -3,15 +3,20 @@ import TenCards from "./TenCards.jsx";
 
 function MainMiddle() {
   const [mode, setMode] = useState(100);
-  
+  const [view, setView] = useState("Splash");
+
+
+//   <div>
+//   <button onClick={() => setCurrentComponent('ComponentA')}>Show A</button>
+//   <button onClick={() => setCurrentComponent('ComponentB')}>Show B</button>
+
+//   {currentComponent === 'ComponentA' && <ComponentA />}
+//   {currentComponent === 'ComponentB' && <ComponentB />}
+// </div>
   return (
-    <main className="MainMiddle">
-
-      <TenCards
-        mode={mode}
-      />
-
-    </main>
+    
+      <TenCards mode={mode} />
+    
 
     //remember: clear tencards when mode changes - a 'later' problem
   );
