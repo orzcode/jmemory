@@ -6,7 +6,9 @@
 	padding: 1rem;
 	border-radius: 1rem;
 	border: 2px solid black;
+
 	cursor: pointer;
+	user-select: none;
 
 	width: 350px;
 	height: 500px;
@@ -82,6 +84,15 @@
 	/* font-size: clamp(0.5rem, 8vw, 0.9rem); */
   }
     
+  .ExampleJP {
+	word-break: auto-phrase;
+	max-width: 350px;
+
+	/* text-wrap: balance; */
+	
+	/*experimental auto-phrase will overflow unless width set
+	probably still better, but textwrap balance is an option too*/
+  }
   .ExampleEN {
 	font-style: italic; /* Make English translation italic */
   }

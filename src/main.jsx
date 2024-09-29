@@ -6,7 +6,7 @@ import "./index.css";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <header>
-      <h1>J-memory</h1>
+      <h1>J-memory 🗾</h1>
     </header>
 
   

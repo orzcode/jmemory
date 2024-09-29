@@ -70,6 +70,7 @@ html {
 /* ----------------------------------------- */
 header {
   background-color: var(--header);
+  padding-bottom: 1rem;
   
   background: linear-gradient(
     to bottom, 
