@@ -8,12 +8,12 @@ function MainMiddle() {
   const renderView = () => {
     switch (view) {
       case "Splash":
-        return <Splash />;
+        return <Splash setView={setView}/>;
       case "TenCards":
-        return <TenCards mode={mode} />;
+        return <TenCards mode={mode} setView={setView}/>;
       //remember: clear tencards when mode changes - a 'later' problem
       case "AnotherView":
-        return <AnotherView />;
+        return <AnotherView setView={setView}/>;
       default:
         return <p>View not found</p>;
     }

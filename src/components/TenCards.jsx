@@ -3,9 +3,8 @@ import Card from "./Card";
 import nf01 from "../assets/nf01.json";
 import tatoebaAPI from "../tatoebaAPI.js";
 
-function TenCards({ mode }) {
-  const [tenCards, setTenCards] = useState([]);
-
+function TenCards({ mode, setView }) {
+  const [tenCards, setTenCards] = useState([]);  
 
     useEffect(() => {
       if (tenCards.length > 0) return; // Early return if cards are already loaded
