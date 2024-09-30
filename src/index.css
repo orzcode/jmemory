@@ -121,6 +121,11 @@ footer {
   width: 100vw;
   align-items: center;
   justify-content: center;
+
+  background-image: url('./assets/karate.png'), url('./assets/kabuki.png');
+	background-position: top left, bottom right;
+	background-repeat: no-repeat;
+	background-size: clamp(50px, 35vh, 500px), clamp(50px, 35vh, 500px);
 }
 .Splash{
   display: flex;
@@ -130,6 +135,8 @@ footer {
   align-items: center;
   text-align: center;
 }
+
+
 .SplashText {
   display: flex;
   flex-direction: column;
