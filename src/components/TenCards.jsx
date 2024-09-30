@@ -4,22 +4,23 @@ import nf01 from "../assets/nf01.json";
 import tatoebaAPI from "../tatoebaAPI.js";
 
 function TenCards({ mode, setView }) {
-  const [tenCards, setTenCards] = useState([]);  
+  const [tenCards, setTenCards] = useState([]);
+  const totalEntries = nf01.entries.length; // JSON total size pool
 
     useEffect(() => {
       if (tenCards.length > 0) return; // Early return if cards are already loaded
       
-      // Step 1: Pick 10 random cards based on 'mode' pool size number
-      const newCards = [];
-      for (let i = 0; i < 10; i++) {
-        const randomCardNo = Math.floor(Math.random() * mode);
-        newCards.push(nf01.entries[randomCardNo]);
-      }
+    // Step 1: Pick 10 random cards
+    const cardLimit = Math.min(mode, totalEntries); // Ensure mode does not exceed totalEntries
+    const newCards = [];
+    for (let i = 0; i < 10; i++) {
+      const randomCardNo = Math.floor(Math.random() * cardLimit); // Limit
+      newCards.push(nf01.entries[randomCardNo]);
+    }
   
       // Step 2: Fetch Tatoeba API data for each card
       Promise.all(
         newCards.map(async (card) => {
-          console.log(card)
           const data = await tatoebaAPI(card.kanji);
           return { ...card, tatoeba: data };
         })
