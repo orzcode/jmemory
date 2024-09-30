@@ -4,7 +4,7 @@ function Card({ card, onClick }) {
 	const randomEG = Math.floor(Math.random() * card.tatoeba.length);
 
 	return (
-	<div className="Card" onClick={onClick}>
+	<div className="Card Hoverstyles" onClick={onClick}>
 	<div className="CardJukugoDiv">
 	<h3 className="Jukugo">
 		<ruby>{card.kanji}<rt>{card.readings}</rt></ruby>

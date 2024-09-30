@@ -38,7 +38,7 @@ body {
   /* FONTSIZE TRICK-- 1 rem = 10 px here, usually 1 rem = 16px */
   /* FONTSIZE - Adding the 0.4 is for responsivity */
 }
-button {
+/* button {
   border-radius: 1rem;
   outline: 1px solid black;
   padding: 0.6em 1.2em;
@@ -54,7 +54,7 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
-}
+} */
 
 /* ----------------------------------------- */
 html {
@@ -115,6 +115,57 @@ footer {
 }
 /* ----------------------------------------- */
 /* ----------------------------------------- */
+.MainMiddle {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
+}
+.Splash{
+  display: flex;
+  flex-direction: column;
+  max-width: clamp(30rem, 90vw, 100rem);
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+.SplashText {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.SplashText p {
+  padding: 2rem 1rem;
+}
+.Modes {
+  /*the buttons div*/
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.Modes button {
+  padding: 1rem;
+	border-radius: 1rem;
+	border: 2px solid black;
+
+  color: black;
+	cursor: pointer;
+	user-select: none;
+  padding: 0.25em 1em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+
+	text-align: center;
+	background-color: var(--header);
+}
+
+
+
+
+
+
 .TenCards {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(calc(30rem + 2vw), 1fr));
@@ -122,5 +173,5 @@ footer {
  width: 100%;
  padding: 1rem;
  align-items: center;
- justify-items: center;
+ justify-content: center;
 }

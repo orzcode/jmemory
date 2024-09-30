@@ -16,6 +16,8 @@
 	text-align: center;
 	background-color: var(--header);
 
+	transition: transform 0.1s, box-shadow 0.1s;
+
 	/* --element-width: 100vw;
 	width: var(--element-width);	
 	/* below divider value must be manually adjusted for
@@ -25,20 +27,17 @@
 	/* *{outline: 1px solid red;} */
   }
  /*//////////////////////////////////////////////*/
-  .Card {
-	transition: transform 0.1s, box-shadow 0.1s;
-  }  
-  .Card:hover {
-	transform: scale(1.04); /* Slightly enlarges the card on hover */
+  .Hoverstyles:hover {
+	transform: scale(1.02); /* Slightly enlarges the card on hover */
 	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Adds shadow on hover */
   }  
   /* Click/Active effect */
-  .Card:active {
+  .Hoverstyles:active {
 	transform: scale(0.98); 
 	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); 
   }  
   /* Focus effect (if clickable via keyboard) */
-  .Card:focus {
+  .Hoverstyles:focus {
 	outline: 2px solid #ffcc00;
 	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
   }
