@@ -3,22 +3,28 @@ import TenCards from "./TenCards.jsx";
 
 function MainMiddle() {
   const [mode, setMode] = useState(100);
-  const [view, setView] = useState("Splash");
+  const [view, setView] = useState("TenCards");
 
+  const renderView = () => {
+    switch (view) {
+      case "Splash":
+        return <Splash />;
+      case "TenCards":
+        return <TenCards mode={mode} />;
+      //remember: clear tencards when mode changes - a 'later' problem
+      case "AnotherView":
+        return <AnotherView />;
+      default:
+        return <p>View not found</p>;
+    }
+  };
 
-//   <div>
-//   <button onClick={() => setCurrentComponent('ComponentA')}>Show A</button>
-//   <button onClick={() => setCurrentComponent('ComponentB')}>Show B</button>
-
-//   {currentComponent === 'ComponentA' && <ComponentA />}
-//   {currentComponent === 'ComponentB' && <ComponentB />}
-// </div>
   return (
-    
-      <TenCards mode={mode} />
-    
+    <main className="MainMiddle">
 
-    //remember: clear tencards when mode changes - a 'later' problem
+      {renderView()}
+
+    </main>
   );
 }
 
