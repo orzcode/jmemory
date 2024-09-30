@@ -18,8 +18,8 @@ function Splash({ setView, setMode }) {
 			</span>
 
 			<div className="Modes">
-				<button className="Hoverstyles" onClick={() => {setMode(100)}}>Top 100</button>
-				<button className="Hoverstyles" onClick={() => {setMode(450)}}>Top 450</button>
+				<button className="Hoverstyles" onClick={() => {setMode(100); setView("TenCards")}}>Top 100</button>
+				<button className="Hoverstyles" onClick={() => {setMode(500); setView("TenCards")}}>Top 450</button>
 			</div>
 		</div>
 	);

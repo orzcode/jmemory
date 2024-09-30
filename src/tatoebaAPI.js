@@ -1,37 +1,38 @@
 export const tatoebaAPI = async (jukugo) => {
-  //console.log("Tatoeba API call: " + jukugo);
-  const limit = 6;
+  try {
+    const limit = 6;
 
-  const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q="%22${encodeURIComponent(jukugo)}%22"&trans=eng&limit=${limit}&sort=words`;
-	//note the %22 is needed to send in quotes - to search for full jukugo
+    const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q="%22${encodeURIComponent(jukugo)}%22"&trans=eng&limit=${limit}&sort=words`;
+    //note the %22 is needed to send in quotes - to search for full jukugo
 
-  const response = await fetch(shortURL);
-  const JSON = await response.json();
 
-  const exampleArray = [];
-  for (const example of JSON.data) {
+    const response = await fetch(shortURL);
+    if (!response.ok) {
+      throw new Error(`API error: ${response.status} ${response.statusText}`);
+    }
 
-    const sentence = example.text;
+    const JSON = await response.json();
 
-    //sometimes, translation array will the 2nd for some reason:
-    const translation = example.translations[0].length > 0
-  ? example.translations[0][0].text
-  : example.translations[1][0].text;
-  
-    const transcriptionHTML = example.transcriptions[0].html;
-    //note: .text instead of .html can provide non-html kanji+kana
+    const exampleArray = JSON.data.map((example) => {
+      const sentence = example.text;
+      //sometimes, translation array will the 2nd for some reason:
+      const translation = example.translations[0].length > 0
+        ? example.translations[0][0].text
+        : example.translations[1][0].text;
+      const transcriptionHTML = example.transcriptions[0].html;
+      //note: .text instead of .html can provide non-html kanji+kana
 
-    // Push these items to an object, to be then pushed into the array of examples
-    exampleArray.push({
-      sentence,
-      translation,
-      transcriptionHTML,
+      return { sentence, translation, transcriptionHTML };
     });
-  }
 
-  //console.log(exampleArray);
-  return exampleArray;
+    return exampleArray;
+
+  } catch (error) {
+    console.error(`Failed to fetch Tatoeba for "${jukugo}":`, error);
+    return [];
+  }
 };
+
 export default tatoebaAPI;
 
 //tatoebaAPI({ jukugo: "安全" })

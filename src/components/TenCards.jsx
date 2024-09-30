@@ -19,6 +19,7 @@ function TenCards({ mode, setView }) {
       // Step 2: Fetch Tatoeba API data for each card
       Promise.all(
         newCards.map(async (card) => {
+          console.log(card)
           const data = await tatoebaAPI(card.kanji);
           return { ...card, tatoeba: data };
         })

@@ -153,17 +153,13 @@ footer {
 	cursor: pointer;
 	user-select: none;
   padding: 0.25em 1em;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: 500;
   font-family: inherit;
 
 	text-align: center;
 	background-color: var(--header);
 }
-
-
-
-
 
 
 .TenCards {
@@ -173,5 +169,5 @@ footer {
  width: 100%;
  padding: 1rem;
  align-items: center;
- justify-content: center;
+ justify-items: center;
 }
