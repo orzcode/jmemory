@@ -3,6 +3,8 @@ function Card({ card, onClick }) {
 	//picks/generates random sentence (index no.) based on the limit set in Tatoeba API
 	const randomEG = Math.floor(Math.random() * card.tatoeba.length);
 
+	console.log(card)
+
 	return (
 	<div className="Card Hoverstyles" onClick={onClick}>
 	<div className="CardJukugoDiv">
