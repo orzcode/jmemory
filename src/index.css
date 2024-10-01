@@ -173,10 +173,10 @@ footer {
 
 .TenCards {
  display: grid;
- grid-template-columns: repeat(auto-fit, minmax(calc(30rem + 2vw), 1fr));
- gap: 2rem;
+ grid-template-columns: repeat(auto-fit, minmax(38rem /*calc(30rem + 2vw)*/, 1fr));
+ gap: 4rem 0rem;
  width: 100%;
- padding: 1rem;
+ padding: 2rem 0;
  align-items: center;
  justify-items: center;
 }
