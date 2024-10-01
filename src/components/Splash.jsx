@@ -20,6 +20,7 @@ function Splash({ setView, setMode }) {
 			<div className="Modes">
 				<button className="Hoverstyles" onClick={() => {setMode(100); setView("TenCards")}}>Top 100</button>
 				<button className="Hoverstyles" onClick={() => {setMode(500); setView("TenCards")}}>Top 450</button>
+				<button className="Hoverstyles" onClick={() => {setMode("all"); setView("TenCards")}}>View seen cards</button>
 			</div>
 		</div>
 	);
