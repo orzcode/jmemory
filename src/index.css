@@ -124,8 +124,10 @@ footer {
   align-items: center;
   justify-content: center;
 
+  transition: background-image 0.3s ease;
+
   background-image: url('./assets/karate.png'), url('./assets/kabuki.png');
-	background-position: top left, bottom right;
+	background-position: 20% 10%, 80% 90%;
 	background-repeat: no-repeat;
 	background-size: clamp(50px, 35vh, 500px), clamp(50px, 35vh, 500px);
 }
