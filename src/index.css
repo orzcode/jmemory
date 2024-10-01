@@ -59,6 +59,8 @@ button:focus-visible {
 /* ----------------------------------------- */
 html {
   background-color: var(--main);
+  /* overflow-x: hidden; */
+  /*fallback if you can't find the horizontal overflow*/
 }
 #root {
   display: flex;
@@ -118,7 +120,7 @@ footer {
 .MainMiddle {
   display: flex;
   flex-direction: column;
-  width: 100vw;
+
   align-items: center;
   justify-content: center;
 
