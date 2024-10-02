@@ -54,21 +54,27 @@ function TenCards({ mode, setView }) {
       const card = nf01.entries[randomCardNo];
 
       // Check if the card ID is already in the Set
-      if (!uniqueCardIds.has(card.id)) {
-        uniqueCardIds.add(card.id); // Add ID to the Set
-        newCards.push(card);
+      if (!uniqueCardIds.has(card.id)) {//should be checking against cache perhaps???????
+        uniqueCardIds.add(card.id); // Add ID to the Set (formed each time) of unique cards
+        newCards.push(card);//this only pushes to visible tencards on page if it is unique
       }
     }
 
     // Step 2: Fetch Tatoeba API data for each card
     Promise.all(
       newCards.map(async (card) => {
-        const data = await tatoebaAPI(card.kanji);
-        return { ...card, tatoeba: data };
+        try {
+          const data = await tatoebaAPI(card.kanji); // Fetch the Tatoeba data
+          return { ...card, tatoeba: data }; // Merge card with fetched data
+        } catch (error) {
+          console.error(`Failed to fetch Tatoeba data for ${card.kanji}`, error);
+          return { ...card, tatoeba: null }; // Fallback to null if API fails
+        }
       })
     ).then((updatedCards) => {
-      saveToCache(updatedCards); // Cache the fetched cards
-      setTenCards(updatedCards); // Update state once all API calls are done
+      //console.log(updatedCards);
+      saveToCache(updatedCards); // Cache the fetched cards - rather, check if existing then add card ~IDs~
+      setTenCards(updatedCards); // The tenCards to be shown on the page.
     });
   }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
 

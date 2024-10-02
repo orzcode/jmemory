@@ -1,8 +1,6 @@
-import { useState } from "react";
-
 function Splash({ setView, setMode }) {
 
-//console.log(JSON.parse(localStorage.getItem("cachedCards")));
+	//localStorage.clear()
 
 	return (
 		<div className="Splash">
