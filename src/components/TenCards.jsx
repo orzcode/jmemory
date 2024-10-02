@@ -80,12 +80,19 @@ function TenCards({ mode, setView }) {
     });
   }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
 
+
   // Function to shuffle the cards visually
   const reshuffleCards = () => {
     console.log("Cards shuffled");
     const shuffledCards = [...tenCards].sort(() => Math.random() - 0.5); // Simple shuffle
     setTenCards(shuffledCards); // Update state to trigger re-render
+
+    //NOTES
+    //I could maybe put the shuffler inside the return
+    //since incrementing count state causes re-render anyway?
+    setCount(prevCount => prevCount + 1);
   };
+
 
   return (
     //conditional rendering - shows 'loading' if tencards is empty
