@@ -89,7 +89,9 @@ function TenCards({ mode, setView }) {
     //conditional rendering - shows 'loading' if tencards is empty
     <div className="TenCardsParent">
       <div className="TenCardsInfo">
-        <button className="Hoverstyles">Return</button><h2>{mode==="all"? "unlock count: x" : "cards in a row: x"}</h2>
+        <button className="Hoverstyles" onClick={() => {setView("Splash")}}>Return</button>
+        <h2>{mode==="all"? `Cards unlocked: ${getCachedCards().length} / ${totalEntries}` 
+        : `Cards in a row: x / 10`}</h2>
       </div>
       <div className="TenCards">
         {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
