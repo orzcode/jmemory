@@ -5,6 +5,8 @@ import tatoebaAPI from "../tatoebaAPI.js";
 
 function TenCards({ mode, setView }) {
   const [tenCards, setTenCards] = useState([]);
+  const [count, setCount] = useState(0);
+
   const totalEntries = nf01.entries.length; // JSON total size pool
   const uniqueCardIds = new Set(); // To track unique card IDs
 
@@ -91,7 +93,7 @@ function TenCards({ mode, setView }) {
       <div className="TenCardsInfo">
         <button className="Hoverstyles" onClick={() => {setView("Splash")}}>Return</button>
         <h2>{mode==="all"? `Cards unlocked: ${getCachedCards().length} / ${totalEntries}` 
-        : `Cards in a row: x / 10`}</h2>
+        : `Cards in a row: ${count} / 10`}</h2>
       </div>
       <div className="TenCards">
         {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
