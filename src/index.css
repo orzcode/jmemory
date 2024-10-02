@@ -131,6 +131,7 @@ footer {
 	background-repeat: no-repeat;
 	background-size: clamp(50px, 35vh, 500px), clamp(50px, 35vh, 500px);
 }
+/* ----------------------------------------- */
 .Splash{
   display: flex;
   flex-direction: column;
@@ -139,8 +140,6 @@ footer {
   align-items: center;
   text-align: center;
 }
-
-
 .SplashText {
   display: flex;
   flex-direction: column;
@@ -155,7 +154,8 @@ footer {
   flex-direction: column;
   gap: 2rem;
 }
-.Modes button {
+/* ----------------------------------------- */
+button {
   padding: 1rem;
 	border-radius: 1rem;
 	border: 2px solid black;
@@ -171,13 +171,18 @@ footer {
 	text-align: center;
 	background-color: var(--header);
 }
-
-
+/* ----------------------------------------- */
+.TenCardsParent {
+  width: 100%;
+}
+.TenCardsInfo{
+  display: flex;
+  justify-content: space-evenly;
+}
 .TenCards {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(38rem /*calc(30rem + 2vw)*/, 1fr));
  gap: 4rem 0rem;
- width: 100%;
  padding: 2rem 0;
  align-items: center;
  justify-items: center;

@@ -87,16 +87,21 @@ function TenCards({ mode, setView }) {
 
   return (
     //conditional rendering - shows 'loading' if tencards is empty
-    <div className="TenCards">
-      {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
-      {tenCards.length > 0 ? (
-        // Render all 10 cards
-        tenCards.map((card, index) => (
-          <Card key={index} card={card} onClick={reshuffleCards} />
-        ))
-      ) : (
-        <p>Loading...</p>
-      )}
+    <div className="TenCardsParent">
+      <div className="TenCardsInfo">
+        <button className="Hoverstyles">Return</button><h2>{mode==="all"? "unlock count: x" : "cards in a row: x"}</h2>
+      </div>
+      <div className="TenCards">
+        {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
+        {tenCards.length > 0 ? (
+          // Render all 10 cards
+          tenCards.map((card, index) => (
+            <Card key={index} card={card} onClick={reshuffleCards} />
+          ))
+        ) : (
+          <p>Loading...</p>
+        )}
+      </div>
     </div>
   );
 }
