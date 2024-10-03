@@ -90,7 +90,16 @@ function TenCards({ mode, setView }) {
     //NOTES
     //I could maybe put the shuffler inside the return
     //since incrementing count state causes re-render anyway?
+
+    //gotta 'if' this shit:
     setCount(prevCount => prevCount + 1);
+    //actually maybe should put this in diff function?
+    
+    //win check and victory
+    if (count === 9) {
+      console.log("Victory!");
+      setView("Splash");
+    }
   };
 
 
