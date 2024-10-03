@@ -170,6 +170,11 @@ button {
 	text-align: center;
 	background-color: var(--header);
 }
+.Disabled {
+  background-color: var(--header);
+  filter: grayscale(0.2) brightness(0.8);
+  /* cursor: not-allowed; */
+}
 /* ----------------------------------------- */
 .TenCardsParent {
   width: 100%;
