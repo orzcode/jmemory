@@ -120,7 +120,6 @@ footer {
 .MainMiddle {
   display: flex;
   flex-direction: column;
-
   align-items: center;
   justify-content: center;
 
@@ -174,12 +173,20 @@ button {
 /* ----------------------------------------- */
 .TenCardsParent {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  /*make self grow to fill container*/
+  /*complicated, not sure why required. other atts below too*/
 }
 .TenCardsInfo{
   display: flex;
   justify-content: space-evenly;
 }
 .TenCards {
+ justify-self: center;
+ flex-grow: 1;
+
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(38rem /*calc(30rem + 2vw)*/, 1fr));
  gap: 4rem 0rem;
