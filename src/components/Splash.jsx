@@ -1,5 +1,7 @@
-import TenCards from "./TenCards";
+import nf01 from "../assets/nf01.json";
 function Splash({ setView, setMode }) {
+  const totalEntries = nf01.entries.length; // JSON total size pool
+
   //localStorage.clear();
 
   return (
@@ -40,7 +42,7 @@ function Splash({ setView, setMode }) {
             setView("TenCards");
           }}
         >
-          Top 100
+          Top 100 Cards
         </button>
         <button
           className="Hoverstyles"
@@ -49,10 +51,10 @@ function Splash({ setView, setMode }) {
             setView("TenCards");
           }}
         >
-          Top 450
+          Top {totalEntries} Cards
         </button>
         {localStorage.getItem("cachedCards") === null ? (
-          <button className="Hoverstyles Disabled">View seen cards</button>
+          <button className="Disabled">Card Gallery 🔓</button>
         ) : (
           <button
             className="Hoverstyles"

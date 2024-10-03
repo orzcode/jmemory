@@ -172,8 +172,8 @@ button {
 }
 .Disabled {
   background-color: var(--header);
-  filter: grayscale(0.2) brightness(0.8);
-  /* cursor: not-allowed; */
+  filter: grayscale(0.1) brightness(0.9);
+  cursor: not-allowed;
 }
 /* ----------------------------------------- */
 .TenCardsParent {
