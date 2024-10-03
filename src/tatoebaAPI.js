@@ -19,13 +19,22 @@ export const tatoebaAPI = async (jukugo) => {
 
       const findFirstText = (translations) => {
         const flatTranslations = translations.flat(); // Flatten the array
-        const found = flatTranslations.find((translation) => translation.text); // Find the first object with a 'text' key
-        return found ? found.text : null; // Return the 'text' or null if not found
+
+        let justText = [];
+        flatTranslations.forEach((translation) => {
+          if (translation.text) {
+            justText.push(translation.text);
+          }})
+
+        const shortest = justText.reduce((a, b) => (a.length < b.length ? a : b));
+        
+        return shortest
       };
 
       const translation = findFirstText(example.translations);
       //translations are placed in strange places.
       //this is the ~english~ example sentence text
+      //finds the shortest english translation of the same jap sentence
 
       const transcriptionHTML = example.transcriptions[0].html;
       //note: .text instead of .html can provide non-html kanji+kana
