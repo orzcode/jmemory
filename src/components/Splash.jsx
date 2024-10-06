@@ -54,7 +54,7 @@ function Splash({ setView, setMode }) {
           Top {totalEntries} Cards
         </button>
         {localStorage.getItem("cachedCards") === null ? (
-          <button className="Disabled">Card Gallery 🔓</button>
+          <button className="Disabled">Card Gallery</button>
         ) : (
           <button
             className="Hoverstyles"
@@ -63,7 +63,7 @@ function Splash({ setView, setMode }) {
               setView("TenCards");
             }}
           >
-            View seen cards
+            Card Gallery
           </button>
         )}
       </div>

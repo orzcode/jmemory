@@ -5,7 +5,8 @@ import tatoebaAPI from "../tatoebaAPI.js";
 
 function TenCards({ mode, setView }) {
   const [tenCards, setTenCards] = useState([]);
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(0); //for successive card count
+  const [cardIDs, setCardIDs] = useState([]); //for unique card clicks out of 10
 
   const totalEntries = nf01.entries.length; // JSON total size pool
   const uniqueCardIds = new Set(); // To track unique card IDs
@@ -34,7 +35,6 @@ function TenCards({ mode, setView }) {
     }
   };
   //////////////////////////////////////////////////////////////////////////
-
   useEffect(() => {
     if (tenCards.length > 0) return; // Early return if cards are already loaded
     const newCards = [];
@@ -50,15 +50,16 @@ function TenCards({ mode, setView }) {
 
     // Step 1: Pick 10 random cards
     const cardLimit = Math.min(mode, totalEntries); // Ensure mode does not exceed totalEntries
-    
+
     while (newCards.length < 10) {
       const randomCardNo = Math.floor(Math.random() * cardLimit); // Limit
       const card = nf01.entries[randomCardNo];
 
       // Check if the card ID is already in the Set
-      if (!uniqueCardIds.has(card.id)) {//should be checking against cache perhaps???????
+      if (!uniqueCardIds.has(card.id)) {
+        //should be checking against cache perhaps???????
         uniqueCardIds.add(card.id); // Add ID to the Set (formed each time) of unique cards
-        newCards.push(card);//this only pushes to visible tencards on page if it is unique
+        newCards.push(card); //this only pushes to visible tencards on page if it is unique
       }
     }
 
@@ -69,57 +70,95 @@ function TenCards({ mode, setView }) {
           const data = await tatoebaAPI(card.kanji); // Fetch the Tatoeba data
           return { ...card, tatoeba: data }; // Merge card with fetched data
         } catch (error) {
-          console.error(`Failed to fetch Tatoeba data for ${card.kanji}`, error);
+          console.error(
+            `Failed to fetch Tatoeba data for ${card.kanji}`,
+            error
+          );
           return { ...card, tatoeba: null }; // Fallback to null if API fails
         }
       })
     ).then((updatedCards) => {
-      //console.log(updatedCards);
       saveToCache(updatedCards); // Cache the fetched cards - rather, check if existing then add card ~IDs~
       setTenCards(updatedCards); // The tenCards to be shown on the page.
     });
   }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
 
-
-  // Function to shuffle the cards visually
+  //////////////////////////////////////////////////////////////////////////
+ /////////OLD AND UNUSED/////////////////////////////
+   //////////////////////////////////////////////////////////////////////////
   const reshuffleCards = () => {
     console.log("Cards shuffled");
     const shuffledCards = [...tenCards].sort(() => Math.random() - 0.5); // Simple shuffle
     setTenCards(shuffledCards); // Update state to trigger re-render
+  };
+  ///////////////////////////////////////////////////////////////////////////
+  const shuffleArray = (array) => {
+    return array.sort(() => Math.random() - 0.5);
+  };
+  //////////////////////////////////////////////////////////////////////////
+  const cardClickActions = (card) => {
 
-    //NOTES
-    //I could maybe put the shuffler inside the return
-    //since incrementing count state causes re-render anyway?
+    // If the card was already clicked, end the game
+    // ELSE
+    // If the count is already 9 and it wasn't the same card then it must be a victory
+    // Otherwise, the count must be less than 9 hence we increment counts
 
-    //gotta 'if' this shit:
-    setCount(prevCount => prevCount + 1);
-    //actually maybe should put this in diff function?
-    
-    //win check and victory
-    if (count === 9) {
-      console.log("Victory!");
+if (mode !== "all") {
+  //skips victory check if mode is "view all"
+/////////////////////////
+    if (cardIDs.includes(card.id)) {
+      console.log("Shippai! Try again.");
       setView("Splash");
+
+      //DO STUFF HERE
+      return;
+    } 
+    else 
+      if (count === 9) {
+        console.log("Victory!");
+        setView("Splash");
+        //DO STUFF HERE
+      }
+/////////////////////////
     }
+      setCardIDs((prevCardIDs) => [...prevCardIDs, card.id]);
+      setCount((prevCount) => prevCount + 1);    
   };
 
+  //////////////////////////////////////////////////////////////////////////
 
   return (
     //conditional rendering - shows 'loading' if tencards is empty
     <div className="TenCardsParent">
       <div className="TenCardsInfo">
-        <button className="Hoverstyles" onClick={() => {setView("Splash")}}>Return</button>
-        <h2>{mode==="all"? `Cards unlocked: ${getCachedCards().length} / ${totalEntries}` 
-        : `Cards in a row: ${count} / 10`}</h2>
+        <button
+          className="Hoverstyles"
+          onClick={() => {
+            setView("Splash");
+          }}
+        >
+          Return
+        </button>
+        <h2>
+          {mode === "all"
+            ? `Cards unlocked: ${getCachedCards().length} / ${totalEntries}`
+            : `Cards in a row: ${count} / 10`}
+        </h2>
       </div>
       <div className="TenCards">
         {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
         {tenCards.length > 0 ? (
           // Render all 10 cards
-          tenCards.map((card, index) => (
-            <Card key={index} card={card} onClick={reshuffleCards} />
+          shuffleArray(tenCards).map((card, index) => (
+            <Card
+              key={index}
+              card={card}
+              onClick={() => cardClickActions(card)}
+              // onClick={mode != "all" ? () => cardClickActions(card) : null}
+            />
           ))
         ) : (
-          <p>Loading...</p>
+          <h3 className="Loading">Loading...</h3>
         )}
       </div>
     </div>
@@ -127,5 +166,3 @@ function TenCards({ mode, setView }) {
 }
 
 export default TenCards;
-// Each card click shuffles the 10 on page visually (think li key)
-// Fail? Retry set or reselect 10(?)

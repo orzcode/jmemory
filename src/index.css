@@ -199,3 +199,6 @@ button {
  align-items: center;
  justify-items: center;
 }
+.Loading {
+  font-size: clamp(3rem, 8vw, 4rem);
+}
