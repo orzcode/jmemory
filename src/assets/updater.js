@@ -1,3 +1,9 @@
+//
+
+//Custom script to update ID's of the JSON file
+//used after removing/adding entries
+//must be copy-pasted back into file to save. manually.
+
 // Import the JSON file
 import jsonData from './nf01.json' assert { type: 'json' };
 
