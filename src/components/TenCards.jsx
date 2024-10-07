@@ -150,7 +150,7 @@ if (mode !== "all") {
             : `Cards in a row: ${count} / 10`}
         </h2>
       </div>
-      {modal === true ? <EndgameModal modal={modal} setModal={setModal} endState={endState}/> : null}
+      {modal === true ? <EndgameModal modal={modal} setModal={setModal} endState={endState} setView={setView}/> : null}
       <div className="TenCards">
         {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
         {tenCards.length > 0 ? (

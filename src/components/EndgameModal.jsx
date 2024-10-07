@@ -1,5 +1,5 @@
 import "./Modal.css";
-function EndgameModal({ modal, setModal, endState }) {
+function EndgameModal({ modal, setModal, endState, setView }) {
 	if (!modal) return null
 
 	  // Prevent click events on dialog from propagating to overlay
@@ -9,13 +9,13 @@ function EndgameModal({ modal, setModal, endState }) {
 
 	return (
 	<div className="modalOverlay" onClick={() => setModal(false)}>
-	  <dialog open onClick={handleDialogClick}>
+	  <dialog open onClick={handleDialogClick} className={endState}>
 		  <h2>{endState}!</h2>
 		  {endState === "Win" ?
 		  <p>You've unlocked x cards</p> : 
-		  <button>Try once more</button>}
-		  <button>Re-roll cards</button>
-		  <button>Return to menu</button>
+		  <button className="Hoverstyles">Try once more</button>}
+		  <button className="Hoverstyles">Re-roll: try setting tencards mode instead of setView?</button>
+		  <button className="Hoverstyles" onClick={() => setView("Splash")}>Return to menu</button>
 	  </dialog>
 	</div>
 	);

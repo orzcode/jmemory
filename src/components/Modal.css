@@ -4,7 +4,7 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.7);
   display: flex;
   z-index: 1000;
 }
@@ -19,9 +19,22 @@ dialog {
   padding: 1rem;
   border-radius: 1rem;
   border: 4px solid black;
-  background-color: var(--header);
+  background-color: var(--main);
   color: black;
 
   height: clamp(55rem, 75vw, 60rem);
   width: clamp(34rem, 80vw, 100rem);
+}
+/*conditionally renders background*/
+.fail{
+	background-image: url('../assets/torii.png'), url('../assets/samurai.png');
+	background-position: 5% 15%, 95% 85%;
+	background-repeat: no-repeat;
+	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
+}
+.win{
+	background-image: url('../assets/sake.png'), url('../assets/monkey.png');
+	background-position: 5% 15%, 95% 85%;
+	background-repeat: no-repeat;
+	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
 }
