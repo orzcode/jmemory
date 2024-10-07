@@ -15,6 +15,7 @@ function TenCards({ mode, setView }) {
   const [modal, setModal] = useState(false); // win/fail modal open/close
   const [endState, setEndState] = useState(""); // win/fail state type, for modal customization
   ///////////////////////////////////////////////////////////////////////////
+
   // Helper function to get cached cards from localStorage
   const getCachedCards = () => {
     const cached = localStorage.getItem("cachedCards");
@@ -38,6 +39,8 @@ function TenCards({ mode, setView }) {
     }
   };
   //////////////////////////////////////////////////////////////////////////
+  //Card preparation function
+  ////////////////////////////
   useEffect(() => {
     if (tenCards.length > 0) return; // Early return if cards are already loaded
     const newCards = [];
@@ -84,7 +87,7 @@ function TenCards({ mode, setView }) {
       saveToCache(updatedCards); // Cache the fetched cards - rather, check if existing then add card ~IDs~
       setTenCards(updatedCards); // The tenCards to be shown on the page.
     });
-  }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
+  }, [tenCards]); // added tenCards as dependancy to trigger re-render when re-rolling same mode upon endgame
 
   //////////////////////////////////////////////////////////////////////////
   const pregameCleanup = () => {
@@ -156,6 +159,7 @@ function TenCards({ mode, setView }) {
           endState={endState}
           setView={setView}
           pregameCleanup={pregameCleanup}
+          setTenCards={setTenCards}
         />
       ) : null}
       <div className="TenCards">
