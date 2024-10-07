@@ -7,13 +7,13 @@ import EndgameModal from "./EndgameModal.jsx";
 function TenCards({ mode, setView }) {
   const [tenCards, setTenCards] = useState([]); //cards to be rendered
   const [count, setCount] = useState(0); //for successive card count
-  const [cardIDs, setCardIDs] = useState([]); //for unique card clicks out of 10
+  const [cardIDs, setCardIDs] = useState([]); //for unique card clicks out of 10 (i.e: checking same card click)
 
   const totalEntries = nf01.entries.length; // JSON total size pool
   const uniqueCardIds = new Set(); // To track unique card IDs
 
-  const [modal, setModal] = useState(false); // win/fail modal
-  const [endState, setEndState] = useState(""); // win/fail state
+  const [modal, setModal] = useState(false); // win/fail modal open/close
+  const [endState, setEndState] = useState(""); // win/fail state type, for modal customization
   ///////////////////////////////////////////////////////////////////////////
   // Helper function to get cached cards from localStorage
   const getCachedCards = () => {
@@ -87,13 +87,15 @@ function TenCards({ mode, setView }) {
   }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
 
   //////////////////////////////////////////////////////////////////////////
-
+  const pregameCleanup = () => {
+    setCount(0);
+    setCardIDs([]);
+  };
   const endgameFunction = (type) => {
     setEndState(type);
     setModal(true);
-  }
- /////////OLD AND UNUSED/////////////////////////////
-   //////////////////////////////////////////////////////////////////////////
+  };
+  /////////Not Used///////////////////////////////////////////////////
   const reshuffleCards = () => {
     console.log("Cards shuffled");
     const shuffledCards = [...tenCards].sort(() => Math.random() - 0.5); // Simple shuffle
@@ -105,29 +107,26 @@ function TenCards({ mode, setView }) {
   };
   //////////////////////////////////////////////////////////////////////////
   const cardClickActions = (card) => {
-
     // If the card was already clicked, end the game
     // ELSE
     // If the count is already 9 and it wasn't the same card then it must be a victory
     // Otherwise, the count must be less than 9 hence we increment counts
 
-if (mode !== "all") {
-  //skips victory check if mode is "view all"
-/////////////////////////
-    if (cardIDs.includes(card.id)) {
-      console.log("Shippai! Try again.");      
-      endgameFunction("fail");
-      return;
-    } 
-    else 
-      if (count === 9) {
+    if (mode !== "all") {
+      //skips victory check if mode is "view all"
+      /////////////////////////
+      if (cardIDs.includes(card.id)) {
+        console.log("Shippai! Try again.");
+        endgameFunction("fail");
+        return;
+      } else if (count === 9) {
         console.log("Victory!");
         endgameFunction("win");
       }
-/////////////////////////
+      /////////////////////////
     }
-      setCardIDs((prevCardIDs) => [...prevCardIDs, card.id]);
-      setCount((prevCount) => prevCount + 1);    
+    setCardIDs((prevCardIDs) => [...prevCardIDs, card.id]);
+    setCount((prevCount) => prevCount + 1);
   };
 
   //////////////////////////////////////////////////////////////////////////
@@ -150,7 +149,15 @@ if (mode !== "all") {
             : `Cards in a row: ${count} / 10`}
         </h2>
       </div>
-      {modal === true ? <EndgameModal modal={modal} setModal={setModal} endState={endState} setView={setView}/> : null}
+      {modal === true ? (
+        <EndgameModal
+          modal={modal}
+          setModal={setModal}
+          endState={endState}
+          setView={setView}
+          pregameCleanup={pregameCleanup}
+        />
+      ) : null}
       <div className="TenCards">
         {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
         {tenCards.length > 0 ? (
