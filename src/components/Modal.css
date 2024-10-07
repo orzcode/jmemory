@@ -1,0 +1,27 @@
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  display: flex;
+  z-index: 1000;
+}
+
+dialog {
+  z-index: 1001;
+  place-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 1rem;
+  border-radius: 1rem;
+  border: 4px solid black;
+  background-color: var(--header);
+  color: black;
+
+  height: clamp(55rem, 75vw, 60rem);
+  width: clamp(34rem, 80vw, 100rem);
+}

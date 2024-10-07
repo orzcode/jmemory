@@ -18,13 +18,8 @@
 
 	transition: transform 0.1s, box-shadow 0.1s;
 
-	/* --element-width: 100vw;
-	width: var(--element-width);	
-	/* below divider value must be manually adjusted for
-	   the wanted element width. */
-	/*font-size: calc(var(--element-width) / 22); */
-
-	/* *{outline: 1px solid red;} */
+	position: relative; /* Ensure z-index works */
+	z-index: 10; /* Lower z-index than the modal */
   }
  /*//////////////////////////////////////////////*/
   .Hoverstyles:hover {

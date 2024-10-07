@@ -2,15 +2,18 @@ import { useEffect, useState } from "react";
 import Card from "./Card";
 import nf01 from "../assets/nf01.json";
 import tatoebaAPI from "../tatoebaAPI.js";
+import EndgameModal from "./EndgameModal.jsx";
 
 function TenCards({ mode, setView }) {
-  const [tenCards, setTenCards] = useState([]);
+  const [tenCards, setTenCards] = useState([]); //cards to be rendered
   const [count, setCount] = useState(0); //for successive card count
   const [cardIDs, setCardIDs] = useState([]); //for unique card clicks out of 10
 
   const totalEntries = nf01.entries.length; // JSON total size pool
   const uniqueCardIds = new Set(); // To track unique card IDs
 
+  const [modal, setModal] = useState(false); // win/fail modal
+  const [endState, setEndState] = useState(""); // win/fail state
   ///////////////////////////////////////////////////////////////////////////
   // Helper function to get cached cards from localStorage
   const getCachedCards = () => {
@@ -84,6 +87,11 @@ function TenCards({ mode, setView }) {
   }, []); // REMOVED: Run effect when `mode` or `setTenCards` changes
 
   //////////////////////////////////////////////////////////////////////////
+
+  const endgameFunction = (type) => {
+    setEndState(type);
+    setModal(true);
+  }
  /////////OLD AND UNUSED/////////////////////////////
    //////////////////////////////////////////////////////////////////////////
   const reshuffleCards = () => {
@@ -107,17 +115,14 @@ if (mode !== "all") {
   //skips victory check if mode is "view all"
 /////////////////////////
     if (cardIDs.includes(card.id)) {
-      console.log("Shippai! Try again.");
-      setView("Splash");
-
-      //DO STUFF HERE
+      console.log("Shippai! Try again.");      
+      endgameFunction("fail");
       return;
     } 
     else 
       if (count === 9) {
         console.log("Victory!");
-        setView("Splash");
-        //DO STUFF HERE
+        endgameFunction("win");
       }
 /////////////////////////
     }
@@ -145,6 +150,7 @@ if (mode !== "all") {
             : `Cards in a row: ${count} / 10`}
         </h2>
       </div>
+      {modal === true ? <EndgameModal modal={modal} setModal={setModal} endState={endState}/> : null}
       <div className="TenCards">
         {/* Conditional rendering - shows 'Loading...' if tenCards is empty */}
         {tenCards.length > 0 ? (
