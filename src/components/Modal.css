@@ -28,13 +28,13 @@ dialog {
 /*conditionally renders background*/
 .fail{
 	background-image: url('../assets/torii.png'), url('../assets/samurai.png');
-	background-position: 5% 15%, 95% 85%;
+	background-position: 5% 85%, 95% 85%;
 	background-repeat: no-repeat;
 	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
 }
 .win{
 	background-image: url('../assets/sake.png'), url('../assets/monkey.png');
-	background-position: 5% 15%, 95% 85%;
+	background-position: 5% 85%, 95% 85%;
 	background-repeat: no-repeat;
 	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
 }

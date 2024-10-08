@@ -38,24 +38,6 @@ body {
   /* FONTSIZE TRICK-- 1 rem = 10 px here, usually 1 rem = 16px */
   /* FONTSIZE - Adding the 0.4 is for responsivity */
 }
-/* button {
-  border-radius: 1rem;
-  outline: 1px solid black;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  cursor: pointer;
-  transition: border-color 0.25s;
-}
-button:hover {
-  border-color: #000000;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-} */
-
 /* ----------------------------------------- */
 html {
   background-color: var(--main);
@@ -98,6 +80,7 @@ h1 {
 }
 main {
   background-color: var(--main);
+  padding: 2rem 0;
   display: flex;
   flex-grow: 1;
   width: 100%;
@@ -106,6 +89,13 @@ main {
 }
 footer {
   background-color: var(--header);
+
+  background: linear-gradient(
+    to top, 
+    #F9D77E 60%, /* Darker tone for 90% of the header */
+    #FFDFA0 100% /* Lighter tone starts at 90% */
+  );
+
   width: 100%;
   text-align: center;
   flex-grow: 0;
@@ -113,7 +103,7 @@ footer {
   filter: drop-shadow(0px 0px 4px rgb(var(--header)));
 }
 .fa-brands {
-  color: whitesmoke;
+  color: rgb(0, 0, 0);
 }
 /* ----------------------------------------- */
 /* ----------------------------------------- */
@@ -187,6 +177,8 @@ button {
 .TenCardsInfo{
   display: flex;
   justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 1rem;
 }
 .TenCards {
  justify-self: center;
