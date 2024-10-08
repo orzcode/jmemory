@@ -57,7 +57,7 @@ function TenCards({ mode, setView }) {
     // Step 1: Pick 10 random cards
     const cardLimit = Math.min(mode, totalEntries); // Ensure mode does not exceed totalEntries
 
-    while (newCards.length < 10) {
+    while (newCards.length < 60) {
       const randomCardNo = Math.floor(Math.random() * cardLimit); // Limit
       const card = nf01.entries[randomCardNo];
 

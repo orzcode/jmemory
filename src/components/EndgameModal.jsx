@@ -10,7 +10,8 @@ function EndgameModal({ modal, setModal, endState, setView, pregameCleanup, setT
 	return (
 	<div className="modalOverlay" onClick={() => setModal(false)}>
 	  <dialog open onClick={handleDialogClick} className={endState}>
-		  <h2>{endState}!</h2>
+		  <h2>{endState === "Win" ? "よっしゃ！ Good job!" : "あらあら! Try again?"}</h2>
+
 		  {endState === "Win" ?
 		  <p>You've unlocked x cards</p> : 
 		  <button className="Hoverstyles" onClick={() => {setModal(false); pregameCleanup();}}>Try once more</button>}
