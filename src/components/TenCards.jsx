@@ -14,6 +14,7 @@ function TenCards({ mode, setView }) {
 
   const [modal, setModal] = useState(false); // win/fail modal open/close
   const [endState, setEndState] = useState(""); // win/fail state type, for modal customization
+  const [unlockedCount, setUnlockedCount] = useState(0); // number of cards unlocked
   ///////////////////////////////////////////////////////////////////////////
 
   // Helper function to get cached cards from localStorage
@@ -37,6 +38,7 @@ function TenCards({ mode, setView }) {
       const updatedCache = [...cached, ...uniqueCards];
       localStorage.setItem("cachedCards", JSON.stringify(updatedCache));
     }
+    return uniqueCards.length
   };
   //////////////////////////////////////////////////////////////////////////
   //Card preparation function
@@ -57,7 +59,7 @@ function TenCards({ mode, setView }) {
     // Step 1: Pick 10 random cards
     const cardLimit = Math.min(mode, totalEntries); // Ensure mode does not exceed totalEntries
 
-    while (newCards.length < 60) {
+    while (newCards.length < 10) {
       const randomCardNo = Math.floor(Math.random() * cardLimit); // Limit
       const card = nf01.entries[randomCardNo];
 
@@ -84,7 +86,7 @@ function TenCards({ mode, setView }) {
         }
       })
     ).then((updatedCards) => {
-      saveToCache(updatedCards); // Cache the fetched cards - rather, check if existing then add card ~IDs~
+      //saveToCache(updatedCards); // Cache the fetched cards - rather, check if existing then add card ~IDs~
       setTenCards(updatedCards); // The tenCards to be shown on the page.
     });
   }, [tenCards]); // added tenCards as dependancy to trigger re-render when re-rolling same mode upon endgame
@@ -93,6 +95,8 @@ function TenCards({ mode, setView }) {
   const pregameCleanup = () => {
     setCount(0);
     setCardIDs([]);
+    setEndState("");
+    setUnlockedCount(0);
   };
   const endgameFunction = (type) => {
     setEndState(type);
@@ -124,6 +128,10 @@ function TenCards({ mode, setView }) {
         return;
       } else if (count === 9) {
         console.log("Victory!");
+        
+        const unlockCount = saveToCache(tenCards);
+        setUnlockedCount(unlockCount);
+
         endgameFunction("win");
       }
       /////////////////////////
@@ -160,6 +168,7 @@ function TenCards({ mode, setView }) {
           setView={setView}
           pregameCleanup={pregameCleanup}
           setTenCards={setTenCards}
+          unlockedCount={unlockedCount}
         />
       ) : null}
       <div className="TenCards">
