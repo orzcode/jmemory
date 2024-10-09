@@ -45,7 +45,7 @@ function MainMiddle() {
   }, [view]);
 
   return (
-    <main className="MainMiddle" style={{ backgroundImage }}>
+    <main className="MainMiddle">
       {renderView()}
     </main>
   );
