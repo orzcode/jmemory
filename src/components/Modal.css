@@ -38,3 +38,7 @@ dialog {
 	background-repeat: no-repeat;
 	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
 }
+
+dialog p {
+  font-size: clamp(1rem, 8vw, 2.5rem);
+}

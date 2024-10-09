@@ -13,7 +13,7 @@ function EndgameModal({ modal, setModal, endState, setView, pregameCleanup, setT
 		  <h2>{endState === "win" ? "よっしゃ！ Good job!" : "あらあら! Try again?"}</h2>
 
 		  {endState === "win" ?
-		  <p>You've unlocked {unlockedCount} cards</p> : 
+		  <p>You've unlocked <strong>{unlockedCount}</strong> cards</p> : 
 		  <button className="Hoverstyles" onClick={() => {setModal(false); pregameCleanup();}}>Try once more</button>}
 		  <button className="Hoverstyles" onClick={() => {setModal(false); setTenCards([]); pregameCleanup();}}>Re-roll cardset</button>
 		  <button className="Hoverstyles" onClick={() => setView("Splash")}>Return to menu</button>
