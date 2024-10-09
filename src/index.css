@@ -11,8 +11,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --header: #F9D77E;
-  --main: #FFDFA0;
+  --header: #f9d77e;
+  --main: #ffdfa0;
   /* --highlighted: #22334B; */
 }
 *,
@@ -23,7 +23,6 @@
   box-sizing: border-box;
 
   /* outline: 1px solid red; */
-
 }
 html {
   font-size: 62.5%;
@@ -40,7 +39,8 @@ body {
 }
 /* ----------------------------------------- */
 html {
-  background-color: var(--main);
+  background-color: var(--header);
+  /* This will affect the bottom navbar on mobile*/
   /* overflow-x: hidden; */
   /*fallback if you can't find the horizontal overflow*/
 }
@@ -55,13 +55,14 @@ html {
 header {
   background-color: var(--header);
   padding-bottom: 1rem;
-  
+
   background: linear-gradient(
-    to bottom, 
-    #F9D77E 80%, /* Darker tone for 90% of the header */
-    #FFDFA0 100% /* Lighter tone starts at 90% */
+    to bottom,
+    #f9d77e 80%,
+    /* Darker tone for 90% of the header */ #ffdfa0 100%
+      /* Lighter tone starts at 90% */
   );
-  
+
   /* border-bottom: 1px solid black;
   filter: drop-shadow(1px 1px 50px black); */
   width: 100%;
@@ -91,9 +92,10 @@ footer {
   background-color: var(--header);
 
   background: linear-gradient(
-    to top, 
-    #F9D77E 60%, /* Darker tone for 90% of the header */
-    #FFDFA0 100% /* Lighter tone starts at 90% */
+    to top,
+    #f9d77e 60%,
+    /* Darker tone for 90% of the header */ #ffdfa0 100%
+      /* Lighter tone starts at 90% */
   );
 
   width: 100%;
@@ -113,15 +115,15 @@ footer {
   align-items: center;
   justify-content: center;
 
-  transition: background-image 0.3s ease;
-
-  background-image: url('./assets/karate.png'), url('./assets/kabuki.png');
-	background-position: 20% 10%, 80% 90%;
-	background-repeat: no-repeat;
-	background-size: clamp(50px, 35vh, 500px), clamp(50px, 35vh, 500px);
+  
+  
+  background-image: url("../assets/karate.png"), url("../assets/kabuki.png");
+  background-position: 10% 90%, 90% 90%;
+  background-repeat: no-repeat;
+  background-size: clamp(50px, 25vw, 500px), clamp(50px, 25vw, 500px);
 }
 /* ----------------------------------------- */
-.Splash{
+.Splash {
   display: flex;
   flex-direction: column;
   max-width: clamp(30rem, 90vw, 100rem);
@@ -146,19 +148,19 @@ footer {
 /* ----------------------------------------- */
 button {
   padding: 1rem;
-	border-radius: 1rem;
-	border: 2px solid black;
+  border-radius: 1rem;
+  border: 2px solid black;
 
   color: black;
-	cursor: pointer;
-	user-select: none;
+  cursor: pointer;
+  user-select: none;
   padding: 0.25em 1em;
   font-size: 1.2em;
   font-weight: 500;
   font-family: inherit;
 
-	text-align: center;
-	background-color: var(--header);
+  text-align: center;
+  background-color: var(--header);
 }
 .Disabled {
   background-color: var(--header);
@@ -174,22 +176,25 @@ button {
   /*make self grow to fill container*/
   /*complicated, not sure why required. other atts below too*/
 }
-.TenCardsInfo{
+.TenCardsInfo {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
   gap: 1rem;
 }
 .TenCards {
- justify-self: center;
- flex-grow: 1;
+  justify-self: center;
+  flex-grow: 1;
 
- display: grid;
- grid-template-columns: repeat(auto-fit, minmax(38rem /*calc(30rem + 2vw)*/, 1fr));
- gap: 4rem 0rem;
- padding: 2rem 0;
- align-items: center;
- justify-items: center;
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(38rem /*calc(30rem + 2vw)*/, 1fr)
+  );
+  gap: 4rem 0rem;
+  padding: 2rem 0;
+  align-items: center;
+  justify-items: center;
 }
 .Loading {
   font-size: clamp(3rem, 8vw, 4rem);
