@@ -40,7 +40,7 @@ body {
 }
 /* ----------------------------------------- */
 html {
-  background-color: var(--main);
+  background-color: var(--header);
   /* overflow-x: hidden; */
   /*fallback if you can't find the horizontal overflow*/
 }
