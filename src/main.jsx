@@ -12,6 +12,6 @@ createRoot(document.getElementById("root")).render(
 
       <MainMiddle />
 
-    <footer>Created by Orz <a href='https://github.com/orzcode' target='_blank'><i class='fa-brands fa-github'></i></a></footer>
+    <footer>Created by Orz <a href='https://github.com/orzcode' target='_blank'><i className='fa-brands fa-github'></i></a></footer>
   </StrictMode>
 );
