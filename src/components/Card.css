@@ -8,10 +8,16 @@
 	border: 2px solid black;
 
 	cursor: pointer;
-	user-select: none;
+	user-select: auto;
 
-	width: 380px;
-	height: 500px;
+	width: 240px;
+	height: 380px;
+
+	/* width: 300px;
+	height: 450px; */
+
+	/* width: clamp(20rem, 10vw, 38rem);
+	height: clamp(25rem, 15vw, 50rem); */
 
 	text-align: center;
 	background-color: var(--header);
@@ -65,7 +71,8 @@
   }
 
   .CardExampleDiv {
-	font-size: clamp(1rem, 8vw, 2rem);
+	font-size: clamp(1.4rem, 70%, 2rem);
+	/* font-size: clamp(1rem, 8vw, 2rem); */
 	padding-top: 10px;
 	color: rgba(0, 0, 0, 0.8);
   }
@@ -76,7 +83,7 @@
   .ExampleJP {
 	/* word-break: auto-phrase;
 	max-width: 340px; */
-
+	
 	text-wrap: balance;	
 	/*experimental auto-phrase will overflow unless width set.
 	HTML lang also must be 'ja' for it to work.
