@@ -56,7 +56,7 @@
   }
 
   .CardMeaningsDiv {
-	font-size: clamp(1.2rem, 4vw, 2.2rem);
+	font-size: clamp(1.6rem, 4vw, 2.2rem);
 	width: 100%;
 	ul{
 		list-style-position: outside;
