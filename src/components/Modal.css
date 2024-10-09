@@ -24,19 +24,17 @@ dialog {
 
   height: clamp(55rem, 75vw, 60rem);
   width: clamp(34rem, 80vw, 100rem);
+
+  background-position: 5% 85%, 95% 85%;
+	background-repeat: no-repeat;
+	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
 }
 /*conditionally renders background*/
 .fail{
 	background-image: url('../assets/torii.png'), url('../assets/samurai.png');
-	background-position: 5% 85%, 95% 85%;
-	background-repeat: no-repeat;
-	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
 }
 .win{
 	background-image: url('../assets/sake.png'), url('../assets/monkey.png');
-	background-position: 5% 85%, 95% 85%;
-	background-repeat: no-repeat;
-	background-size: clamp(25px, 25%, 250px), clamp(25px, 25%, 250px);
 }
 
 dialog p {

@@ -1,6 +1,10 @@
 import { useState, useEffect } from "react";
 import TenCards from "./TenCards.jsx";
 import Splash from "./Splash.jsx";
+import karate from "../assets/karate.png";
+import kabuki from "../assets/kabuki.png";
+import garden from "../assets/garden.png";
+import monk from "../assets/monk.png";
 
 function MainMiddle() {
   const [mode, setMode] = useState(100);
@@ -28,12 +32,12 @@ function MainMiddle() {
     switch (view) {
       case "Splash":
         setBackgroundImage(
-          `url('./src/assets/karate.png'), url('./src/assets/kabuki.png')`
+          `url('${karate}'), url('${kabuki}')`
         );
         break;
       case "TenCards":
         setBackgroundImage(
-          `url('./src/assets/garden.png'), url('./src/assets/monk.png')`
+          `url('${garden}'), url('${monk}')`
         );
         break;
       case "AnotherView":
