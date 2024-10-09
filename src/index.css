@@ -191,7 +191,7 @@ button {
   display: grid;
   grid-template-columns: repeat(
     auto-fit,
-    minmax(30rem /*calc(30rem + 2vw)*/, 1fr)
+    minmax(calc(28rem + 3vw), 1fr)
   );
   gap: 4rem 0rem;
   padding: 2rem 0;
