@@ -45,7 +45,7 @@
 /*//////////////////////////////////////////////*/
 
   h3{
-	font-size: clamp(5.6rem, 8vw, 7.2rem);
+	font-size: clamp(5.6rem, 4vw, 7.2rem);
   }
   .Jukugo rt{
 	/*furigana*/
@@ -71,7 +71,7 @@
   }
 
   .CardExampleDiv {
-	font-size: clamp(1.4rem, 70%, 2rem);
+	font-size: clamp(1.6rem, 2vw, 1.8rem);
 	/* font-size: clamp(1rem, 8vw, 2rem); */
 	padding-top: 10px;
 	color: rgba(0, 0, 0, 0.8);
