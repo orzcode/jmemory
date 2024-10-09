@@ -28,7 +28,7 @@ function MainMiddle() {
     switch (view) {
       case "Splash":
         setBackgroundImage(
-          `url('./src/assets/karate.png'), url('./src/assets/kabuki.png')`
+          `url('./assets/karate.png'), url('./src/assets/kabuki.png')`
         );
         break;
       case "TenCards":
@@ -45,7 +45,7 @@ function MainMiddle() {
   }, [view]);
 
   return (
-    <main className="MainMiddle">
+    <main className="MainMiddle" style={{ backgroundImage }}>
       {renderView()}
     </main>
   );
