@@ -117,7 +117,7 @@ footer {
 
   
   
-  background-image: url("./assets/karate.png"), url("./assets/kabuki.png");
+  /* background-image: url("./assets/karate.png"), url("./assets/kabuki.png"); */
   background-position: 10% 90%, 90% 90%;
   background-repeat: no-repeat;
   background-size: clamp(50px, 25vw, 500px), clamp(50px, 25vw, 500px);
