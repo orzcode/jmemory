@@ -28,7 +28,7 @@ function MainMiddle() {
     switch (view) {
       case "Splash":
         setBackgroundImage(
-          `url('./assets/karate.png'), url('./src/assets/kabuki.png')`
+          `url('../assets/karate.png'), url('./src/assets/kabuki.png')`
         );
         break;
       case "TenCards":
