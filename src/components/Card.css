@@ -1,3 +1,38 @@
+/* Wrapper to handle the deal animation */
+.CardWrapper {
+	opacity: 0;
+	transform: translateX(-100vw) rotate(-15deg);
+	animation: deal 0.5s ease-out forwards;
+	animation-fill-mode: forwards;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	position: relative;
+}
+
+/* Staggered deal animation for cards */
+.CardWrapper:nth-child(1) { animation-delay: 0s; }
+.CardWrapper:nth-child(2) { animation-delay: 0.2s; }
+.CardWrapper:nth-child(3) { animation-delay: 0.4s; }
+.CardWrapper:nth-child(4) { animation-delay: 0.6s; }
+.CardWrapper:nth-child(5) { animation-delay: 0.8s; }
+.CardWrapper:nth-child(6) { animation-delay: 1s; }
+.CardWrapper:nth-child(7) { animation-delay: 1.2s; }
+.CardWrapper:nth-child(8) { animation-delay: 1.4s; }
+.CardWrapper:nth-child(9) { animation-delay: 1.6s; }
+.CardWrapper:nth-child(10) { animation-delay: 1.8s; }
+
+/* Keyframes for deal animation */
+@keyframes deal {
+	0% {
+		opacity: 0;
+		transform: translateX(-100vw) rotate(-15deg); /* Slide in from left with slight rotation */
+	}
+	100% {
+		opacity: 1;
+		transform: translateX(0) rotate(0deg); /* End in place */
+	}
+}
+
+/* The Card element itself */
 .Card {
 	display: flex;
 	flex-direction: column;
@@ -6,95 +41,72 @@
 	padding: 1rem;
 	border-radius: 1rem;
 	border: 2px solid black;
-
 	cursor: pointer;
-	user-select:all;
-
-	
+	user-select: all;
 	width: clamp(280px, 35vw, 360px);
 	height: clamp(340px, calc(240px + 20vw), 460px);
-
-	/* width: 280px;
-	height: 340px; */
-	/* Good mobile sizes */
-
-	/* width: 360px;
-	height: 460px; */
-	/* Good desktop sizes */
-
 	text-align: center;
 	background-color: var(--header);
-
 	transition: transform 0.1s, box-shadow 0.1s;
-
 	position: relative; /* Ensure z-index works */
 	z-index: 10; /* Lower z-index than the modal */
-  }
- /*//////////////////////////////////////////////*/
-  .Hoverstyles:hover {
+}
+
+/* Hover effects - applied to the Card itself */
+.Card:hover {
 	transform: scale(1.02); /* Slightly enlarges the card on hover */
 	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Adds shadow on hover */
-  }  
-  /* Click/Active effect */
-  .Hoverstyles:active {
-	transform: scale(0.98); 
-	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); 
-  }  
-  /* Focus effect (if clickable via keyboard) */
-  .Hoverstyles:focus {
-	/* outline: 2px solid #ffcc00; */
-	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); 
-  }
-/*//////////////////////////////////////////////*/
+}
 
-  h3{
+/* Click/Active effect */
+.Card:active {
+	transform: scale(0.98);
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Focus effect (if clickable via keyboard) */
+.Card:focus {
+	box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Rest of your styles for inner content */
+h3 {
 	font-size: clamp(5.6rem, 4vw, 6.3rem);
-  }
-  .Jukugo rt{
-	/*furigana*/
-	font-size: clamp(1.2rem, 4vw, 1.4rem);
-  }
+}
 
-  .CardMeaningsDiv {
+.Jukugo rt {
+	/* Furigana */
+	font-size: clamp(1.2rem, 4vw, 1.4rem);
+}
+
+.CardMeaningsDiv {
 	font-size: clamp(1.6rem, 4vw, 2.2rem);
 	width: 100%;
-	ul{
+	ul {
 		list-style-position: outside;
 		list-style-type: "🍙";
 		padding-left: 3rem;
 	}
-  }
+}
 
-  hr {
+hr {
 	/* Line separating example section */
 	width: 90%;
 	border: none;
 	height: 1px;
 	background-color: rgba(0, 0, 0, 0.5);
-  }
+}
 
-  .CardExampleDiv {
+.CardExampleDiv {
 	font-size: clamp(1.6rem, 2vw, 2rem);
-	/* font-size: clamp(1rem, 8vw, 2rem); */
 	padding-top: 10px;
 	color: rgba(0, 0, 0, 0.8);
-  }
-  .CardExampleDiv rt {
-	/* font-size: clamp(0.5rem, 8vw, 0.9rem); */
-  }
-    
-  .ExampleJP {
-	/* word-break: auto-phrase;
-	max-width: 340px; */
-	
-	text-wrap: balance;	
-	/*experimental auto-phrase will overflow unless width set.
-	HTML lang also must be 'ja' for it to work.
+}
 
-	Probably still better, but textwrap balance is an option too.
-	However in practise it seems a bit hit and miss*/
-  }
-  .ExampleEN {
+.ExampleJP {
+	text-wrap: balance;
+}
+
+.ExampleEN {
 	font-style: italic; /* Make English translation italic */
-  }
-  
+}

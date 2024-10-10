@@ -6,6 +6,7 @@ function Card({ card, onClick }) {
 	//console.log(card)
 
 	return (
+	<div className="CardWrapper">
 	<div className="Card Hoverstyles" onClick={onClick}>
 	<div className="CardJukugoDiv">
 	<h3 className="Jukugo">
@@ -25,7 +26,8 @@ function Card({ card, onClick }) {
 	  <p className="ExampleJP" dangerouslySetInnerHTML={{ __html: card.tatoeba[randomEG].transcriptionHTML }} />
 	  <p className="ExampleEN">{card.tatoeba[randomEG].translation}</p>
 	</div>
-  </div>)
+  </div>
+	</div>)
 }
 
 export default Card
