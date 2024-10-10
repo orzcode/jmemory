@@ -8,7 +8,7 @@
 	border: 2px solid black;
 
 	cursor: pointer;
-	user-select: auto;
+	user-select:all;
 
 	
 	width: clamp(280px, 35vw, 360px);

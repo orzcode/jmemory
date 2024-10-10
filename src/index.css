@@ -65,17 +65,8 @@ header {
       /* Lighter tone starts at 90% */
   );
 
-  /* border-bottom: 1px solid black;
-  filter: drop-shadow(1px 1px 50px black); */
   width: 100%;
   text-align: center;
-  flex-grow: 0;
-  flex-shrink: 0;
-  margin: auto;
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: center;
-  align-items: center;
 }
 h1 {
   /* filter: drop-shadow(1px 1px 1px black); */
