@@ -96,7 +96,7 @@ function TenCards({ mode, setView }) {
         newCards.push(card); //this only pushes to visible tencards on page if it is unique
       }
 
-      //NOTE TO FUTURE SELF: this causes infinite loop with DLC mode due to smaller (14) data size
+      //NOTE: this causes infinite loop if entries size is less than 20
     }
 
     // Step 2: Fetch Tatoeba API data for each card

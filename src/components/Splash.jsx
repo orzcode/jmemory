@@ -55,7 +55,7 @@ function Splash({ setView, setMode }) {
             setView("TenCards");
           }}
         >
-          Top 100 Cards
+          Top 100 Words
           <div className={`icon ${clockedModes[100] ? 'passed' : 'not-passed'}`}>
           🈴</div>
         </button>
@@ -66,11 +66,11 @@ function Splash({ setView, setMode }) {
             setView("TenCards");
           }}
         >
-          Top {totalEntries} Cards
+          Top {totalEntries} Words
           <div className={`icon ${clockedModes[400] ? 'passed' : 'not-passed'}`}>
           🈴</div>
         </button>
-        {/* {clockedModes[100] && clockedModes[400] ? (
+         {clockedModes[100] && clockedModes[400] ? (
           <button
             className="Hoverstyles"
             onClick={() => {
@@ -82,9 +82,10 @@ function Splash({ setView, setMode }) {
           </button>
         ) : (
           <button className="Disabled">Wild Words DLC</button>
-        )} */
-        //-----Note: disabled due to inifite loop (owing to small DLC size)
-        }
+        )} 
+        
+        {/* //-----Note: disabled due to inifite loop (owing to small DLC size) */}
+
       
         {localStorage.getItem("cachedCards") === null ? (
           <button className="Disabled">Card Gallery</button>
