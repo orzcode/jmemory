@@ -1,0 +1,88 @@
+{
+  "entries": [
+    {
+      "id": "dlc1",
+      "kanji": "お前",
+      "readings": "おまえ",
+      "meanings": ["you (derog.)"]
+    },
+    {
+      "id": "dlc2",
+      "kanji": "あらあら",
+      "readings": "あらあら",
+      "meanings": ["oh my", "my my"]
+    },
+    {
+      "id": "dlc3",
+      "kanji": "野郎",
+      "readings": "やろう",
+      "meanings": ["bastard", "guy (derog.)"]
+    },
+    {
+      "id": "dlc4",
+      "kanji": "変態",
+      "readings": "へんたい",
+      "meanings": ["pervert"]
+    },
+    {
+      "id": "dlc5",
+      "kanji": "糞",
+      "readings": "くそ",
+      "meanings": ["shit"]
+    },
+    {
+      "id": "dlc6",
+      "kanji": "畜生",
+      "readings": "ちくしょう",
+      "meanings": ["motherfucker", "son of a bitch"]
+    },
+    {
+      "id": "dlc7",
+      "kanji": "過労死",
+      "readings": "かろうし",
+      "meanings": ["death from overwork"]
+    },
+    {
+      "id": "dlc8",
+      "kanji": "猫舌",
+      "readings": "ねこじた",
+      "meanings": ["cat's tongue", "sensitive tongue"]
+    },
+    {
+      "id": "dlc9",
+      "kanji": "金玉",
+      "readings": "きんたま",
+      "meanings": ["golden balls"]
+    },
+    {
+      "id": "dlc10",
+      "kanji": "天下り",
+      "readings": "あまくだり",
+      "meanings": ["golden parachute"]
+    },
+    {
+      "id": "dlc11",
+      "kanji": "神風",
+      "readings": "かみかぜ",
+      "meanings": ["kamikaze", "divine wind"]
+    },
+    {
+      "id": "dlc12",
+      "kanji": "ヤバい",
+      "readings": "やばい",
+      "meanings": ["wild", "extreme"]
+    },
+    {
+      "id": "dlc13",
+      "kanji": "下手くそ",
+      "readings": "へたくそ",
+      "meanings": ["terrible at"]
+    },
+    {
+      "id": "dlc14",
+      "kanji": "酔っ払い",
+      "readings": "よっぱらい",
+      "meanings": ["drunk", "drunkard"]
+    }
+  ]
+}

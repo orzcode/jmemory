@@ -154,11 +154,25 @@ button {
 
   text-align: center;
   background-color: var(--header);
+
+  position: relative;
 }
 .Disabled {
   background-color: var(--header);
   filter: grayscale(0.1) brightness(0.9);
   cursor: not-allowed;
+}
+.passed {
+  display: auto;
+  position: absolute;
+  right: 0%;
+  top: 0%;
+  transform: rotateZ(-15deg);
+  width: 2rem;
+  height: 2rem;
+}
+.not-passed {
+  display: none;
 }
 /* ----------------------------------------- */
 .TenCardsParent {

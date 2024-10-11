@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import Card from "./Card";
 import nf01 from "../assets/nf01.json";
+import dlc from "../assets/dlc.json"
 import tatoebaAPI from "../tatoebaAPI.js";
 import EndgameModal from "./EndgameModal.jsx";
 
@@ -9,7 +10,7 @@ function TenCards({ mode, setView }) {
   const [count, setCount] = useState(0); //for successive card count
   const [cardIDs, setCardIDs] = useState([]); //for unique card clicks out of 10 (i.e: checking same card click)
 
-  const totalEntries = nf01.entries.length; // JSON total size pool
+  const totalEntries = mode === "dlc" ? dlc.entries.length : nf01.entries.length; // JSON total size pool
   const uniqueCardIds = new Set(); // To track unique card IDs
 
   const [modal, setModal] = useState(false); // win/fail modal open/close
@@ -41,6 +42,25 @@ function TenCards({ mode, setView }) {
     return uniqueCards.length
   };
   //////////////////////////////////////////////////////////////////////////
+  const saveClocked = (clockedMode) => {
+    let cached = {}; // Initialize an empty object if none exists
+  
+    // Check if there's already clocked data in localStorage
+    if (localStorage.getItem("clocked")) {
+      cached = JSON.parse(localStorage.getItem("clocked")); // Parse existing data
+    }
+  
+    // Update the relevant mode
+    if (clockedMode === 100) {
+      cached[100] = true; // Mark mode 100 as clocked
+    } else if (clockedMode === 400) {
+      cached[400] = true; // Mark mode 400 as clocked
+    }
+  
+    // Save the updated data back to localStorage
+    localStorage.setItem("clocked", JSON.stringify(cached));
+  }
+  //////////////////////////////////////////////////////////////////////////
   //Card preparation function
   ////////////////////////////
   useEffect(() => {
@@ -57,18 +77,26 @@ function TenCards({ mode, setView }) {
     }
 
     // Step 1: Pick 10 random cards
-    const cardLimit = Math.min(mode, totalEntries); // Ensure mode does not exceed totalEntries
+
+    // Workaround for string-based mode with DLC.
+    const numericMode = mode === "dlc" ? dlc.entries.length : mode
+
+    const cardLimit = Math.min(numericMode, totalEntries); // Ensure mode does not exceed totalEntries
+
 
     while (newCards.length < 10) {
-      const randomCardNo = Math.floor(Math.random() * cardLimit); // Limit
-      const card = nf01.entries[randomCardNo];
+      const randomCardNo = Math.floor(Math.random() * cardLimit);
+      
+      const card = mode === "dlc" ? dlc.entries[randomCardNo] : nf01.entries[randomCardNo];
 
       // Check if the card ID is already in the Set
       if (!uniqueCardIds.has(card.id)) {
-        //should be checking against cache perhaps???????
+
         uniqueCardIds.add(card.id); // Add ID to the Set (formed each time) of unique cards
         newCards.push(card); //this only pushes to visible tencards on page if it is unique
       }
+
+      //NOTE TO FUTURE SELF: this causes infinite loop with DLC mode due to smaller (14) data size
     }
 
     // Step 2: Fetch Tatoeba API data for each card
@@ -86,10 +114,10 @@ function TenCards({ mode, setView }) {
         }
       })
     ).then((updatedCards) => {
-      //saveToCache(updatedCards); // Cache the fetched cards - rather, check if existing then add card ~IDs~
+      //saveToCache(updatedCards); // Previously used to unlock upon viewing - now called upon victory
       setTenCards(updatedCards); // The tenCards to be shown on the page.
     });
-  }, [tenCards]); // added tenCards as dependancy to trigger re-render when re-rolling same mode upon endgame
+  }, []); // added tenCards as dependancy to trigger re-render when re-rolling same mode upon endgame
 
   //////////////////////////////////////////////////////////////////////////
   const pregameCleanup = () => {
@@ -103,11 +131,11 @@ function TenCards({ mode, setView }) {
     setModal(true);
   };
   /////////Not Used///////////////////////////////////////////////////
-  const reshuffleCards = () => {
-    console.log("Cards shuffled");
-    const shuffledCards = [...tenCards].sort(() => Math.random() - 0.5); // Simple shuffle
-    setTenCards(shuffledCards); // Update state to trigger re-render
-  };
+  // const reshuffleCards = () => {
+  //   console.log("Cards shuffled");
+  //   const shuffledCards = [...tenCards].sort(() => Math.random() - 0.5); // Simple shuffle
+  //   setTenCards(shuffledCards); // Update state to trigger re-render
+  // };
   ///////////////////////////////////////////////////////////////////////////
   const shuffleArray = (array) => {
     return array.sort(() => Math.random() - 0.5);
@@ -131,6 +159,7 @@ function TenCards({ mode, setView }) {
         
         const unlockCount = saveToCache(tenCards);
         setUnlockedCount(unlockCount);
+        saveClocked(mode)
 
         endgameFunction("win");
       }
@@ -143,7 +172,6 @@ function TenCards({ mode, setView }) {
   //////////////////////////////////////////////////////////////////////////
 
   return (
-    //conditional rendering - shows 'loading' if tencards is empty
     <div className="TenCardsParent">
       <div className="TenCardsInfo">
         <button

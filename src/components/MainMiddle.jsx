@@ -17,7 +17,6 @@ function MainMiddle() {
         return <Splash setView={setView} setMode={setMode} />;
       case "TenCards":
         return <TenCards mode={mode} setView={setView} />;
-      //remember: clear tencards when mode changes - a 'later' problem
 
       case "AnotherView":
         return <AnotherView setView={setView} />;

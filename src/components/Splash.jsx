@@ -4,6 +4,19 @@ function Splash({ setView, setMode }) {
 
   //localStorage.clear();
 
+    // Function to read the clocked states
+    const getClockedModes = () => {
+      // Check if clocked data exists in localStorage
+      if (localStorage.getItem("clocked")) {
+        const cached = JSON.parse(localStorage.getItem("clocked")); // Parse existing data
+        return cached; // Return the cached object
+      }
+      return { 100: false, 400: false }; // Return default if not set
+    }
+
+    const clockedModes = getClockedModes();
+    
+
   return (
     <div className="Splash">
       <h2>ようこそ！🙇</h2>
@@ -43,6 +56,8 @@ function Splash({ setView, setMode }) {
           }}
         >
           Top 100 Cards
+          <div className={`icon ${clockedModes[100] ? 'passed' : 'not-passed'}`}>
+          🈴</div>
         </button>
         <button
           className="Hoverstyles"
@@ -52,7 +67,25 @@ function Splash({ setView, setMode }) {
           }}
         >
           Top {totalEntries} Cards
+          <div className={`icon ${clockedModes[400] ? 'passed' : 'not-passed'}`}>
+          🈴</div>
         </button>
+        {/* {clockedModes[100] && clockedModes[400] ? (
+          <button
+            className="Hoverstyles"
+            onClick={() => {
+              setMode("dlc");
+              setView("TenCards");
+            }}
+          >
+            Wild Words DLC
+          </button>
+        ) : (
+          <button className="Disabled">Wild Words DLC</button>
+        )} */
+        //-----Note: disabled due to inifite loop (owing to small DLC size)
+        }
+      
         {localStorage.getItem("cachedCards") === null ? (
           <button className="Disabled">Card Gallery</button>
         ) : (

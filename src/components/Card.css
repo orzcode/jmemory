@@ -80,7 +80,7 @@ h3 {
 }
 
 .CardMeaningsDiv {
-	font-size: clamp(1.6rem, 4vw, 2.2rem);
+	font-size: clamp(1.7rem, 4vw, 2.2rem);
 	width: 100%;
 	ul {
 		list-style-position: outside;
@@ -98,7 +98,7 @@ hr {
 }
 
 .CardExampleDiv {
-	font-size: clamp(1.6rem, 2vw, 2rem);
+	font-size: clamp(1.7rem, 2vw, 2rem);
 	padding-top: 10px;
 	color: rgba(0, 0, 0, 0.8);
 }
