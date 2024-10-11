@@ -172,7 +172,8 @@ button {
   height: 2rem;
 }
 .not-passed {
-  display: none;
+  opacity: 0.98;
+  filter: grayscale(0.8) brightness(0.8) contrast(0.4);
 }
 /* ----------------------------------------- */
 .TenCardsParent {
