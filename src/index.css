@@ -165,11 +165,9 @@ button {
 .passed {
   display: auto;
   position: absolute;
-  right: 0%;
-  top: 0%;
+  right: -5%;
+  top: -25%;
   transform: rotateZ(-15deg);
-  width: 2rem;
-  height: 2rem;
 }
 .not-passed {
   opacity: 0.98;
