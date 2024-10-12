@@ -4,85 +4,183 @@
       "id": "dlc1",
       "kanji": "お前",
       "readings": "おまえ",
-      "meanings": ["you (derog.)"]
+      "meanings": ["you (derog.)"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc2",
       "kanji": "あらあら",
       "readings": "あらあら",
-      "meanings": ["oh my", "my my"]
+      "meanings": ["oh my", "my my"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc3",
       "kanji": "野郎",
       "readings": "やろう",
-      "meanings": ["bastard", "guy (derog.)"]
+      "meanings": ["bastard", "guy (derog.)"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc4",
       "kanji": "変態",
       "readings": "へんたい",
-      "meanings": ["pervert"]
+      "meanings": ["pervert"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc5",
       "kanji": "糞",
       "readings": "くそ",
-      "meanings": ["shit"]
+      "meanings": ["shit"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc6",
       "kanji": "畜生",
       "readings": "ちくしょう",
-      "meanings": ["motherfucker", "son of a bitch"]
+      "meanings": ["motherfucker", "son of a bitch"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc7",
       "kanji": "過労死",
       "readings": "かろうし",
-      "meanings": ["death from overwork"]
+      "meanings": ["death from overwork"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc8",
       "kanji": "猫舌",
       "readings": "ねこじた",
-      "meanings": ["cat's tongue", "sensitive tongue"]
+      "meanings": ["cat's tongue", "sensitive tongue"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc9",
       "kanji": "金玉",
       "readings": "きんたま",
-      "meanings": ["golden balls"]
+      "meanings": ["golden balls"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc10",
       "kanji": "天下り",
       "readings": "あまくだり",
-      "meanings": ["golden parachute"]
+      "meanings": ["golden parachute"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc11",
       "kanji": "神風",
       "readings": "かみかぜ",
-      "meanings": ["kamikaze", "divine wind"]
+      "meanings": ["kamikaze", "divine wind"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc12",
       "kanji": "ヤバい",
       "readings": "やばい",
-      "meanings": ["wild", "extreme"]
+      "meanings": ["wild", "extreme"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc13",
       "kanji": "下手くそ",
       "readings": "へたくそ",
-      "meanings": ["terrible at"]
+      "meanings": ["terrible at"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     },
     {
       "id": "dlc14",
       "kanji": "酔っ払い",
       "readings": "よっぱらい",
-      "meanings": ["drunk", "drunkard"]
+      "meanings": ["drunk", "drunkard"],
+      "tatoeba": [
+        {
+            "sentence": "外国人だ。",
+            "translation": "I'm a foreigner.",
+            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+        }
+      ]
     }
   ]
 }

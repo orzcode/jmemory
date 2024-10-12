@@ -4,6 +4,7 @@ function Splash({ setView, setMode }) {
 
   //localStorage.clear();
 
+
     // Function to read the clocked states
     const getClockedModes = () => {
       // Check if clocked data exists in localStorage

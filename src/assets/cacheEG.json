@@ -1,0 +1,1801 @@
+[
+    {
+        "id": 36,
+        "kanji": "海外",
+        "readings": "かいがい",
+        "meanings": [
+            "foreign",
+            "abroad"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "海外に行きたい。",
+                "translation": "I want to go abroad.",
+                "transcriptionHTML": "<ruby>海<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたい。"
+            },
+            {
+                "sentence": "海外へ行きます。",
+                "translation": "I'm going abroad.",
+                "transcriptionHTML": "<ruby>海<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きます。"
+            },
+            {
+                "sentence": "父は海外旅行中です。",
+                "translation": "My father is now traveling abroad.",
+                "transcriptionHTML": "<ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>は<ruby>海<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>旅<rp>（</rp><rt>りょ</rt><rp>）</rp></ruby><ruby>行<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "彼は毎年海外へ行く。",
+                "translation": "He goes abroad every year.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>毎<rp>（</rp><rt>まい</rt><rp>）</rp></ruby><ruby>年<rp>（</rp><rt>とし</rt><rp>）</rp></ruby><ruby>海<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>く。"
+            },
+            {
+                "sentence": "彼は海外へ留学した。",
+                "translation": "He studied abroad.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>海<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby>へ<ruby>留<rp>（</rp><rt>りゅう</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "海外旅行なんて無理よ。",
+                "translation": "Traveling abroad is out of the question.",
+                "transcriptionHTML": "<ruby>海<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>旅<rp>（</rp><rt>りょ</rt><rp>）</rp></ruby><ruby>行<rp>（</rp><rt>こう</rt><rp>）</rp></ruby>なんて<ruby>無<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>理<rp>（</rp><rt>り</rt><rp>）</rp></ruby>よ。"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "kanji": "映画",
+        "readings": "えいが",
+        "meanings": [
+            "movie",
+            "film"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "映画に行くの？",
+                "translation": "You're going to a movie?",
+                "transcriptionHTML": "<ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>が</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>くの？"
+            },
+            {
+                "sentence": "あの映画、最低！",
+                "translation": "That movie stinks!",
+                "transcriptionHTML": "あの<ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>が</rt><rp>）</rp></ruby>、<ruby>最<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby>低<rp>（</rp><rt>てい</rt><rp>）</rp></ruby>！"
+            },
+            {
+                "sentence": "映画見に行かない？",
+                "translation": "Would you like to go to a movie?",
+                "transcriptionHTML": "<ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>が</rt><rp>）</rp></ruby><ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>かない？"
+            },
+            {
+                "sentence": "この映画はヒドイ！",
+                "translation": "This movie is terrible.",
+                "transcriptionHTML": "この<ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>が</rt><rp>）</rp></ruby>はヒドイ！"
+            },
+            {
+                "sentence": "この映画、最悪。",
+                "translation": "This is the worst movie I've ever seen.",
+                "transcriptionHTML": "この<ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>が</rt><rp>）</rp></ruby>、<ruby>最<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby>悪<rp>（</rp><rt>あく</rt><rp>）</rp></ruby>。"
+            },
+            {
+                "sentence": "最近何か映画見た？",
+                "translation": "Seen any movies lately?",
+                "transcriptionHTML": "<ruby>最<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby>近<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>か<ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>が</rt><rp>）</rp></ruby><ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>た？"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "kanji": "家族",
+        "readings": "かぞく",
+        "meanings": [
+            "family"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "彼は大家族だ。",
+                "translation": "He has a big family.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>族<rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "家族は大切だ。",
+                "translation": "Family is important.",
+                "transcriptionHTML": "<ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>族<rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>は<ruby>大<rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby>切<rp>（</rp><rt>せつ</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "家族は４人です。",
+                "translation": "We are a family of four.",
+                "transcriptionHTML": "<ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>族<rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>は<ruby>４<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "何人家族ですか。",
+                "translation": "How many people are there in your family?",
+                "transcriptionHTML": "<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>族<rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>ですか。"
+            },
+            {
+                "sentence": "彼は家族を捨てた。",
+                "translation": "He abandoned his family.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>族<rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>を<ruby>捨<rp>（</rp><rt>す</rt><rp>）</rp></ruby>てた。"
+            },
+            {
+                "sentence": "彼の所は大家族だ。",
+                "translation": "His family is large.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>所<rp>（</rp><rt>ところ</rt><rp>）</rp></ruby>は<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>族<rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>だ。"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "kanji": "会社",
+        "readings": "かいしゃ",
+        "meanings": [
+            "company",
+            "corporation"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "会社員です。",
+                "translation": "I am an office worker.",
+                "transcriptionHTML": "<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "明日会社でね。",
+                "translation": "See you tomorrow in the office.",
+                "transcriptionHTML": "<ruby>明日<rp>（</rp><rt>あした</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>でね。"
+            },
+            {
+                "sentence": "彼は会社員です。",
+                "translation": "He is an office worker.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "私は会社員です。",
+                "translation": "I'm an office worker.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "会社が赤字になる。",
+                "translation": "The company is in the red.",
+                "transcriptionHTML": "<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>が<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby><ruby>字<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>になる。"
+            },
+            {
+                "sentence": "あの会社は赤字だ。",
+                "translation": "The company is losing money.",
+                "transcriptionHTML": "あの<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>は<ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby><ruby>字<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>だ。"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "kanji": "金利",
+        "readings": "きんり",
+        "meanings": [
+            "interest rate",
+            "interest"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "高金利で金を借りた。",
+                "translation": "We borrowed money at high interest.",
+                "transcriptionHTML": "<ruby>高<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby>で<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby>を<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りた。"
+            },
+            {
+                "sentence": "利益は税金抜きですか。",
+                "translation": "Are the profits exclusive of taxes?",
+                "transcriptionHTML": "<ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby><ruby>益<rp>（</rp><rt>えき</rt><rp>）</rp></ruby>は<ruby>税<rp>（</rp><rt>ぜい</rt><rp>）</rp></ruby><ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>抜<rp>（</rp><rt>ぬ</rt><rp>）</rp></ruby>きですか。"
+            },
+            {
+                "sentence": "私達は５％の金利で借りた。",
+                "translation": "We borrowed at 5% interest.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby><ruby>達<rp>（</rp><rt>たち</rt><rp>）</rp></ruby>は<ruby>５<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>％<rp>（</rp><rt>ぱーせんと</rt><rp>）</rp></ruby>の<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby>で<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りた。"
+            },
+            {
+                "sentence": "ローンの金利は現在高い。",
+                "translation": "Interest on loans is high at present.",
+                "transcriptionHTML": "ローンの<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby>は<ruby>現<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>在<rp>（</rp><rt>ざい</rt><rp>）</rp></ruby><ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い。"
+            },
+            {
+                "sentence": "彼は高利でお金を貸している。",
+                "translation": "He lends money at a high rate of interest.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>高<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby>でお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>貸<rp>（</rp><rt>か</rt><rp>）</rp></ruby>している。"
+            },
+            {
+                "sentence": "私たちは高金利で金を借りた。",
+                "translation": "We borrowed money at high interest.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちは<ruby>高<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby>で<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby>を<ruby>借<rp>（</rp><rt>か</rt><rp>）</rp></ruby>りた。"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "kanji": "客",
+        "readings": "きゃく",
+        "meanings": [
+            "guest",
+            "visitor"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "お客様は？",
+                "translation": "What will you be having?",
+                "transcriptionHTML": "お<ruby>客<rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby><ruby>様<rp>（</rp><rt>さま</rt><rp>）</rp></ruby>は？"
+            },
+            {
+                "sentence": "トムは客だ。",
+                "translation": "Tom is a guest.",
+                "transcriptionHTML": "トムは<ruby>客<rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "客はみな帰った。",
+                "translation": "The guests are all gone.",
+                "transcriptionHTML": "<ruby>客<rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby>はみな<ruby>帰<rp>（</rp><rt>かえ</rt><rp>）</rp></ruby>った。"
+            },
+            {
+                "sentence": "私も観光客です。",
+                "translation": "I'm a tourist, too!",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>も<ruby>観<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>光<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>客<rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "乗客は何人ですか。",
+                "translation": "How many people are on board?",
+                "transcriptionHTML": "<ruby>乗<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>客<rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>ですか。"
+            },
+            {
+                "sentence": "客の足が遠のいた。",
+                "translation": "Customers stopped coming to our shop.",
+                "transcriptionHTML": "<ruby>客<rp>（</rp><rt>きゃく</rt><rp>）</rp></ruby>の<ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>が<ruby>遠<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>のいた。"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "kanji": "結果",
+        "readings": "けっか",
+        "meanings": [
+            "result",
+            "consequence"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "結果は気にするな。",
+                "translation": "Don't worry about the results.",
+                "transcriptionHTML": "<ruby>結<rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby>果<rp>（</rp><rt>か</rt><rp>）</rp></ruby>は<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>にするな。"
+            },
+            {
+                "sentence": "結果だけが重要だ。",
+                "translation": "The result is all that matters.",
+                "transcriptionHTML": "<ruby>結<rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby>果<rp>（</rp><rt>か</rt><rp>）</rp></ruby>だけが<ruby>重<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby>要<rp>（</rp><rt>よう</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "結果だけが必要だ。",
+                "translation": "The result is all that matters.",
+                "transcriptionHTML": "<ruby>結<rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby>果<rp>（</rp><rt>か</rt><rp>）</rp></ruby>だけが<ruby>必<rp>（</rp><rt>ひつ</rt><rp>）</rp></ruby><ruby>要<rp>（</rp><rt>よう</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "良い結果が予想される。",
+                "translation": "We expect good results.",
+                "transcriptionHTML": "<ruby>良<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>い<ruby>結<rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby>果<rp>（</rp><rt>か</rt><rp>）</rp></ruby>が<ruby>予<rp>（</rp><rt>よ</rt><rp>）</rp></ruby><ruby>想<rp>（</rp><rt>そう</rt><rp>）</rp></ruby>される。"
+            },
+            {
+                "sentence": "落馬の結果足を折った。",
+                "translation": "The fall from the horse resulted in a broken leg.",
+                "transcriptionHTML": "<ruby>落<rp>（</rp><rt>らく</rt><rp>）</rp></ruby><ruby>馬<rp>（</rp><rt>ば</rt><rp>）</rp></ruby>の<ruby>結<rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby>果<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>足<rp>（</rp><rt>あし</rt><rp>）</rp></ruby>を<ruby>折<rp>（</rp><rt>お</rt><rp>）</rp></ruby>った。"
+            },
+            {
+                "sentence": "彼女は結果に満足した。",
+                "translation": "She was satisfied with the result.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かの</rt><rp>）</rp></ruby><ruby>女<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>は<ruby>結<rp>（</rp><rt>けっ</rt><rp>）</rp></ruby><ruby>果<rp>（</rp><rt>か</rt><rp>）</rp></ruby>に<ruby>満<rp>（</rp><rt>まん</rt><rp>）</rp></ruby><ruby>足<rp>（</rp><rt>ぞく</rt><rp>）</rp></ruby>した。"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "kanji": "安全",
+        "readings": "あんぜん",
+        "meanings": [
+            "safety",
+            "security"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "安全な旅を。",
+                "translation": "Bon voyage!",
+                "transcriptionHTML": "<ruby>安<rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby>な<ruby>旅<rp>（</rp><rt>たび</rt><rp>）</rp></ruby>を。"
+            },
+            {
+                "sentence": "安全運転してね。",
+                "translation": "Drive safely.",
+                "transcriptionHTML": "<ruby>安<rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby>運<rp>（</rp><rt>うん</rt><rp>）</rp></ruby><ruby>転<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>してね。"
+            },
+            {
+                "sentence": "原子力は安全だ。",
+                "translation": "Nuclear power is safe.",
+                "transcriptionHTML": "<ruby>原<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>子<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>力<rp>（</rp><rt>りょく</rt><rp>）</rp></ruby>は<ruby>安<rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "安全運転しなさい。",
+                "translation": "Drive safely.",
+                "transcriptionHTML": "<ruby>安<rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby>運<rp>（</rp><rt>うん</rt><rp>）</rp></ruby><ruby>転<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>しなさい。"
+            },
+            {
+                "sentence": "安全なんて幻想だ。",
+                "translation": "Safety is an illusion.",
+                "transcriptionHTML": "<ruby>安<rp>（</rp><rt>あん</rt><rp>）</rp></ruby><ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby>なんて<ruby>幻<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>想<rp>（</rp><rt>そう</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "市場は全面安ですね。",
+                "translation": "The market prices have fallen across the board.",
+                "transcriptionHTML": "<ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>場<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>は<ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby>面<rp>（</rp><rt>めん</rt><rp>）</rp></ruby><ruby>安<rp>（</rp><rt>やす</rt><rp>）</rp></ruby>ですね。"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "kanji": "回復",
+        "readings": "かいふく",
+        "meanings": [
+            "restoration",
+            "recovery"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "天気が回復した。",
+                "translation": "The weather has improved.",
+                "transcriptionHTML": "<ruby>天<rp>（</rp><rt>てん</rt><rp>）</rp></ruby><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>が<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>復<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "トムは回復した。",
+                "translation": "Tom recovered.",
+                "transcriptionHTML": "トムは<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>復<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "彼は回復しますか。",
+                "translation": "Will he recover?",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>復<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>しますか。"
+            },
+            {
+                "sentence": "父は健康を回復した。",
+                "translation": "Father recovered his health.",
+                "transcriptionHTML": "<ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>は<ruby>健<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>康<rp>（</rp><rt>こう</rt><rp>）</rp></ruby>を<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>復<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "彼は健康が回復した。",
+                "translation": "He got well again.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>健<rp>（</rp><rt>けん</rt><rp>）</rp></ruby><ruby>康<rp>（</rp><rt>こう</rt><rp>）</rp></ruby>が<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>復<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "父は病気から回復した。",
+                "translation": "My father got well again.",
+                "transcriptionHTML": "<ruby>父<rp>（</rp><rt>ちち</rt><rp>）</rp></ruby>は<ruby>病<rp>（</rp><rt>びょう</rt><rp>）</rp></ruby><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>から<ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>復<rp>（</rp><rt>ふく</rt><rp>）</rp></ruby>した。"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "kanji": "環境",
+        "readings": "かんきょう",
+        "meanings": [
+            "environment",
+            "surroundings"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "彼は環境に順応した。",
+                "translation": "He adapted to his environment.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>環<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>境<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>に<ruby>順<rp>（</rp><rt>じゅん</rt><rp>）</rp></ruby><ruby>応<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "人は環境の産物である。",
+                "translation": "Man is a product of his environment.",
+                "transcriptionHTML": "<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>は<ruby>環<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>境<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>の<ruby>産<rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby>物<rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>である。"
+            },
+            {
+                "sentence": "両手に花でいい環境じゃん！",
+                "translation": "It's nice to have a pretty girl on each arm.",
+                "transcriptionHTML": "<ruby>両<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>に<ruby>花<rp>（</rp><rt>はな</rt><rp>）</rp></ruby>でいい<ruby>環<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>境<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>じゃん！"
+            },
+            {
+                "sentence": "彼は環境に順応できない。",
+                "translation": "He can't accommodate himself to his circumstances.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>環<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>境<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>に<ruby>順<rp>（</rp><rt>じゅん</rt><rp>）</rp></ruby><ruby>応<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>できない。"
+            },
+            {
+                "sentence": "彼が環境担当の大臣です。",
+                "translation": "He is the minister responsible for the environment.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>が<ruby>環<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>境<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>担<rp>（</rp><rt>たん</rt><rp>）</rp></ruby><ruby>当<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>の<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>臣<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "人間は環境の動物である。",
+                "translation": "Man is a creature of circumstances.",
+                "transcriptionHTML": "<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby>間<rp>（</rp><rt>げん</rt><rp>）</rp></ruby>は<ruby>環<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>境<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>の<ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>物<rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>である。"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "kanji": "意味",
+        "readings": "いみ",
+        "meanings": [
+            "meaning",
+            "significance"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "どういう意味？",
+                "translation": "What do you mean?",
+                "transcriptionHTML": "どういう<ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>味<rp>（</rp><rt>み</rt><rp>）</rp></ruby>？"
+            },
+            {
+                "sentence": "それどういう意味？",
+                "translation": "What does it mean?",
+                "transcriptionHTML": "それどういう<ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>味<rp>（</rp><rt>み</rt><rp>）</rp></ruby>？"
+            },
+            {
+                "sentence": "これどういう意味？",
+                "translation": "What does it mean?",
+                "transcriptionHTML": "これどういう<ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>味<rp>（</rp><rt>み</rt><rp>）</rp></ruby>？"
+            },
+            {
+                "sentence": "意味がわかります。",
+                "translation": "I'm catching on.",
+                "transcriptionHTML": "<ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>味<rp>（</rp><rt>み</rt><rp>）</rp></ruby>がわかります。"
+            },
+            {
+                "sentence": "どういう意味ですか？",
+                "translation": "What do you mean?",
+                "transcriptionHTML": "どういう<ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>味<rp>（</rp><rt>み</rt><rp>）</rp></ruby>ですか？"
+            },
+            {
+                "sentence": "それ、どういう意味？",
+                "translation": "What does it mean?",
+                "transcriptionHTML": "それ、どういう<ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>味<rp>（</rp><rt>み</rt><rp>）</rp></ruby>？"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "kanji": "会談",
+        "readings": "かいだん",
+        "meanings": [
+            "talks (formal)",
+            "conference"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "会談は２日間続いた。",
+                "translation": "The talks continued for two days.",
+                "transcriptionHTML": "<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>談<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>は<ruby>２<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby><ruby>間<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>いた。"
+            },
+            {
+                "sentence": "平和会談は今週始まる。",
+                "translation": "The peace talks begin this week.",
+                "transcriptionHTML": "<ruby>平<rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby>和<rp>（</rp><rt>わ</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>談<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>は<ruby>今<rp>（</rp><rt>こん</rt><rp>）</rp></ruby><ruby>週<rp>（</rp><rt>しゅう</rt><rp>）</rp></ruby><ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>まる。"
+            },
+            {
+                "sentence": "和平会談は再度失敗した。",
+                "translation": "The peace talks failed again.",
+                "transcriptionHTML": "<ruby>和<rp>（</rp><rt>わ</rt><rp>）</rp></ruby><ruby>平<rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>談<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>は<ruby>再<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby>度<rp>（</rp><rt>ど</rt><rp>）</rp></ruby><ruby>失<rp>（</rp><rt>しっ</rt><rp>）</rp></ruby><ruby>敗<rp>（</rp><rt>ぱい</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "和平会談はしばらく延期された。",
+                "translation": "The peace talks have been suspended for a while.",
+                "transcriptionHTML": "<ruby>和<rp>（</rp><rt>わ</rt><rp>）</rp></ruby><ruby>平<rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>談<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>はしばらく<ruby>延<rp>（</rp><rt>えん</rt><rp>）</rp></ruby><ruby>期<rp>（</rp><rt>き</rt><rp>）</rp></ruby>された。"
+            },
+            {
+                "sentence": "首脳会談は世界平和に貢献した。",
+                "translation": "The summit conference contributed to world peace.",
+                "transcriptionHTML": "<ruby>首<rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby>脳<rp>（</rp><rt>のう</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>談<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>は<ruby>世<rp>（</rp><rt>せ</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>平<rp>（</rp><rt>へい</rt><rp>）</rp></ruby><ruby>和<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>に<ruby>貢<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>献<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "彼らは遅くまで首脳会談を続けた。",
+                "translation": "They carried on the summit conference till late.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>らは<ruby>遅<rp>（</rp><rt>おそ</rt><rp>）</rp></ruby>くまで<ruby>首<rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby>脳<rp>（</rp><rt>のう</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>談<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>を<ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>けた。"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "kanji": "課題",
+        "readings": "かだい",
+        "meanings": [
+            "subject",
+            "theme"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "明日の課題は何ですか。",
+                "translation": "What's the assignment for tomorrow?",
+                "transcriptionHTML": "<ruby>明日<rp>（</rp><rt>あした</rt><rp>）</rp></ruby>の<ruby>課<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>は<ruby>何<rp>（</rp><rt>なに</rt><rp>）</rp></ruby>ですか。"
+            },
+            {
+                "sentence": "私はついに課題を終わらせた。",
+                "translation": "Finally I finished my task.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はついに<ruby>課<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>を<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>わらせた。"
+            },
+            {
+                "sentence": "私はとうとうこの課題を終えた。",
+                "translation": "At last, I finished this homework.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>はとうとうこの<ruby>課<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>を<ruby>終<rp>（</rp><rt>お</rt><rp>）</rp></ruby>えた。"
+            },
+            {
+                "sentence": "課題を変えてみたらどうだろう。",
+                "translation": "Suppose we change the subject.",
+                "transcriptionHTML": "<ruby>課<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>を<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>えてみたらどうだろう。"
+            },
+            {
+                "sentence": "課税問題で意見が分かれている。",
+                "translation": "Opinions are divided on the issue of taxes.",
+                "transcriptionHTML": "<ruby>課<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>税<rp>（</rp><rt>ぜい</rt><rp>）</rp></ruby><ruby>問<rp>（</rp><rt>もん</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>で<ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>見<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>が<ruby>分<rp>（</rp><rt>わ</rt><rp>）</rp></ruby>かれている。"
+            },
+            {
+                "sentence": "多く学生が課題を出しそこなった。",
+                "translation": "Quite a few students failed to hand in their assignments.",
+                "transcriptionHTML": "<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>く<ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby>生<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>が<ruby>課<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>を<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>しそこなった。"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "kanji": "警察",
+        "readings": "けいさつ",
+        "meanings": [
+            "police",
+            "police officer"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "警察を呼んで！",
+                "translation": "Call my mum!",
+                "transcriptionHTML": "<ruby>警<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>察<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>を<ruby>呼<rp>（</rp><rt>よ</rt><rp>）</rp></ruby>んで！"
+            },
+            {
+                "sentence": "警察が来てる。",
+                "translation": "The police is coming!",
+                "transcriptionHTML": "<ruby>警<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>察<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>が<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>てる。"
+            },
+            {
+                "sentence": "彼は警察署長です。",
+                "translation": "He is the chief of a police station.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>警<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>察<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby><ruby>署<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby><ruby>長<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "警察はどこですか。",
+                "translation": "Where is the police station?",
+                "transcriptionHTML": "<ruby>警<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>察<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>はどこですか。"
+            },
+            {
+                "sentence": "警察は来るんですか？",
+                "translation": "Will the police come?",
+                "transcriptionHTML": "<ruby>警<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>察<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>は<ruby>来<rp>（</rp><rt>く</rt><rp>）</rp></ruby>るんですか？"
+            },
+            {
+                "sentence": "警察に通報するな。",
+                "translation": "Don't call the cops.",
+                "transcriptionHTML": "<ruby>警<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>察<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby>に<ruby>通<rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby>報<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>するな。"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "kanji": "機能",
+        "readings": "きのう",
+        "meanings": [
+            "function",
+            "facility"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "通信手段が機能しなくなった。",
+                "translation": "Communications broke down.",
+                "transcriptionHTML": "<ruby>通<rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby>信<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>手<rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby>段<rp>（</rp><rt>だん</rt><rp>）</rp></ruby>が<ruby>機<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>しなくなった。"
+            },
+            {
+                "sentence": "泳者の呼吸機能の特性について。",
+                "translation": "Concerning the characteristics of respiratory function in swimmers.",
+                "transcriptionHTML": "<ruby>泳<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>の<ruby>呼<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby>吸<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby>機<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>の<ruby>特<rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby>性<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>について。"
+            },
+            {
+                "sentence": "国連は一つの国際的機能である。",
+                "translation": "The United Nations is an international organization.",
+                "transcriptionHTML": "<ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>連<rp>（</rp><rt>れん</rt><rp>）</rp></ruby>は<ruby>一<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>つの<ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>際<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby>的<rp>（</rp><rt>てき</rt><rp>）</rp></ruby><ruby>機<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>である。"
+            },
+            {
+                "sentence": "その機能は働かなくなるだろう。",
+                "translation": "Its mechanism will cease to work.",
+                "transcriptionHTML": "その<ruby>機<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>は<ruby>働<rp>（</rp><rt>はたら</rt><rp>）</rp></ruby>かなくなるだろう。"
+            },
+            {
+                "sentence": "このビデオは正しく機能しない。",
+                "translation": "This video recorder doesn't work right.",
+                "transcriptionHTML": "このビデオは<ruby>正<rp>（</rp><rt>まさ</rt><rp>）</rp></ruby>しく<ruby>機<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>しない。"
+            },
+            {
+                "sentence": "ゼネストで国中の機能が麻痺した。",
+                "translation": "The general strike paralyzed the whole country.",
+                "transcriptionHTML": "ゼネストで<ruby>国<rp>（</rp><rt>くに</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby>の<ruby>機<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>能<rp>（</rp><rt>のう</rt><rp>）</rp></ruby>が<ruby>麻<rp>（</rp><rt>ま</rt><rp>）</rp></ruby><ruby>痺<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>した。"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "kanji": "違反",
+        "readings": "いはん",
+        "meanings": [
+            "violation",
+            "offense"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "それは法律違反です。",
+                "translation": "That's against the law.",
+                "transcriptionHTML": "それは<ruby>法<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby>律<rp>（</rp><rt>りつ</rt><rp>）</rp></ruby><ruby>違<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>反<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "駐車違反の罰金は高い。",
+                "translation": "Parking fines are very costly.",
+                "transcriptionHTML": "<ruby>駐<rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby><ruby>車<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>違<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>反<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>の<ruby>罰<rp>（</rp><rt>ばっ</rt><rp>）</rp></ruby><ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby>は<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>い。"
+            },
+            {
+                "sentence": "それはルール違反です。",
+                "translation": "It's against the rules.",
+                "transcriptionHTML": "それはルール<ruby>違<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>反<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "交通違反切符を切られた。",
+                "translation": "I got a traffic ticket.",
+                "transcriptionHTML": "<ruby>交<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>通<rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby>違<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>反<rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby>切<rp>（</rp><rt>きっ</rt><rp>）</rp></ruby><ruby>符<rp>（</rp><rt>ぷ</rt><rp>）</rp></ruby>を<ruby>切<rp>（</rp><rt>き</rt><rp>）</rp></ruby>られた。"
+            },
+            {
+                "sentence": "規則に違反してはいけない。",
+                "translation": "You must not violate the regulations.",
+                "transcriptionHTML": "<ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>則<rp>（</rp><rt>そく</rt><rp>）</rp></ruby>に<ruby>違<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>反<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>してはいけない。"
+            },
+            {
+                "sentence": "そういう行為は法律違反だ。",
+                "translation": "Such a deed is an offense against the law.",
+                "transcriptionHTML": "そういう<ruby>行<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>為<rp>（</rp><rt>い</rt><rp>）</rp></ruby>は<ruby>法<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby>律<rp>（</rp><rt>りつ</rt><rp>）</rp></ruby><ruby>違<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>反<rp>（</rp><rt>はん</rt><rp>）</rp></ruby>だ。"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "kanji": "会議",
+        "readings": "かいぎ",
+        "meanings": [
+            "meeting",
+            "conference"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "会議は１０日後。",
+                "translation": "The meeting is ten days away.",
+                "transcriptionHTML": "<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>は<ruby>１<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>０<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby><ruby>後<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>。"
+            },
+            {
+                "sentence": "議会は解散した。",
+                "translation": "Parliament has been dissolved.",
+                "transcriptionHTML": "<ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>解<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>散<rp>（</rp><rt>さん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "会議に出席する。",
+                "translation": "Attend the meeting.",
+                "transcriptionHTML": "<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>しゅっ</rt><rp>）</rp></ruby><ruby>席<rp>（</rp><rt>せき</rt><rp>）</rp></ruby>する。"
+            },
+            {
+                "sentence": "午後の会議、出る？",
+                "translation": "Are you going to be at this afternoon's meeting?",
+                "transcriptionHTML": "<ruby>午<rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby>後<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>の<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>、<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る？"
+            },
+            {
+                "sentence": "彼は今会議中です。",
+                "translation": "He is in conference now.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "休会を動議します。",
+                "translation": "I move that the meeting adjourn.",
+                "transcriptionHTML": "<ruby>休<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>します。"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "kanji": "関心",
+        "readings": "かんしん",
+        "meanings": [
+            "concern",
+            "interest"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "政治に関心があるの?",
+                "translation": "Are you interested in politics?",
+                "transcriptionHTML": "<ruby>政<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>治<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に<ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>心<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>があるの?"
+            },
+            {
+                "sentence": "彼らは政治に無関心だ。",
+                "translation": "They are indifferent to politics.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>らは<ruby>政<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>治<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に<ruby>無<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>心<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "私は歴史に関心がある。",
+                "translation": "I'm interested in history.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>歴<rp>（</rp><rt>れき</rt><rp>）</rp></ruby><ruby>史<rp>（</rp><rt>し</rt><rp>）</rp></ruby>に<ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>心<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>がある。"
+            },
+            {
+                "sentence": "私は政治に関心がない。",
+                "translation": "I'm not concerned with politics.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>政<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>治<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に<ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>心<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>がない。"
+            },
+            {
+                "sentence": "彼は政治に関心が無い。",
+                "translation": "Politics leaves him cold.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>政<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>治<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>に<ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>心<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>が<ruby>無<rp>（</rp><rt>な</rt><rp>）</rp></ruby>い。"
+            },
+            {
+                "sentence": "彼女は無関心を装った。",
+                "translation": "She assumed an air of indifference.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かの</rt><rp>）</rp></ruby><ruby>女<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>は<ruby>無<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>心<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>を<ruby>装<rp>（</rp><rt>よそお</rt><rp>）</rp></ruby>った。"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "kanji": "改正",
+        "readings": "かいせい",
+        "meanings": [
+            "revision",
+            "amendment"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "法律が改正された。",
+                "translation": "The law was changed.",
+                "transcriptionHTML": "<ruby>法<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby>律<rp>（</rp><rt>りつ</rt><rp>）</rp></ruby>が<ruby>改<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>正<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>された。"
+            },
+            {
+                "sentence": "時刻表が改正された。",
+                "translation": "The timetable has been revised.",
+                "transcriptionHTML": "<ruby>時<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>刻<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>表<rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby>が<ruby>改<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>正<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>された。"
+            },
+            {
+                "sentence": "この法律は改正すべきだ。",
+                "translation": "We should reform this law.",
+                "transcriptionHTML": "この<ruby>法<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby>律<rp>（</rp><rt>りつ</rt><rp>）</rp></ruby>は<ruby>改<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>正<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>すべきだ。"
+            },
+            {
+                "sentence": "彼は規則の改正を唱えている。",
+                "translation": "He advocates a revision of the rules.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>則<rp>（</rp><rt>そく</rt><rp>）</rp></ruby>の<ruby>改<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>正<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>を<ruby>唱<rp>（</rp><rt>とな</rt><rp>）</rp></ruby>えている。"
+            },
+            {
+                "sentence": "その法律は改正されるべきだ。",
+                "translation": "The law needs to be amended.",
+                "transcriptionHTML": "その<ruby>法<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby>律<rp>（</rp><rt>りつ</rt><rp>）</rp></ruby>は<ruby>改<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>正<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>されるべきだ。"
+            },
+            {
+                "sentence": "彼らは税法の改正を支持している。",
+                "translation": "They are in favor of the reform of the tax laws.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>らは<ruby>税<rp>（</rp><rt>ぜい</rt><rp>）</rp></ruby><ruby>法<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby>の<ruby>改<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>正<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>を<ruby>支<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>している。"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "kanji": "協議",
+        "readings": "きょうぎ",
+        "meanings": [
+            "conference",
+            "consultation"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "私たちはその問題を彼らと協議した。",
+                "translation": "We consulted them about the problem.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>たちはその<ruby>問<rp>（</rp><rt>もん</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>を<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>らと<ruby>協<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "この計画については現在協議中です。",
+                "translation": "This plan is currently under consideration.",
+                "transcriptionHTML": "この<ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>については<ruby>現<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>在<rp>（</rp><rt>ざい</rt><rp>）</rp></ruby><ruby>協<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "彼女は彼と議論するといつも妥協する。",
+                "translation": "She is always ready to meet him halfway when she has an argument with him.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かの</rt><rp>）</rp></ruby><ruby>女<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>は<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>と<ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>論<rp>（</rp><rt>ろん</rt><rp>）</rp></ruby>するといつも<ruby>妥<rp>（</rp><rt>だ</rt><rp>）</rp></ruby><ruby>協<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>する。"
+            },
+            {
+                "sentence": "役員評議会が組織されて新提案を協議した。",
+                "translation": "An executive council was formed to discuss the new proposal.",
+                "transcriptionHTML": "<ruby>役<rp>（</rp><rt>やく</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>評<rp>（</rp><rt>ひょう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>が<ruby>組<rp>（</rp><rt>そ</rt><rp>）</rp></ruby><ruby>織<rp>（</rp><rt>しき</rt><rp>）</rp></ruby>されて<ruby>新<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>提<rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby>案<rp>（</rp><rt>あん</rt><rp>）</rp></ruby>を<ruby>協<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "彼はその問題について幹部の何人かと協議した。",
+                "translation": "He consulted with some of the staff on the matter.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>はその<ruby>問<rp>（</rp><rt>もん</rt><rp>）</rp></ruby><ruby>題<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>について<ruby>幹<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>の<ruby>何<rp>（</rp><rt>なん</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>かと<ruby>協<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "貿易赤字について慎重に協議しなければならない。",
+                "translation": "We must deliberate seriously on trade deficit.",
+                "transcriptionHTML": "<ruby>貿<rp>（</rp><rt>ぼう</rt><rp>）</rp></ruby><ruby>易<rp>（</rp><rt>えき</rt><rp>）</rp></ruby><ruby>赤<rp>（</rp><rt>あか</rt><rp>）</rp></ruby><ruby>字<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>について<ruby>慎<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>重<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>に<ruby>協<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>しなければならない。"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "kanji": "教育",
+        "readings": "きょういく",
+        "meanings": [
+            "education",
+            "schooling"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "彼は教育畑で育った。",
+                "translation": "He has had a long teaching career.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>育<rp>（</rp><rt>いく</rt><rp>）</rp></ruby><ruby>畑<rp>（</rp><rt>はたけ</rt><rp>）</rp></ruby>で<ruby>育<rp>（</rp><rt>そだ</rt><rp>）</rp></ruby>った。"
+            },
+            {
+                "sentence": "彼は教育のある人だ。",
+                "translation": "He is a man of education.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>育<rp>（</rp><rt>いく</rt><rp>）</rp></ruby>のある<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "教育は家庭に始まる。",
+                "translation": "Education begins at home.",
+                "transcriptionHTML": "<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>育<rp>（</rp><rt>いく</rt><rp>）</rp></ruby>は<ruby>家<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>庭<rp>（</rp><rt>てい</rt><rp>）</rp></ruby>に<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>まる。"
+            },
+            {
+                "sentence": "彼は祖父に教育された。",
+                "translation": "He was educated by her grandfather.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>祖<rp>（</rp><rt>そ</rt><rp>）</rp></ruby><ruby>父<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>に<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>育<rp>（</rp><rt>いく</rt><rp>）</rp></ruby>された。"
+            },
+            {
+                "sentence": "彼女は祖父に教育された。",
+                "translation": "She was educated by her grandfather.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かの</rt><rp>）</rp></ruby><ruby>女<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>は<ruby>祖<rp>（</rp><rt>そ</rt><rp>）</rp></ruby><ruby>父<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>に<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>育<rp>（</rp><rt>いく</rt><rp>）</rp></ruby>された。"
+            },
+            {
+                "sentence": "彼は立派な教育を受けた。",
+                "translation": "He received a good education.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>立<rp>（</rp><rt>りっ</rt><rp>）</rp></ruby><ruby>派<rp>（</rp><rt>ぱ</rt><rp>）</rp></ruby>な<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>育<rp>（</rp><rt>いく</rt><rp>）</rp></ruby>を<ruby>受<rp>（</rp><rt>う</rt><rp>）</rp></ruby>けた。"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "kanji": "金融",
+        "readings": "きんゆう",
+        "meanings": [
+            "finance",
+            "financing"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "私は友達にお金を融通した。",
+                "translation": "I lent my friend some money.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>友<rp>（</rp><rt>とも</rt><rp>）</rp></ruby><ruby>達<rp>（</rp><rt>だち</rt><rp>）</rp></ruby>にお<ruby>金<rp>（</rp><rt>かね</rt><rp>）</rp></ruby>を<ruby>融<rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby>通<rp>（</rp><rt>ずう</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "国際金融で仕事を続けるつもりです。",
+                "translation": "I plan to pursue a career in international finance.",
+                "transcriptionHTML": "<ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>際<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>融<rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby>で<ruby>仕<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>事<rp>（</rp><rt>ごと</rt><rp>）</rp></ruby>を<ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>けるつもりです。"
+            },
+            {
+                "sentence": "金融引き締め政策が実施されている。",
+                "translation": "A fiscal tightening policy is being enacted.",
+                "transcriptionHTML": "<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>融<rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>き<ruby>締<rp>（</rp><rt>し</rt><rp>）</rp></ruby>め<ruby>政<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>策<rp>（</rp><rt>さく</rt><rp>）</rp></ruby>が<ruby>実<rp>（</rp><rt>じっ</rt><rp>）</rp></ruby><ruby>施<rp>（</rp><rt>し</rt><rp>）</rp></ruby>されている。"
+            },
+            {
+                "sentence": "彼女は金融市場の取材を担当している。",
+                "translation": "She covers Wall Street.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かの</rt><rp>）</rp></ruby><ruby>女<rp>（</rp><rt>じょ</rt><rp>）</rp></ruby>は<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>融<rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby>市<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>場<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>の<ruby>取<rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby>材<rp>（</rp><rt>ざい</rt><rp>）</rp></ruby>を<ruby>担<rp>（</rp><rt>たん</rt><rp>）</rp></ruby><ruby>当<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>している。"
+            },
+            {
+                "sentence": "金融引き締めで金利が上昇するだろう。",
+                "translation": "Interest rates will rise due to monetary tightening.",
+                "transcriptionHTML": "<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>融<rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby>引<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>き<ruby>締<rp>（</rp><rt>し</rt><rp>）</rp></ruby>めで<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby>が<ruby>上<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>昇<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>するだろう。"
+            },
+            {
+                "sentence": "製造部門は新しい金融政策に動揺しています。",
+                "translation": "The manufacturing sector is a frenzy over the new monetary policy.",
+                "transcriptionHTML": "<ruby>製<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>造<rp>（</rp><rt>ぞう</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby>門<rp>（</rp><rt>もん</rt><rp>）</rp></ruby>は<ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>金<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>融<rp>（</rp><rt>ゆう</rt><rp>）</rp></ruby><ruby>政<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>策<rp>（</rp><rt>さく</rt><rp>）</rp></ruby>に<ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>揺<rp>（</rp><rt>よう</rt><rp>）</rp></ruby>しています。"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "kanji": "医療",
+        "readings": "いりょう",
+        "meanings": [
+            "medical treatment",
+            "medical care"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "医療保険は使えますか。",
+                "translation": "Can I use my medical insurance?",
+                "transcriptionHTML": "<ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>療<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>保<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby><ruby>険<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>は<ruby>使<rp>（</rp><rt>つか</rt><rp>）</rp></ruby>えますか。"
+            },
+            {
+                "sentence": "彼は医療に一生を捧げた。",
+                "translation": "He dedicated his life to medicine.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>療<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>に<ruby>一<rp>（</rp><rt>いっ</rt><rp>）</rp></ruby><ruby>生<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby>を<ruby>捧<rp>（</rp><rt>ささ</rt><rp>）</rp></ruby>げた。"
+            },
+            {
+                "sentence": "医者は彼の癌を治療した。",
+                "translation": "The doctor cured him of his cancer.",
+                "transcriptionHTML": "<ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>は<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>癌<rp>（</rp><rt>がん</rt><rp>）</rp></ruby>を<ruby>治<rp>（</rp><rt>ち</rt><rp>）</rp></ruby><ruby>療<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "医療保険に入りたいのです。",
+                "translation": "I'd like to get medical insurance.",
+                "transcriptionHTML": "<ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>療<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>保<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby><ruby>険<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>りたいのです。"
+            },
+            {
+                "sentence": "個人医療保険に入ってますか？",
+                "translation": "Do you have a private medical insurance policy?",
+                "transcriptionHTML": "<ruby>個<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby><ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>療<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>保<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby><ruby>険<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>に<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>ってますか？"
+            },
+            {
+                "sentence": "医療保険には入っていますか。",
+                "translation": "Do you have medical insurance?",
+                "transcriptionHTML": "<ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>療<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>保<rp>（</rp><rt>ほ</rt><rp>）</rp></ruby><ruby>険<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>には<ruby>入<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>っていますか。"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "kanji": "委員会",
+        "readings": "いいんかい",
+        "meanings": [
+            "committee",
+            "commission"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "彼は委員会の委員だ。",
+                "translation": "He is a member of the committee.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "彼は委員会の委員長だ。",
+                "translation": "He's the chairman of the committee.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>長<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "委員会は予算を承認した。",
+                "translation": "The committee approved the budget.",
+                "transcriptionHTML": "<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>予<rp>（</rp><rt>よ</rt><rp>）</rp></ruby><ruby>算<rp>（</rp><rt>さん</rt><rp>）</rp></ruby>を<ruby>承<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby>認<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "委員会は予算案を承認した。",
+                "translation": "The committee approved the draft budget.",
+                "transcriptionHTML": "<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>予<rp>（</rp><rt>よ</rt><rp>）</rp></ruby><ruby>算<rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby>案<rp>（</rp><rt>あん</rt><rp>）</rp></ruby>を<ruby>承<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby>認<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "委員会は月に２回開かれる。",
+                "translation": "The committee meets twice a month.",
+                "transcriptionHTML": "<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>月<rp>（</rp><rt>つき</rt><rp>）</rp></ruby>に<ruby>２<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>回<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>開<rp>（</rp><rt>ひら</rt><rp>）</rp></ruby>かれる。"
+            },
+            {
+                "sentence": "委員会の委員は全員男性だ。",
+                "translation": "The committee members are all men.",
+                "transcriptionHTML": "<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>は<ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>男<rp>（</rp><rt>だん</rt><rp>）</rp></ruby><ruby>性<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>だ。"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "kanji": "一部",
+        "readings": "いちぶ",
+        "meanings": [
+            "one part",
+            "one portion"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "彼は野球部の一員だ。",
+                "translation": "He is a member of the baseball club.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>野<rp>（</rp><rt>や</rt><rp>）</rp></ruby><ruby>球<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>の<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "私は水泳部の一員だ。",
+                "translation": "I'm a member of the swimming club.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>水<rp>（</rp><rt>すい</rt><rp>）</rp></ruby><ruby>泳<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>の<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "彼の話の一部は本当だ。",
+                "translation": "Part of his story is true.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>話<rp>（</rp><rt>はなし</rt><rp>）</rp></ruby>の<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>は<ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><ruby>当<rp>（</rp><rt>とう</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "部屋には彼が一人だった。",
+                "translation": "He was alone in the room.",
+                "transcriptionHTML": "<ruby>部<rp>（</rp><rt>へ</rt><rp>）</rp></ruby><ruby>屋<rp>（</rp><rt>や</rt><rp>）</rp></ruby>には<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>が<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>だった。"
+            },
+            {
+                "sentence": "費用を全部一緒にしよう。",
+                "translation": "We will lump together all expenses.",
+                "transcriptionHTML": "<ruby>費<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby>用<rp>（</rp><rt>よう</rt><rp>）</rp></ruby>を<ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby>一<rp>（</rp><rt>いっ</rt><rp>）</rp></ruby><ruby>緒<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>にしよう。"
+            },
+            {
+                "sentence": "絶滅は進化の一部である。",
+                "translation": "Extinction is part of evolution.",
+                "transcriptionHTML": "<ruby>絶<rp>（</rp><rt>ぜつ</rt><rp>）</rp></ruby><ruby>滅<rp>（</rp><rt>めつ</rt><rp>）</rp></ruby>は<ruby>進<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>化<rp>（</rp><rt>か</rt><rp>）</rp></ruby>の<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>である。"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "kanji": "規模",
+        "readings": "きぼ",
+        "meanings": [
+            "scale",
+            "scope"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "どれくらいの規模の会社なの？",
+                "translation": "How big is the company?",
+                "transcriptionHTML": "どれくらいの<ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>模<rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby>の<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>社<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>なの？"
+            },
+            {
+                "sentence": "大規模な道路工事が始まった。",
+                "translation": "Large-scale road construction began.",
+                "transcriptionHTML": "<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>模<rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby>な<ruby>道<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>路<rp>（</rp><rt>ろ</rt><rp>）</rp></ruby><ruby>工<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>が<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>まった。"
+            },
+            {
+                "sentence": "僕は事業を大規模に営んでいる。",
+                "translation": "I am doing business on a large scale.",
+                "transcriptionHTML": "<ruby>僕<rp>（</rp><rt>ぼく</rt><rp>）</rp></ruby>は<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>を<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>模<rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby>に<ruby>営<rp>（</rp><rt>いとな</rt><rp>）</rp></ruby>んでいる。"
+            },
+            {
+                "sentence": "彼は事業を大規模に営んでいる。",
+                "translation": "He is doing business on a large scale.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>を<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>模<rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby>に<ruby>営<rp>（</rp><rt>いとな</rt><rp>）</rp></ruby>んでいる。"
+            },
+            {
+                "sentence": "我々のクラスは規模が大きくなった。",
+                "translation": "Our class has increased in size.",
+                "transcriptionHTML": "<ruby>我々<rp>（</rp><rt>われわれ</rt><rp>）</rp></ruby>のクラスは<ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>模<rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby>が<ruby>大<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>きくなった。"
+            },
+            {
+                "sentence": "その工場は大規模で運営されている。",
+                "translation": "The factory is run on a large scale.",
+                "transcriptionHTML": "その<ruby>工<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>場<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>は<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>規<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>模<rp>（</rp><rt>ぼ</rt><rp>）</rp></ruby>で<ruby>運<rp>（</rp><rt>うん</rt><rp>）</rp></ruby><ruby>営<rp>（</rp><rt>えい</rt><rp>）</rp></ruby>されている。"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "kanji": "議員",
+        "readings": "ぎいん",
+        "meanings": [
+            "member of assembly",
+            "member of the Diet"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "彼は議員である。",
+                "translation": "He is in the House.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>である。"
+            },
+            {
+                "sentence": "彼は国会議員に選出された。",
+                "translation": "He was elected a member of parliament.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>国<rp>（</rp><rt>こっ</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>に<ruby>選<rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>しゅつ</rt><rp>）</rp></ruby>された。"
+            },
+            {
+                "sentence": "私もまた、議員の一人です。",
+                "translation": "I'm a councillor, too.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>もまた、<ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>の<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "彼は委員会の議長に選ばれた。",
+                "translation": "He was elected chairman of the committee.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>長<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby>に<ruby>選<rp>（</rp><rt>えら</rt><rp>）</rp></ruby>ばれた。"
+            },
+            {
+                "sentence": "私は委員会の決議を支持した。",
+                "translation": "I supported the committee's decision.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>の<ruby>決<rp>（</rp><rt>けつ</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>を<ruby>支<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "委員会はまだ決議に至らない。",
+                "translation": "The committee has not yet arrived at a decision.",
+                "transcriptionHTML": "<ruby>委<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>はまだ<ruby>決<rp>（</rp><rt>けつ</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>に<ruby>至<rp>（</rp><rt>いた</rt><rp>）</rp></ruby>らない。"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "kanji": "外国",
+        "readings": "がいこく",
+        "meanings": [
+            "foreign country"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "外国人だ。",
+                "translation": "I'm a foreigner.",
+                "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "外国へいきたい。",
+                "translation": "I wish to go abroad.",
+                "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>へいきたい。"
+            },
+            {
+                "sentence": "彼は外国へ行った。",
+                "translation": "He went abroad.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>った。"
+            },
+            {
+                "sentence": "私は外国へ行きたい。",
+                "translation": "I want to go abroad.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>へ<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたい。"
+            },
+            {
+                "sentence": "私は外国に行きたい。",
+                "translation": "I wish to go abroad.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>に<ruby>行<rp>（</rp><rt>い</rt><rp>）</rp></ruby>きたい。"
+            },
+            {
+                "sentence": "外国人って面白いなあ。",
+                "translation": "Foreign people are amusing.",
+                "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>って<ruby>面<rp>（</rp><rt>おも</rt><rp>）</rp></ruby><ruby>白<rp>（</rp><rt>しろ</rt><rp>）</rp></ruby>いなあ。"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "kanji": "教授",
+        "readings": "きょうじゅ",
+        "meanings": [
+            "professor",
+            "teaching"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "私は教授です。",
+                "translation": "I'm a teacher.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>授<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "あなたは教授です。",
+                "translation": "You are a professor.",
+                "transcriptionHTML": "あなたは<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>授<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "私は大学教授です。",
+                "translation": "I am a professor.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>授<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "彼は医学部の教授だ。",
+                "translation": "He is a professor of the medical department.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>学<rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>の<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>授<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "一人の教授がささやいた。",
+                "translation": "One of the professors whispered.",
+                "transcriptionHTML": "<ruby>一<rp>（</rp><rt>いち</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>の<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>授<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>がささやいた。"
+            },
+            {
+                "sentence": "新しい教授のことどう思う？",
+                "translation": "What do you think of the new teacher?",
+                "transcriptionHTML": "<ruby>新<rp>（</rp><rt>あたら</rt><rp>）</rp></ruby>しい<ruby>教<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby><ruby>授<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby>のことどう<ruby>思<rp>（</rp><rt>おも</rt><rp>）</rp></ruby>う？"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "kanji": "関係者",
+        "readings": "かんけいしゃ",
+        "meanings": [
+            "person concerned",
+            "people involved"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "両者の間に関係はない。",
+                "translation": "There is no connection between them.",
+                "transcriptionHTML": "<ruby>両<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>の<ruby>間<rp>（</rp><rt>ま</rt><rp>）</rp></ruby>に<ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>係<rp>（</rp><rt>けい</rt><rp>）</rp></ruby>はない。"
+            },
+            {
+                "sentence": "関係者以外立ち入り禁止。",
+                "translation": "No unauthorised personnel.",
+                "transcriptionHTML": "<ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>係<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>以<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>立<rp>（</rp><rt>た</rt><rp>）</rp></ruby>ち<ruby>入<rp>（</rp><rt>い</rt><rp>）</rp></ruby>り<ruby>禁<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>止<rp>（</rp><rt>し</rt><rp>）</rp></ruby>。"
+            },
+            {
+                "sentence": "彼は利害関係者の１人と考えられている。",
+                "translation": "He is considered to be one of the interested parties.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby><ruby>害<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>係<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>の<ruby>１<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby>と<ruby>考<rp>（</rp><rt>かんが</rt><rp>）</rp></ruby>えられている。"
+            },
+            {
+                "sentence": "聴聞会は報道関係者を閉め出して行われました。",
+                "translation": "The hearing were made off-limits to the press.",
+                "transcriptionHTML": "<ruby>聴<rp>（</rp><rt>ちょう</rt><rp>）</rp></ruby><ruby>聞<rp>（</rp><rt>もん</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>報<rp>（</rp><rt>ほう</rt><rp>）</rp></ruby><ruby>道<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>係<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>を<ruby>閉<rp>（</rp><rt>し</rt><rp>）</rp></ruby>め<ruby>出<rp>（</rp><rt>だ</rt><rp>）</rp></ruby>して<ruby>行<rp>（</rp><rt>おこな</rt><rp>）</rp></ruby>われました。"
+            },
+            {
+                "sentence": "繊維ニュースは繊維産業関係者に愛読者が多い。",
+                "translation": "Textile News has a large following among those working in the textile industry.",
+                "transcriptionHTML": "<ruby>繊<rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby>ニュースは<ruby>繊<rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>産<rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby><ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>係<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>に<ruby>愛<rp>（</rp><rt>あい</rt><rp>）</rp></ruby><ruby>読<rp>（</rp><rt>どく</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>が<ruby>多<rp>（</rp><rt>おお</rt><rp>）</rp></ruby>い。"
+            },
+            {
+                "sentence": "両者の関係は持ちつ持たれつで都合がいいものだ。",
+                "translation": "The relationship is convenient and symbiotic.",
+                "transcriptionHTML": "<ruby>両<rp>（</rp><rt>りょう</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>の<ruby>関<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>係<rp>（</rp><rt>けい</rt><rp>）</rp></ruby>は<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>ちつ<ruby>持<rp>（</rp><rt>も</rt><rp>）</rp></ruby>たれつで<ruby>都<rp>（</rp><rt>つ</rt><rp>）</rp></ruby><ruby>合<rp>（</rp><rt>ごう</rt><rp>）</rp></ruby>がいいものだ。"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "kanji": "形",
+        "readings": "かたち",
+        "meanings": [
+            "form",
+            "shape"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "あの人形怖い。",
+                "translation": "That doll is scary.",
+                "transcriptionHTML": "あの<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby>形<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby><ruby>怖<rp>（</rp><rt>こわ</rt><rp>）</rp></ruby>い。"
+            },
+            {
+                "sentence": "林檎の形は丸い。",
+                "translation": "An apple is round in shape.",
+                "transcriptionHTML": "<ruby>林<rp>（</rp><rt>りん</rt><rp>）</rp></ruby><ruby>檎<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>の<ruby>形<rp>（</rp><rt>かたち</rt><rp>）</rp></ruby>は<ruby>丸<rp>（</rp><rt>まる</rt><rp>）</rp></ruby>い。"
+            },
+            {
+                "sentence": "日本の人形です。",
+                "translation": "This is a Japanese doll.",
+                "transcriptionHTML": "<ruby>日<rp>（</rp><rt>にっ</rt><rp>）</rp></ruby><ruby>本<rp>（</rp><rt>ぽん</rt><rp>）</rp></ruby>の<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby>形<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "形勢は逆転した。",
+                "translation": "Now the shoe is on the other foot.",
+                "transcriptionHTML": "<ruby>形<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>勢<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>は<ruby>逆<rp>（</rp><rt>ぎゃく</rt><rp>）</rp></ruby><ruby>転<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "それは人形です。",
+                "translation": "It's a doll.",
+                "transcriptionHTML": "それは<ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby>形<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "それは日本人形だ。",
+                "translation": "This is a Japanese doll.",
+                "transcriptionHTML": "それは<ruby>日<rp>（</rp><rt>に</rt><rp>）</rp></ruby><ruby>本<rp>（</rp><rt>ほん</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>にん</rt><rp>）</rp></ruby><ruby>形<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>だ。"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "kanji": "議会",
+        "readings": "ぎかい",
+        "meanings": [
+            "congress",
+            "parliament"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "会議は１０日後。",
+                "translation": "The meeting is ten days away.",
+                "transcriptionHTML": "<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>は<ruby>１<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>０<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>日<rp>（</rp><rt>にち</rt><rp>）</rp></ruby><ruby>後<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>。"
+            },
+            {
+                "sentence": "議会は解散した。",
+                "translation": "Parliament has been dissolved.",
+                "transcriptionHTML": "<ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>解<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>散<rp>（</rp><rt>さん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "会議に出席する。",
+                "translation": "Attend the meeting.",
+                "transcriptionHTML": "<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>に<ruby>出<rp>（</rp><rt>しゅっ</rt><rp>）</rp></ruby><ruby>席<rp>（</rp><rt>せき</rt><rp>）</rp></ruby>する。"
+            },
+            {
+                "sentence": "午後の会議、出る？",
+                "translation": "Are you going to be at this afternoon's meeting?",
+                "transcriptionHTML": "<ruby>午<rp>（</rp><rt>ご</rt><rp>）</rp></ruby><ruby>後<rp>（</rp><rt>ご</rt><rp>）</rp></ruby>の<ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>、<ruby>出<rp>（</rp><rt>で</rt><rp>）</rp></ruby>る？"
+            },
+            {
+                "sentence": "彼は今会議中です。",
+                "translation": "He is in conference now.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby><ruby>中<rp>（</rp><rt>ちゅう</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "休会を動議します。",
+                "translation": "I move that the meeting adjourn.",
+                "transcriptionHTML": "<ruby>休<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby>会<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>を<ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>議<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>します。"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "kanji": "業界",
+        "readings": "ぎょうかい",
+        "meanings": [
+            "business world",
+            "business circles"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "輸出業界は青息吐息だ。",
+                "translation": "The export business isn't doing well.",
+                "transcriptionHTML": "<ruby>輸<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>しゅつ</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>青<rp>（</rp><rt>あお</rt><rp>）</rp></ruby><ruby>息<rp>（</rp><rt>いき</rt><rp>）</rp></ruby><ruby>吐<rp>（</rp><rt>と</rt><rp>）</rp></ruby><ruby>息<rp>（</rp><rt>いき</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "輸出業界は非常に不振だ。",
+                "translation": "The export business isn't doing well.",
+                "transcriptionHTML": "<ruby>輸<rp>（</rp><rt>ゆ</rt><rp>）</rp></ruby><ruby>出<rp>（</rp><rt>しゅつ</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>は<ruby>非<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby><ruby>常<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>に<ruby>不<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby><ruby>振<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "産業界が活気づいています。",
+                "translation": "Industrial activity is brisk.",
+                "transcriptionHTML": "<ruby>産<rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>が<ruby>活<rp>（</rp><rt>かっ</rt><rp>）</rp></ruby><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>づいています。"
+            },
+            {
+                "sentence": "田村さんは実業界で成功した。",
+                "translation": "Mr Tamura succeeded in the business world.",
+                "transcriptionHTML": "<ruby>田<rp>（</rp><rt>た</rt><rp>）</rp></ruby><ruby>村<rp>（</rp><rt>むら</rt><rp>）</rp></ruby>さんは<ruby>実<rp>（</rp><rt>じつ</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>で<ruby>成<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>功<rp>（</rp><rt>こう</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "大企業が業界を支配しています。",
+                "translation": "The large firms in the industry call all the shots.",
+                "transcriptionHTML": "<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>企<rp>（</rp><rt>き</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>が<ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>を<ruby>支<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>配<rp>（</rp><rt>はい</rt><rp>）</rp></ruby>しています。"
+            },
+            {
+                "sentence": "全工場が限界操業をしています。",
+                "translation": "All of the factories are nearing capacity.",
+                "transcriptionHTML": "<ruby>全<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby>工<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>場<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>が<ruby>限<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>操<rp>（</rp><rt>そう</rt><rp>）</rp></ruby><ruby>業<rp>（</rp><rt>ぎょう</rt><rp>）</rp></ruby>をしています。"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "kanji": "音楽",
+        "readings": "おんがく",
+        "meanings": [
+            "music"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "音楽を聞こう。",
+                "translation": "Let's listen to music.",
+                "transcriptionHTML": "<ruby>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby>楽<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>を<ruby>聞<rp>（</rp><rt>き</rt><rp>）</rp></ruby>こう。"
+            },
+            {
+                "sentence": "音楽が好きなの？",
+                "translation": "Do you like music?",
+                "transcriptionHTML": "<ruby>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby>楽<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>が<ruby>好<rp>（</rp><rt>す</rt><rp>）</rp></ruby>きなの？"
+            },
+            {
+                "sentence": "彼は音楽狂だ。",
+                "translation": "He is mad about music.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby>楽<rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby>狂<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "私は音楽部員だ。",
+                "translation": "I belong to the music club.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby>楽<rp>（</rp><rt>がく</rt><rp>）</rp></ruby><ruby>部<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "音楽を聴きます。",
+                "translation": "I hear music.",
+                "transcriptionHTML": "<ruby>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby>楽<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>を<ruby>聴<rp>（</rp><rt>き</rt><rp>）</rp></ruby>きます。"
+            },
+            {
+                "sentence": "音楽に国境なし。",
+                "translation": "Music is universal.",
+                "transcriptionHTML": "<ruby>音<rp>（</rp><rt>おん</rt><rp>）</rp></ruby><ruby>楽<rp>（</rp><rt>がく</rt><rp>）</rp></ruby>に<ruby>国<rp>（</rp><rt>こっ</rt><rp>）</rp></ruby><ruby>境<rp>（</rp><rt>きょう</rt><rp>）</rp></ruby>なし。"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "kanji": "患者",
+        "readings": "かんじゃ",
+        "meanings": [
+            "patient"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "私は患者です。",
+                "translation": "I'm a patient.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>は<ruby>患<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>です。"
+            },
+            {
+                "sentence": "患者は退院した。",
+                "translation": "The patient was discharged from hospital.",
+                "transcriptionHTML": "<ruby>患<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>は<ruby>退<rp>（</rp><rt>たい</rt><rp>）</rp></ruby><ruby>院<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "その患者は重態だ。",
+                "translation": "The patient is in critical condition.",
+                "transcriptionHTML": "その<ruby>患<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>は<ruby>重<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby>態<rp>（</rp><rt>たい</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "患者の容体は好転した。",
+                "translation": "The condition of the patient turned for the better.",
+                "transcriptionHTML": "<ruby>患<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>の<ruby>容<rp>（</rp><rt>よう</rt><rp>）</rp></ruby><ruby>体<rp>（</rp><rt>だい</rt><rp>）</rp></ruby>は<ruby>好<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>転<rp>（</rp><rt>てん</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "患者の命が危なかった。",
+                "translation": "The patient's life was in danger.",
+                "transcriptionHTML": "<ruby>患<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>の<ruby>命<rp>（</rp><rt>いのち</rt><rp>）</rp></ruby>が<ruby>危<rp>（</rp><rt>あぶ</rt><rp>）</rp></ruby>なかった。"
+            },
+            {
+                "sentence": "医者は患者に投薬した。",
+                "translation": "The doctor administered medicine to the patient.",
+                "transcriptionHTML": "<ruby>医<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby>は<ruby>患<rp>（</rp><rt>かん</rt><rp>）</rp></ruby><ruby>者<rp>（</rp><rt>じゃ</rt><rp>）</rp></ruby>に<ruby>投<rp>（</rp><rt>とう</rt><rp>）</rp></ruby><ruby>薬<rp>（</rp><rt>やく</rt><rp>）</rp></ruby>した。"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "kanji": "活動",
+        "readings": "かつどう",
+        "meanings": [
+            "activity (person, organization etc)",
+            "action"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "彼は活動的な人だ。",
+                "translation": "He is an active person.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>的<rp>（</rp><rt>てき</rt><rp>）</rp></ruby>な<ruby>人<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "夜活動する動物もいる。",
+                "translation": "Some animals are active at night.",
+                "transcriptionHTML": "<ruby>夜<rp>（</rp><rt>よる</rt><rp>）</rp></ruby><ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby>する<ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>物<rp>（</rp><rt>ぶつ</rt><rp>）</rp></ruby>もいる。"
+            },
+            {
+                "sentence": "彼は慈善活動で忙しい。",
+                "translation": "He's active doing charity work.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>慈<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>善<rp>（</rp><rt>ぜん</rt><rp>）</rp></ruby><ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby>で<ruby>忙<rp>（</rp><rt>いそが</rt><rp>）</rp></ruby>しい。"
+            },
+            {
+                "sentence": "彼は活動的な少年である。",
+                "translation": "He is an active boy.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>的<rp>（</rp><rt>てき</rt><rp>）</rp></ruby>な<ruby>少<rp>（</rp><rt>しょう</rt><rp>）</rp></ruby><ruby>年<rp>（</rp><rt>ねん</rt><rp>）</rp></ruby>である。"
+            },
+            {
+                "sentence": "火山が再び活動を始めた。",
+                "translation": "The volcano has become active again.",
+                "transcriptionHTML": "<ruby>火<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>山<rp>（</rp><rt>ざん</rt><rp>）</rp></ruby>が<ruby>再<rp>（</rp><rt>ふたた</rt><rp>）</rp></ruby>び<ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby>を<ruby>始<rp>（</rp><rt>はじ</rt><rp>）</rp></ruby>めた。"
+            },
+            {
+                "sentence": "活動の幅を世界に広げる。",
+                "translation": "Making the scope of activity global.",
+                "transcriptionHTML": "<ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby>動<rp>（</rp><rt>どう</rt><rp>）</rp></ruby>の<ruby>幅<rp>（</rp><rt>はば</rt><rp>）</rp></ruby>を<ruby>世<rp>（</rp><rt>せ</rt><rp>）</rp></ruby><ruby>界<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>に<ruby>広<rp>（</rp><rt>ひろ</rt><rp>）</rp></ruby>げる。"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "kanji": "計画",
+        "readings": "けいかく",
+        "meanings": [
+            "plan",
+            "project"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "計画はできた。",
+                "translation": "Our plan is made.",
+                "transcriptionHTML": "<ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>はできた。"
+            },
+            {
+                "sentence": "計画を続けなさい。",
+                "translation": "Carry on with your plan.",
+                "transcriptionHTML": "<ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>を<ruby>続<rp>（</rp><rt>つづ</rt><rp>）</rp></ruby>けなさい。"
+            },
+            {
+                "sentence": "彼は計画を実行した。",
+                "translation": "He carried out the plan.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>を<ruby>実<rp>（</rp><rt>じっ</rt><rp>）</rp></ruby><ruby>行<rp>（</rp><rt>こう</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "彼は計画を固執した。",
+                "translation": "He persisted in his project.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>を<ruby>固<rp>（</rp><rt>こ</rt><rp>）</rp></ruby><ruby>執<rp>（</rp><rt>しつ</rt><rp>）</rp></ruby>した。"
+            },
+            {
+                "sentence": "彼の計画はヤバイぞ。",
+                "translation": "His plan is dangerous!",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>はヤバイぞ。"
+            },
+            {
+                "sentence": "彼の計画に賛成する。",
+                "translation": "I agree to his plan.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>の<ruby>計<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>画<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>に<ruby>賛<rp>（</rp><rt>さん</rt><rp>）</rp></ruby><ruby>成<rp>（</rp><rt>せい</rt><rp>）</rp></ruby>する。"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "kanji": "価格",
+        "readings": "かかく",
+        "meanings": [
+            "price",
+            "value"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "価格はいくらですか。",
+                "translation": "How much is it?",
+                "transcriptionHTML": "<ruby>価<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>格<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>はいくらですか。"
+            },
+            {
+                "sentence": "価格は重要ではない。",
+                "translation": "I'll pay any price.",
+                "transcriptionHTML": "<ruby>価<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>格<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>は<ruby>重<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby>要<rp>（</rp><rt>よう</rt><rp>）</rp></ruby>ではない。"
+            },
+            {
+                "sentence": "特別価格の見積りです。",
+                "translation": "We have quoted special prices.",
+                "transcriptionHTML": "<ruby>特<rp>（</rp><rt>とく</rt><rp>）</rp></ruby><ruby>別<rp>（</rp><rt>べつ</rt><rp>）</rp></ruby><ruby>価<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>格<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>の<ruby>見積<rp>（</rp><rt>みつも</rt><rp>）</rp></ruby>りです。"
+            },
+            {
+                "sentence": "価格は需要を反映する。",
+                "translation": "The price reflects the demand.",
+                "transcriptionHTML": "<ruby>価<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>格<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>は<ruby>需<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby>要<rp>（</rp><rt>よう</rt><rp>）</rp></ruby>を<ruby>反<rp>（</rp><rt>はん</rt><rp>）</rp></ruby><ruby>映<rp>（</rp><rt>えい</rt><rp>）</rp></ruby>する。"
+            },
+            {
+                "sentence": "住宅は前の２倍の価格だ。",
+                "translation": "The house costs double what it did before.",
+                "transcriptionHTML": "<ruby>住<rp>（</rp><rt>じゅう</rt><rp>）</rp></ruby><ruby>宅<rp>（</rp><rt>たく</rt><rp>）</rp></ruby>は<ruby>前<rp>（</rp><rt>まえ</rt><rp>）</rp></ruby>の<ruby>２<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>倍<rp>（</rp><rt>ばい</rt><rp>）</rp></ruby>の<ruby>価<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>格<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "価格は需要によって変わる。",
+                "translation": "The price varies with demand.",
+                "transcriptionHTML": "<ruby>価<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>格<rp>（</rp><rt>かく</rt><rp>）</rp></ruby>は<ruby>需<rp>（</rp><rt>じゅ</rt><rp>）</rp></ruby><ruby>要<rp>（</rp><rt>よう</rt><rp>）</rp></ruby>によって<ruby>変<rp>（</rp><rt>か</rt><rp>）</rp></ruby>わる。"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "kanji": "維持",
+        "readings": "いじ",
+        "meanings": [
+            "maintenance",
+            "preservation"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "この車の維持は高くつく。",
+                "translation": "It is expensive running this car.",
+                "transcriptionHTML": "この<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>の<ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>は<ruby>高<rp>（</rp><rt>たか</rt><rp>）</rp></ruby>くつく。"
+            },
+            {
+                "sentence": "我々は民主主義を維持する。",
+                "translation": "We stand for democracy.",
+                "transcriptionHTML": "<ruby>我々<rp>（</rp><rt>われわれ</rt><rp>）</rp></ruby>は<ruby>民<rp>（</rp><rt>みん</rt><rp>）</rp></ruby><ruby>主<rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby>主<rp>（</rp><rt>しゅ</rt><rp>）</rp></ruby><ruby>義<rp>（</rp><rt>ぎ</rt><rp>）</rp></ruby>を<ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>する。"
+            },
+            {
+                "sentence": "トムは現状維持を望んでいる。",
+                "translation": "Tom wants to keep things the way they are.",
+                "transcriptionHTML": "トムは<ruby>現<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>状<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>を<ruby>望<rp>（</rp><rt>のぞ</rt><rp>）</rp></ruby>んでいる。"
+            },
+            {
+                "sentence": "車を維持するのはとても経費がかかる。",
+                "translation": "Running a car is a great expense.",
+                "transcriptionHTML": "<ruby>車<rp>（</rp><rt>くるま</rt><rp>）</rp></ruby>を<ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>するのはとても<ruby>経<rp>（</rp><rt>けい</rt><rp>）</rp></ruby><ruby>費<rp>（</rp><rt>ひ</rt><rp>）</rp></ruby>がかかる。"
+            },
+            {
+                "sentence": "彼らはエアロビクスで元気を維持している。",
+                "translation": "They keep up their spirits by doing aerobics.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>らはエアロビクスで<ruby>元<rp>（</rp><rt>げん</rt><rp>）</rp></ruby><ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>を<ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>している。"
+            },
+            {
+                "sentence": "彼は高速道路で一定のスピードを維持した。",
+                "translation": "He maintained a steady speed on the highway.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>高<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>速<rp>（</rp><rt>そく</rt><rp>）</rp></ruby><ruby>道<rp>（</rp><rt>どう</rt><rp>）</rp></ruby><ruby>路<rp>（</rp><rt>ろ</rt><rp>）</rp></ruby>で<ruby>一<rp>（</rp><rt>いっ</rt><rp>）</rp></ruby><ruby>定<rp>（</rp><rt>てい</rt><rp>）</rp></ruby>のスピードを<ruby>維<rp>（</rp><rt>い</rt><rp>）</rp></ruby><ruby>持<rp>（</rp><rt>じ</rt><rp>）</rp></ruby>した。"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "kanji": "事務",
+        "readings": "じむ",
+        "meanings": [
+            "office work",
+            "clerical work"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "事務所にいます。",
+                "translation": "I'm in my office.",
+                "transcriptionHTML": "<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>務<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>にいます。"
+            },
+            {
+                "sentence": "彼は事務所にいない。",
+                "translation": "He is out of the office.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>務<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>にいない。"
+            },
+            {
+                "sentence": "彼は事務所にいます。",
+                "translation": "He's at the office.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>務<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>にいます。"
+            },
+            {
+                "sentence": "彼は事務員の職を得た。",
+                "translation": "He got a position as a clerk.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>務<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>員<rp>（</rp><rt>いん</rt><rp>）</rp></ruby>の<ruby>職<rp>（</rp><rt>しょく</rt><rp>）</rp></ruby>を<ruby>得<rp>（</rp><rt>え</rt><rp>）</rp></ruby>た。"
+            },
+            {
+                "sentence": "事務所は６階に移った。",
+                "translation": "The office has been transferred up to the sixth floor.",
+                "transcriptionHTML": "<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>務<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>所<rp>（</rp><rt>しょ</rt><rp>）</rp></ruby>は<ruby>６<rp>（</rp><rt></rt><rp>）</rp></ruby><ruby>階<rp>（</rp><rt>かい</rt><rp>）</rp></ruby>に<ruby>移<rp>（</rp><rt>うつ</rt><rp>）</rp></ruby>った。"
+            },
+            {
+                "sentence": "私の事務室に来なさい。",
+                "translation": "Come on into my office.",
+                "transcriptionHTML": "<ruby>私<rp>（</rp><rt>わたし</rt><rp>）</rp></ruby>の<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>務<rp>（</rp><rt>む</rt><rp>）</rp></ruby><ruby>室<rp>（</rp><rt>しつ</rt><rp>）</rp></ruby>に<ruby>来<rp>（</rp><rt>き</rt><rp>）</rp></ruby>なさい。"
+            }
+        ]
+    },
+    {
+        "id": 319,
+        "kanji": "夫",
+        "readings": "おっと",
+        "meanings": [
+            "husband"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "大丈夫？",
+                "translation": "What's up?",
+                "transcriptionHTML": "<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>丈<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>夫<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>？"
+            },
+            {
+                "sentence": "漁夫の利。",
+                "translation": "Two dogs fight for a bone, and the third runs away with it.",
+                "transcriptionHTML": "<ruby>漁<rp>（</rp><rt>ぎょ</rt><rp>）</rp></ruby><ruby>夫<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>の<ruby>利<rp>（</rp><rt>り</rt><rp>）</rp></ruby>。"
+            },
+            {
+                "sentence": "大丈夫だ。",
+                "translation": "I'm OK.",
+                "transcriptionHTML": "<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>丈<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>夫<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>だ。"
+            },
+            {
+                "sentence": "大丈夫そう？",
+                "translation": "Are you going to be OK?",
+                "transcriptionHTML": "<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>丈<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>夫<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>そう？"
+            },
+            {
+                "sentence": "大丈夫ですか？",
+                "translation": "What's up?",
+                "transcriptionHTML": "<ruby>大<rp>（</rp><rt>だい</rt><rp>）</rp></ruby><ruby>丈<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>夫<rp>（</rp><rt>ぶ</rt><rp>）</rp></ruby>ですか？"
+            },
+            {
+                "sentence": "似た者夫婦。",
+                "translation": "Every Jack has his Jill.",
+                "transcriptionHTML": "<ruby>似<rp>（</rp><rt>に</rt><rp>）</rp></ruby>た<ruby>者<rp>（</rp><rt>もの</rt><rp>）</rp></ruby><ruby>夫<rp>（</rp><rt>ふう</rt><rp>）</rp></ruby><ruby>婦<rp>（</rp><rt>ふ</rt><rp>）</rp></ruby>。"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "kanji": "写真",
+        "readings": "しゃしん",
+        "meanings": [
+            "photograph",
+            "photo"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "写真見せて。",
+                "translation": "Show me the photo.",
+                "transcriptionHTML": "<ruby>写<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>真<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>せて。"
+            },
+            {
+                "sentence": "写真見して。",
+                "translation": "Show me the photo.",
+                "transcriptionHTML": "<ruby>写<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>真<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>見<rp>（</rp><rt>み</rt><rp>）</rp></ruby>して。"
+            },
+            {
+                "sentence": "写真を撮ろう。",
+                "translation": "Let's take a picture.",
+                "transcriptionHTML": "<ruby>写<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>真<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>を<ruby>撮<rp>（</rp><rt>と</rt><rp>）</rp></ruby>ろう。"
+            },
+            {
+                "sentence": "あれは僕の写真？",
+                "translation": "Is that a picture of me?",
+                "transcriptionHTML": "あれは<ruby>僕<rp>（</rp><rt>ぼく</rt><rp>）</rp></ruby>の<ruby>写<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>真<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>？"
+            },
+            {
+                "sentence": "写真撮影禁止。",
+                "translation": "Photography is prohibited.",
+                "transcriptionHTML": "<ruby>写<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>真<rp>（</rp><rt>しん</rt><rp>）</rp></ruby><ruby>撮<rp>（</rp><rt>さつ</rt><rp>）</rp></ruby><ruby>影<rp>（</rp><rt>えい</rt><rp>）</rp></ruby><ruby>禁<rp>（</rp><rt>きん</rt><rp>）</rp></ruby><ruby>止<rp>（</rp><rt>し</rt><rp>）</rp></ruby>。"
+            },
+            {
+                "sentence": "それは最近の写真？",
+                "translation": "Is this a new photo?",
+                "transcriptionHTML": "それは<ruby>最<rp>（</rp><rt>さい</rt><rp>）</rp></ruby><ruby>近<rp>（</rp><rt>きん</rt><rp>）</rp></ruby>の<ruby>写<rp>（</rp><rt>しゃ</rt><rp>）</rp></ruby><ruby>真<rp>（</rp><rt>しん</rt><rp>）</rp></ruby>？"
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "kanji": "条件",
+        "readings": "じょうけん",
+        "meanings": [
+            "condition",
+            "term"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "条件を決める。",
+                "translation": "I fix the terms.",
+                "transcriptionHTML": "<ruby>条<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>件<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>を<ruby>決<rp>（</rp><rt>き</rt><rp>）</rp></ruby>める。"
+            },
+            {
+                "sentence": "降伏条件は過酷だった。",
+                "translation": "The surrender terms were harsh.",
+                "transcriptionHTML": "<ruby>降<rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby>伏<rp>（</rp><rt>ぶく</rt><rp>）</rp></ruby><ruby>条<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>件<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>は<ruby>過<rp>（</rp><rt>か</rt><rp>）</rp></ruby><ruby>酷<rp>（</rp><rt>こく</rt><rp>）</rp></ruby>だった。"
+            },
+            {
+                "sentence": "生活条件は厳しかった。",
+                "translation": "Living conditions were hard.",
+                "transcriptionHTML": "<ruby>生<rp>（</rp><rt>せい</rt><rp>）</rp></ruby><ruby>活<rp>（</rp><rt>かつ</rt><rp>）</rp></ruby><ruby>条<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>件<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>は<ruby>厳<rp>（</rp><rt>いかめ</rt><rp>）</rp></ruby>しかった。"
+            },
+            {
+                "sentence": "支払条件もご提示下さい。",
+                "translation": "Also, please inform us of your terms of payment.",
+                "transcriptionHTML": "<ruby>支<rp>（</rp><rt>し</rt><rp>）</rp></ruby><ruby>払<rp>（</rp><rt>はらい</rt><rp>）</rp></ruby><ruby>条<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>件<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>もご<ruby>提<rp>（</rp><rt>てい</rt><rp>）</rp></ruby><ruby>示<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>下<rp>（</rp><rt>くだ</rt><rp>）</rp></ruby>さい。"
+            },
+            {
+                "sentence": "認めるけど、条件が一つ。",
+                "translation": "Agreed, but only on one condition.",
+                "transcriptionHTML": "<ruby>認<rp>（</rp><rt>みと</rt><rp>）</rp></ruby>めるけど、<ruby>条<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>件<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>が<ruby>一<rp>（</rp><rt>ひと</rt><rp>）</rp></ruby>つ。"
+            },
+            {
+                "sentence": "彼らは休戦条件で合意した。",
+                "translation": "They agreed on cease-fire terms.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>らは<ruby>休<rp>（</rp><rt>きゅう</rt><rp>）</rp></ruby><ruby>戦<rp>（</rp><rt>せん</rt><rp>）</rp></ruby><ruby>条<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby><ruby>件<rp>（</rp><rt>けん</rt><rp>）</rp></ruby>で<ruby>合<rp>（</rp><rt>ごう</rt><rp>）</rp></ruby><ruby>意<rp>（</rp><rt>い</rt><rp>）</rp></ruby>した。"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "kanji": "事情",
+        "readings": "じじょう",
+        "meanings": [
+            "circumstances",
+            "conditions"
+        ],
+        "tatoeba": [
+            {
+                "sentence": "事情はこの通りです。",
+                "translation": "This is the case.",
+                "transcriptionHTML": "<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>情<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>はこの<ruby>通<rp>（</rp><rt>とお</rt><rp>）</rp></ruby>りです。"
+            },
+            {
+                "sentence": "事情は後で説明する。",
+                "translation": "I will explain the situation to you later on.",
+                "transcriptionHTML": "<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>情<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>は<ruby>後<rp>（</rp><rt>あと</rt><rp>）</rp></ruby>で<ruby>説<rp>（</rp><rt>せつ</rt><rp>）</rp></ruby><ruby>明<rp>（</rp><rt>めい</rt><rp>）</rp></ruby>する。"
+            },
+            {
+                "sentence": "今は事情が違っている。",
+                "translation": "Matters are different now.",
+                "transcriptionHTML": "<ruby>今<rp>（</rp><rt>いま</rt><rp>）</rp></ruby>は<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>情<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>が<ruby>違<rp>（</rp><rt>ちが</rt><rp>）</rp></ruby>っている。"
+            },
+            {
+                "sentence": "彼は海外の事情に詳しい。",
+                "translation": "He knows a lot about foreign affairs.",
+                "transcriptionHTML": "<ruby>彼<rp>（</rp><rt>かれ</rt><rp>）</rp></ruby>は<ruby>海<rp>（</rp><rt>かい</rt><rp>）</rp></ruby><ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby>の<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>情<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>に<ruby>詳<rp>（</rp><rt>くわ</rt><rp>）</rp></ruby>しい。"
+            },
+            {
+                "sentence": "交通事情が気にいらない。",
+                "translation": "I don't like the traffic.",
+                "transcriptionHTML": "<ruby>交<rp>（</rp><rt>こう</rt><rp>）</rp></ruby><ruby>通<rp>（</rp><rt>つう</rt><rp>）</rp></ruby><ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>情<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>が<ruby>気<rp>（</rp><rt>き</rt><rp>）</rp></ruby>にいらない。"
+            },
+            {
+                "sentence": "その辺の事情は知らない。",
+                "translation": "I don't know about things like that.",
+                "transcriptionHTML": "その<ruby>辺<rp>（</rp><rt>へん</rt><rp>）</rp></ruby>の<ruby>事<rp>（</rp><rt>じ</rt><rp>）</rp></ruby><ruby>情<rp>（</rp><rt>じょう</rt><rp>）</rp></ruby>は<ruby>知<rp>（</rp><rt>し</rt><rp>）</rp></ruby>らない。"
+            }
+        ]
+    }
+]
