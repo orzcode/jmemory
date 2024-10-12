@@ -11,7 +11,6 @@ function TenCards({ mode, setView }) {
   const [cardIDs, setCardIDs] = useState([]); //for unique card clicks out of 10 (i.e: checking same card click)
 
   const totalEntries = mode === "dlc" ? dlc.entries.length : nf01.entries.length; // JSON total size pool
-  const uniqueCardIds = new Set(); // To track unique card IDs
 
   const [modal, setModal] = useState(false); // win/fail modal open/close
   const [endState, setEndState] = useState(""); // win/fail state type, for modal customization
@@ -65,7 +64,7 @@ function TenCards({ mode, setView }) {
   ////////////////////////////
   useEffect(() => {
     if (tenCards.length > 0) return; // Early return if cards are already loaded
-    const newCards = [];
+    let newCards = [];
 
     // Check if mode is "view all"
     if (mode === "all") {
@@ -77,26 +76,12 @@ function TenCards({ mode, setView }) {
     }
 
     // Step 1: Pick 10 random cards
-
-    // Workaround for string-based mode with DLC.
-    const numericMode = mode === "dlc" ? dlc.entries.length : mode
-
-    const cardLimit = Math.min(numericMode, totalEntries); // Ensure mode does not exceed totalEntries
-
-
-    while (newCards.length < 10) {
-      const randomCardNo = Math.floor(Math.random() * cardLimit);
-      
-      const card = mode === "dlc" ? dlc.entries[randomCardNo] : nf01.entries[randomCardNo];
-
-      // Check if the card ID is already in the Set
-      if (!uniqueCardIds.has(card.id)) {
-
-        uniqueCardIds.add(card.id); // Add ID to the Set (formed each time) of unique cards
-        newCards.push(card); //this only pushes to visible tencards on page if it is unique
-      }
-
-      //NOTE: this causes infinite loop if entries size is less than 20
+     if (mode != "all") {
+      const shuffledCards = (mode === "dlc" ? dlc.entries : nf01.entries)
+      .sort(() => Math.random() - 0.5);
+  
+    // Select the first 10 cards
+    newCards = shuffledCards.slice(0, 10);
     }
 
     // Step 2: Fetch Tatoeba API data for each card
