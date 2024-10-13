@@ -7,9 +7,9 @@
       "meanings": ["you (derog.)"],
       "tatoeba": [
         {
-            "sentence": "外国人だ。",
-            "translation": "I'm a foreigner.",
-            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+            "sentence": "お前なにやってんだよ",
+            "translation": "What the hell do you think you're doing?",
+            "transcriptionHTML": "お<ruby>前<rt>まえ</rt>なにやってんだよ</ruby>"
         }
       ]
     },

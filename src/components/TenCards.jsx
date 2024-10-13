@@ -73,7 +73,12 @@ function TenCards({ mode, setView }) {
         setTenCards(cachedCards);
         return; // Skip fetching new cards
       }
-    }
+     } //else if (mode === "dlc") {
+    //   console.log(dlc)
+    //     setTenCards(dlc);
+    //     return; // Skip fetching new cards
+
+    // }
 
     // Step 1: Pick 10 random cards
      if (mode != "all") {
@@ -82,6 +87,11 @@ function TenCards({ mode, setView }) {
   
     // Select the first 10 cards
     newCards = shuffledCards.slice(0, 10);
+    
+    if (mode === "dlc") {
+      setTenCards(newCards);
+      return; // Skip fetching new cards
+    }
     }
 
     // Step 2: Fetch Tatoeba API data for each card
