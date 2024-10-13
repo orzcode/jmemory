@@ -162,16 +162,20 @@ button {
   filter: grayscale(0.1) brightness(0.9);
   cursor: not-allowed;
 }
-.passed {
+
+.icon {
   display: auto;
   position: absolute;
   right: -5%;
   top: -25%;
   transform: rotateZ(-15deg);
 }
+.passed {
+  
+}
 .not-passed {
   opacity: 0.98;
-  filter: grayscale(0.8) brightness(0.8) contrast(0.4);
+  filter: grayscale(0.8) brightness(0.8);
 }
 /* ----------------------------------------- */
 .TenCardsParent {
