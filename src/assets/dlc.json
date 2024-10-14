@@ -33,9 +33,9 @@
       "meanings": ["bastard", "guy (derog.)"],
       "tatoeba": [
         {
-            "sentence": "このファック野郎と同じように",
+            "sentence": "このファック野郎と同じようにね",
             "translation": "Just like this fucker here",
-            "transcriptionHTML": ""
+            "transcriptionHTML": "このファック<ruby>野郎<rt>やろう</rt></ruby>と同じようにね"
         }
       ]
     },
@@ -46,9 +46,9 @@
       "meanings": ["pervert"],
       "tatoeba": [
         {
-            "sentence": "あのサンダル着ている変態は、外国人だったんだ。",
+            "sentence": "あのサンダル履いている変態は、外国人だったんだ。",
             "translation": "That pervert in the sandals was a foreigner...",
-            "transcriptionHTML": ""
+            "transcriptionHTML": "あのサンダル<ruby>履<rt>は</rt></ruby>いている<ruby>変態<rt>へんたい</rt></ruby>は、<ruby>外国人<rt>がいこくじん</rt></ruby>だったんだ。"
         }
       ]
     },
@@ -61,7 +61,7 @@
         {
             "sentence": "やば、鳥の糞ばっかりだ。",
             "translation": "Damn, there's birdshit everywhere",
-            "transcriptionHTML": ""
+            "transcriptionHTML": "やば、<ruby>鳥<rt>とり</rt></ruby>の<ruby>糞<rt>くそ</rt></ruby>ばっかりだ。"
         }
       ]
     },
@@ -74,7 +74,7 @@
         {
             "sentence": "畜生こらっ！",
             "translation": "You son of a bitch!",
-            "transcriptionHTML": ""
+            "transcriptionHTML": "<ruby>畜生<rt>ちくしょう</rt></ruby>こらっ！"
         }
       ]
     },
@@ -87,7 +87,7 @@
         {
             "sentence": "週に６０時間？それって過労死だよ。",
             "translation": "60 hour weeks? You'll be dead.",
-            "transcriptionHTML": ""
+            "transcriptionHTML": "<ruby>週<rt>しゅう</rt></ruby>に６０<ruby>時間<rt>じかん</rt></ruby>？それって<ruby>過労死<rt>かろうし</rt></ruby>だよ。"
         }
       ]
     },
@@ -100,7 +100,7 @@
         {
             "sentence": "猫舌？なんだ、子供かよ",
             "translation": "Too hot for you? What are you, a child?",
-            "transcriptionHTML": ""
+            "transcriptionHTML": "<ruby>猫舌<rt>ねこじた</rt></ruby>？なんだ、<ruby>子供<rt>こども</rt></ruby>かよ"
         }
       ]
     },
@@ -111,9 +111,9 @@
       "meanings": ["golden balls"],
       "tatoeba": [
         {
-            "sentence": "この金玉やで",
+            "sentence": "この金玉やで!",
             "translation": "Deez nuts is what!",
-            "transcriptionHTML": ""
+            "transcriptionHTML": "この<ruby>金玉<rt>きんたま</rt></ruby>やで"
         }
       ]
     },
@@ -124,9 +124,9 @@
       "meanings": ["golden parachute"],
       "tatoeba": [
         {
-            "sentence": "外国人だ。",
-            "translation": "I'm a foreigner.",
-            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+            "sentence": "あの外務省のおっさんは首されてもきっと天下りになるよ",
+            "translation": "That old git at the Foreign Ministry will get a golden parachute even if he's fired.",
+            "transcriptionHTML": "あの<ruby>外務省<rt>がいむしょう</rt></ruby>のおっさんは<ruby>首<rt>くび</rt></ruby>されてもきっと<ruby>天下り<rt>あまくだり</rt></ruby>になるよ"
         }
       ]
     },
@@ -137,9 +137,9 @@
       "meanings": ["kamikaze", "divine wind"],
       "tatoeba": [
         {
-            "sentence": "外国人だ。",
-            "translation": "I'm a foreigner.",
-            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+            "sentence": "「日本は神風が吹く、神に守られた特別な国」",
+            "translation": "Japan is a special country protected by divine winds",
+            "transcriptionHTML": "<ruby>日本<rt>にほん</rt></ruby>は<ruby>神風<rt>かみかぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>く、<ruby>神<rt>かみ</rt></ruby>に<ruby>守<rt>まも</rt></ruby>られた<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>国<rt>くに</rt></ruby>"
         }
       ]
     },
@@ -147,12 +147,12 @@
       "id": "dlc12",
       "kanji": "ヤバい",
       "readings": "やばい",
-      "meanings": ["wild", "extreme"],
+      "meanings": ["wild", "damn"],
       "tatoeba": [
         {
-            "sentence": "外国人だ。",
-            "translation": "I'm a foreigner.",
-            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+            "sentence": "ヤバい髪だね",
+            "translation": "Damn, that hair is wild huh",
+            "transcriptionHTML": "<ruby>ヤバ<rt>やば</rt></ruby>い<ruby>髪<rt>かみ</rt></ruby>の<ruby>毛<rt>け</rt></ruby>だね"
         }
       ]
     },
@@ -163,9 +163,9 @@
       "meanings": ["terrible at"],
       "tatoeba": [
         {
-            "sentence": "外国人だ。",
-            "translation": "I'm a foreigner.",
-            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+            "sentence": "このゲーム下手くそやわ",
+            "translation": "Man I'm ass at this game",
+            "transcriptionHTML": "この<ruby>ゲーム</ruby><ruby>下手<rt>へた</rt></ruby>くそやわ"
         }
       ]
     },
@@ -176,9 +176,9 @@
       "meanings": ["drunk", "drunkard"],
       "tatoeba": [
         {
-            "sentence": "外国人だ。",
-            "translation": "I'm a foreigner.",
-            "transcriptionHTML": "<ruby>外<rp>（</rp><rt>がい</rt><rp>）</rp></ruby><ruby>国<rp>（</rp><rt>こく</rt><rp>）</rp></ruby><ruby>人<rp>（</rp><rt>じん</rt><rp>）</rp></ruby>だ。"
+            "sentence": "また飲んでんの？酔っ払いだ",
+            "translation": "You're drinking again? You're a drunk",
+            "transcriptionHTML": "また<ruby>飲<rt>の</rt></ruby>んでんの？<ruby>酔<rt>よ</rt></ruby>っ<ruby>払<rt>ぱら</rt></ruby>いだ"
         }
       ]
     }
