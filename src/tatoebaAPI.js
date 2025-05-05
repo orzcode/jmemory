@@ -2,7 +2,7 @@ export const tatoebaAPI = async (jukugo) => {
   try {
     const limit = 6;
 
-    const shortURL = `https://api.dev.tatoeba.org/unstable/sentences?lang=jpn&q="%22${encodeURIComponent(
+    const shortURL = `https://api.tatoeba.org/unstable/sentences?lang=jpn&q="%22${encodeURIComponent(
       jukugo
     )}%22"&trans=eng&limit=${limit}&sort=words`;
     //note the %22 is needed to send in quotes - to search for full jukugo
