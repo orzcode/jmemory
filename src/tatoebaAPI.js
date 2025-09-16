@@ -13,6 +13,7 @@ export const tatoebaAPI = async (jukugo) => {
     }
 
     const JSON = await response.json();
+    console.log(JSON)
 
     const exampleArray = JSON.data.map((example) => {
       const sentence = example.text;
