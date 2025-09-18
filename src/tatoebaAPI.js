@@ -13,25 +13,32 @@ export const tatoebaAPI = async (jukugo) => {
     }
 
     const JSON = await response.json();
-    console.log(JSON)
+
+    console.log(JSON);
 
     const exampleArray = JSON.data.map((example) => {
       const sentence = example.text;
 
       const findFirstText = (translations) => {
         const flatTranslations = translations.flat(); // Flatten the array
-
         let justText = [];
         flatTranslations.forEach((translation) => {
           if (translation.text) {
             justText.push(translation.text);
-          }})
+          }
+        });
 
-        const shortest = justText.reduce((a, b) => (a.length < b.length ? a : b));
-        
-        return shortest
+        // Check if the array is empty before attempting to reduce it
+        if (justText.length === 0) {
+          return ""; // Return an empty string or a default message
+        }
+
+        const shortest = justText.reduce((a, b) =>
+          a.length < b.length ? a : b
+        );
+
+        return shortest;
       };
-
       const translation = findFirstText(example.translations);
       //translations are placed in strange places.
       //this is the ~english~ example sentence text
