@@ -2,10 +2,17 @@ export const tatoebaAPI = async (jukugo) => {
   try {
     const limit = 6;
 
-    const shortURL = `https://api.tatoeba.org/unstable/sentences?lang=jpn&q="%22${encodeURIComponent(
+    // Use proxy URL in development, direct URL in production
+    const isDev = import.meta.env.DEV;
+    const baseURL = isDev 
+      ? '/api/tatoeba'  // This will be proxied by Vite
+      : 'https://api.dev.tatoeba.org';  // Direct URL for production
+
+    const shortURL = `${baseURL}/unstable/sentences?lang=jpn&q="%22${encodeURIComponent(
       jukugo
     )}%22"&showtrans:lang=eng&limit=${limit}&sort=words`;
-    //note the %22 is needed to send in quotes - to search for full jukugo
+
+    console.log('Fetching from:', shortURL);
 
     const response = await fetch(shortURL);
     if (!response.ok) {
@@ -44,7 +51,7 @@ export const tatoebaAPI = async (jukugo) => {
       //this is the ~english~ example sentence text
       //finds the shortest english translation of the same jap sentence
 
-      const transcriptionHTML = example.transcriptions[0].html;
+      const transcriptionHTML = example.transcriptions[0]?.html || '';
       //note: .text instead of .html can provide non-html kanji+kana
 
       return { sentence, translation, transcriptionHTML };
@@ -57,14 +64,7 @@ export const tatoebaAPI = async (jukugo) => {
   }
 };
 
+// Test the function - this will work in Node.js terminal using the direct URL
 //console.log(await tatoebaAPI("意見"));
 
 export default tatoebaAPI;
-
-//tatoebaAPI({ jukugo: "安全" })
-
-// https://en.wiki.tatoeba.org/articles/show/text-search
-// https://tatoeba.org/en/
-
-// https://api.dev.tatoeba.org/unstable#?route=get-/unstable/sentences
-// https://en.wiki.tatoeba.org/articles/show/api#example-1
