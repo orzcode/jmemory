@@ -12,7 +12,7 @@ export const tatoebaAPI = async (jukugo) => {
       jukugo
     )}%22"&showtrans:lang=eng&limit=${limit}&sort=words`;
 
-    console.log('Fetching from:', shortURL);
+    //console.log('Fetching from:', shortURL);
 
     const response = await fetch(shortURL);
     if (!response.ok) {
