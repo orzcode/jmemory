@@ -18,6 +18,8 @@ function TenCards({ mode, setView }) {
   const [unlockedCount, setUnlockedCount] = useState(0); // number of cards unlocked
 
   const [rerollCount, setRerollCount] = useState(0);
+
+  const [fetchProgress, setFetchProgress] = useState(0);
   ///////////////////////////////////////////////////////////////////////////
 
   // Helper function to get cached cards from localStorage
@@ -67,6 +69,8 @@ function TenCards({ mode, setView }) {
   ////////////////////////////
   useEffect(() => {
     if (!mode) return;
+    setFetchProgress(0); // Reset progress
+
     let newCards = [];
 
     // Check if mode is "view all"
@@ -94,17 +98,20 @@ function TenCards({ mode, setView }) {
 
       if (mode === "dlc") {
         setTenCards(newCards);
-        return; // Skip fetching new cards
+        setFetchProgress(newCards.length); // All done for DLC
+        return;
       }
     }
 
     // Step 2: Fetch Tatoeba API data for each card
     Promise.all(
-      newCards.map(async (card) => {
+      newCards.map(async (card, idx) => {
         try {
           const data = await tatoebaAPI(card.kanji); // Fetch the Tatoeba data
+          setFetchProgress((prev) => prev + 1); // Increment progress
           return { ...card, tatoeba: data }; // Merge card with fetched data
         } catch (error) {
+          setFetchProgress((prev) => prev + 1); // Increment even on error
           console.error(
             `Failed to fetch Tatoeba data for ${card.kanji}`,
             error
@@ -218,7 +225,10 @@ function TenCards({ mode, setView }) {
             />
           ))
         ) : (
+          <div>
           <h3 className="Loading">Loading...</h3>
+          <p>Fetching cards: {fetchProgress}/10</p>
+          </div>
         )}
       </div>
     </div>
