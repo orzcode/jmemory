@@ -43,8 +43,8 @@
 	border: 2px solid black;
 	cursor: pointer;
 	user-select: all;
-	width: clamp(280px, 35vw, 360px);
-	height: clamp(340px, calc(240px + 20vw), 460px);
+	width: clamp(280px, 35vw, 320px);
+	height: clamp(340px, calc(240px + 20vw), 420px);
 	text-align: center;
 	background-color: var(--header);
 	transition: transform 0.1s, box-shadow 0.1s;
@@ -81,11 +81,11 @@ h3 {
 
 .CardMeaningsDiv {
 	font-size: clamp(1.7rem, 4vw, 2.2rem);
-	width: 100%;
+	max-width: 80%;
 	ul {
 		list-style-position: outside;
 		list-style-type: "🍙";
-		padding-left: 3rem;
+		padding-left: 1rem;
 	}
 }
 
@@ -98,8 +98,8 @@ hr {
 }
 
 .CardExampleDiv {
-	font-size: clamp(1.7rem, 2vw, 2rem);
-	padding-top: 10px;
+	font-size: clamp(1.7rem, 2vw, 1.8rem);
+	padding-top: 8px;
 	color: rgba(0, 0, 0, 0.8);
 }
 

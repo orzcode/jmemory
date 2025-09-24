@@ -201,7 +201,8 @@ button {
     auto-fit,
     minmax(calc(28rem + 3vw), 1fr)
   );
-  gap: 4rem 0rem;
+  gap: 4rem calc(0.25rem + 0.25vw);
+  max-width: 100%;
   padding: 2rem 0;
   align-items: center;
   justify-items: center;
